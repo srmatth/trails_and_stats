@@ -1,0 +1,289 @@
+Position,First Name,Last Name,City,State,Age,Gender,Division Place,Time
+1,Ryan,Raff,Flagstaff,AZ,24,M,1,3:41:24
+2,David,Roche,Boulder,CO,35,M,2,3:44:45
+3,Makai,Clemons,San Diego,CA,27,M,3,3:52:14
+4,Joey,Defeo,Flagstaff,AZ,25,M,4,3:56:11
+5,Adam,Dalton,Nogales,AZ,30,M,5,3:56:38
+6,Bryce,Brooks,Phoenix,AZ,28,M,6,4:12:28
+7,Nick,Coury,Scottsdale,AZ,36,M,7,4:29:06
+8,Ryan,Hansen,Flagstaff,AZ,30,M,8,4:30:17
+9,Megan,Roche,Boulder,CO,33,F,1,4:30:25
+10,Pedro,Gomes,Scottsdale,AZ,39,M,9,4:36:57
+11,Ross,Kiewiet,Phoenix,AZ,34,M,10,4:38:06
+12,Benjamin,Cook,Flagstaff,AZ,43,M,11,4:43:05
+13,Zachary,Bates,Snowflake,AZ,22,M,12,4:47:26
+14,Aaron,Barber,Phoenix,AZ,36,M,13,4:52:51
+15,Peter,Mortimer, , ,42,M,14,4:53:48
+16,Lindsay,Allison,Telluride,CO,28,F,2,4:55:32
+17,Abbie,Tuomi,Surprise,AZ,39,F,3,5:08:26
+18,Dylan,Leppert,Flagstaff,AZ,31,M,15,5:11:18
+19,Ryan,Kiewiet,Flagstaff,AZ,32,M,16,5:11:58
+20,Matthew,Kahn,Scottsdale,AZ,47,M,17,5:14:08
+21,Jean-Bernard,Flanagan,Gilbert,AZ,57,M,18,5:15:39
+22,Salynda,Heinl,Aspen Park,CO,39,F,4,5:16:39
+23,Ryan,Bailey,Surprise,AZ,26,M,19,5:17:30
+24,Luke,Watkins,Phoenix,AZ,40,M,20,5:19:27
+25,Chuck,Peterson,Flagstaff,AZ,38,M,21,5:20:56
+26,Eric,North,Chandler,AZ,34,M,22,5:22:09
+27,Sheldon,Oetter,Phoenix,AZ,42,M,23,5:22:26
+28,Steve,Sando,Peoria,AZ,39,M,24,5:33:00
+29,Benjamin,Lucas,Flagstaff,AZ,37,M,25,5:34:22
+30,Simon,Meffan-Main,Phoenix,AZ,50,M,26,5:38:57
+31,Sam,Burt,Phoenix,AZ,32,M,27,5:40:34
+32,Nicolas,Glatt,Idaho Springs,CO,40,M,28,5:42:05
+33,Daniel,Luedders,Phoenix,AZ,26,M,29,5:48:38
+34,Andrew,Stevens,Stourport,GBR,47,M,30,5:48:44
+35,Charlie,Coppola,Phoenix,AZ,29,M,31,5:49:20
+36,David,Madden,Pittsburgh,PA,37,M,32,5:51:24
+37,Rob,Hall,Flagstaff,AZ,61,M,33,5:56:00
+38,Eric,Stoppa,Scottsdale,AZ,29,M,34,5:56:46
+39,Joel,Thurston,Peoria,AZ,46,M,35,5:58:45
+40,Danny,Griffith,Flagstaff,AZ,25,M,36,6:06:11
+41,Todd,Schuster,Salt Lake City,UT,45,M,37,6:06:43
+42,Tanner,Morgan,Tucson,AZ,37,M,38,6:07:03
+43,Cortney,Haile,Golden,CO,47,F,5,6:07:25
+44,Jackie,Barnhart,Alamo,CA,29,F,6,6:07:45
+45,Nathan,Wallace,Corvallis,OR,46,M,39,6:10:03
+46,John,Bawden,Phoenix,AZ,53,M,40,6:12:05
+47,Karen,Krob,Aztec,NM,42,F,7,6:13:15
+48,Jaime,Dawes,Rio Rancho,NM,45,F,8,6:15:23
+49,Ben,Nelson,Chandler,AZ,32,M,41,6:16:23
+50,Gavin,McKenzie,Arvada,CO,40,M,42,6:16:54
+51,Albert,Shank,Phoenix,AZ,55,M,43,6:17:00
+52,Deb,Huntzinger,Flagstaff,AZ,48,F,9,6:18:04
+53,Tim,Kilpatrick,Scottsdale,AZ,27,M,44,6:20:59
+54,Jessie,Marman,Phoenix,AZ,29,F,10,6:21:09
+55,Isiah,Lucero,Chandler,AZ,23,M,45,6:24:23
+56,Ethan,Olsen,Flagstaff,AZ,19,M,46,6:24:24
+57,Paul,Bonnett,Phoenix,AZ,62,M,47,6:25:20
+58,Madeline,Rupe,Flagstaff,AZ,28,F,11,6:26:19
+59,Steven,Fletcher,Peoria,AZ,46,M,48,6:29:17
+60,Michael,Pilz,Sierra Vista,AZ,54,M,49,6:30:14
+61,Andrew,Zimdars,Prescott,AZ,46,M,50,6:33:35
+62,Eric,Moreno,Phoenix,AZ,42,M,51,6:37:17
+63,Tristan,Jones,Phoenix,AZ,44,M,52,6:37:21
+64,John,Murphy,Phoenix,AZ,50,M,53,6:38:37
+65,Eric,Towne,Peoria,AZ,31,M,54,6:39:05
+66,Matthew,Veretto,Payson,AZ,28,M,55,6:40:23
+67,Clinton,Thompson,McLean,VA,47,M,56,6:41:36
+68,Josh,Fowler,Mesa,AZ,42,M,57,6:42:48
+69,Brianna,Hudson,Phoenix,AZ,28,F,12,6:44:57
+70,Corey,Haygood,Scottsdale,AZ,41,M,58,6:47:10
+71,Nate,Nutter,Scottsdale,AZ,48,M,59,6:47:40
+72,Brian,Jefferson,Tucson,AZ,43,M,60,6:48:04
+73,Dave,Schuneman,Duluth,MN,46,M,61,6:49:48
+74,Sophie,Rouge,Albuquerque,NM,26,F,13,6:49:54
+75,Todd,Schultz,Flagstaff,AZ,55,M,62,6:50:22
+76,Sarah,McGraw,Phoenix,AZ,45,F,14,6:51:31
+77,Roy,Quinn,Fallbrook,CA,43,M,63,6:52:01
+78,Michael,Roberts,Flagstaff,AZ,58,M,64,6:53:38
+79,Paul,Sikoski,West Melbourne,FL,45,M,65,6:56:34
+80,Andrew,Weiner,Scottsdale,AZ,40,M,66,6:57:08
+81,Lindsey,Dippold,Phoenix,AZ,43,F,15,6:57:29
+82,Raul,Martinez,Peoria,AZ,40,M,67,6:57:45
+83,Becki,Beaupre,Surprise,AZ,53,F,16,6:58:10
+84,Nora,Robichaud,Brentwood,NH,27,F,17,6:58:19
+85,Don,Brady,Woodland Park,CO,64,M,68,7:00:01
+86,John,Kruelle,Glendale,AZ,60,M,69,7:00:32
+87,Katie,Polkinghorne,Yuma,AZ,28,F,18,7:02:34
+88,Tyler,Eversaul,Fort Collins,CO,32,M,70,7:03:59
+89,Kyle,Turano,Phoenix,AZ,42,M,71,7:05:49
+90,Luke,Pogue,Goodyear,AZ,52,M,72,7:05:56
+91,William,Hye,Phoenix,AZ,45,M,73,7:07:15
+92,Michaela,Miner,Custer,SD,29,F,19,7:08:18
+93,Josh,Welch,Ravenwood,MO,40,M,74,7:08:50
+94,Jaclyn,Jacobi,Phoenix,AZ,33,F,20,7:09:01
+95,Logan,Johnson,Scottsdale,AZ,23,M,75,7:09:17
+95,Juana,Blanco,Gilbert,AZ,48,F,21,7:09:17
+97,Rich,Colfack,Austin,TX,53,M,76,7:09:22
+98,Lucas,Kocak,Northfield,MN,42,M,77,7:09:34
+99,John,Carter,Phoenix,AZ,63,M,78,7:10:44
+100,Rhonda,Overley,Surprise,AZ,46,F,22,7:10:45
+101,Daniel,Bunch,Flagstaff,AZ,57,M,79,7:12:14
+102,Patrick,Nosal,Gilbert,AZ,34,M,80,7:12:35
+103,Jonathan,Marcum,Crestwood,KY,47,M,81,7:12:48
+104,Mike,Wilke,Tucson,AZ,60,M,82,7:14:14
+105,Rod,McBride,Peoria,AZ,59,M,83,7:14:35
+106,Sabrina,Huelga,Scottsdale,AZ,31,F,23,7:14:50
+107,Larry,Steller,Phoenix,AZ,57,M,84,7:15:20
+108,Deborah,Hamberlin,Tempe,AZ,55,F,24,7:15:40
+109,Perry,Zoumas,Newnan,AZ,21,M,85,7:16:11
+110,Suraj,Tuladhar,Phoenix,AZ,40,M,86,7:16:40
+111,Luz,Ramirez,Glendale,AZ,41,F,25,7:17:28
+112,Tim,McColley,Peoria,AZ,40,M,87,7:17:59
+113,Bob,Longmire,Mesa,AZ,40,M,88,7:20:34
+114,Steve,Howard,Peoria,AZ,55,M,89,7:21:55
+115,Andrea,Hicks,Elm Grove,WI,50,F,26,7:22:11
+116,Tom,Tope,Glendale,AZ,51,M,90,7:24:26
+117,Ursula,Hanna,Prescott Valley,AZ,47,F,27,7:26:08
+118,Cathy,Pearce,Tucson,AZ,61,F,28,7:27:15
+119,Paula,Olson,Prescott,AZ,54,F,29,7:31:39
+120,Constance,Wannamaker,El Paso,TX,51,F,30,7:32:08
+121,Terri,Rashid,Prescott,AZ,57,F,31,7:32:23
+122,Kevin,Dieu,Chino Valley,AZ,40,M,91,7:32:26
+123,Denise,Dohrmann,Gilbert,AZ,43,F,32,7:33:19
+124,Jourdy,Thro,Mesa,AZ,46,M,92,7:34:45
+125,Courtney,Smith,Glendale,AZ,42,F,33,7:35:24
+126,Marco,Pontes,Gilbert,AZ,57,M,93,7:37:45
+127,Tosh,Ueda,Scottsdale,AZ,62,M,94,7:38:16
+128,P.J.,Pethalsky,Payson,AZ,48,M,95,7:39:57
+129,Jessica,Perez,Scottsdale,AZ,49,F,34,7:40:23
+130,Mark,Sunman,Phoenix,AZ,47,M,96,7:42:14
+131,Keith,Neubauer,Swisher,IA,52,M,97,7:42:28
+132,Jessie,Ziegler,Phoenix,AZ,40,F,35,7:43:03
+133,Matt,Holton,New River,AZ,45,M,98,7:43:38
+134,Dominic,Valente,Phoenix,AZ,30,M,99,7:43:57
+135,Andy,Jones-Wilkins,Wilson,AR,56,M,100,7:43:58
+136,Hans,Meyer,Phoenix,AZ,37,M,101,7:44:24
+137,Kaileigh,Phelps,Phoenix,AZ,26,F,36,7:44:27
+138,James,Buesing,Peoria,AZ,46,M,102,7:48:40
+139,Camden,Gill,Conroe,TX,22,M,103,7:49:07
+140,Jason,Baum,Flagstaff,AZ,37,M,104,7:49:25
+141,Albert,Frederick,Scottsdale,AZ,53,M,105,7:49:37
+142,Luis,Mancilla,Phoenix,AZ,48,M,106,7:49:42
+143,Scott,Mason,Mesa,AZ,56,M,107,7:49:48
+144,Taran,Doty,Gilbert,AZ,51,M,108,7:50:33
+145,Jim,Hunt,Phoenix,AZ,55,M,109,7:53:17
+146,Wyatt,Begay,Mesa,AZ,27,M,110,7:53:42
+147,Russell,Petek,Mesa,AZ,63,M,111,7:53:49
+148,Beau,Hartwell,Scottsdale,AZ,43,M,112,7:56:27
+149,Sam,Loveless,Yuma,AZ,56,M,113,7:56:30
+150,Jessica,Godkin,Prescott,AZ,37,F,37,7:56:34
+151,Christian,Olsen,Gilbert,AZ,17,M,114,7:56:51
+152,Courtney,Jones,Gilbert,AZ,48,F,38,7:57:05
+153,James,Fowler,Chandler,AZ,65,M,115,7:59:07
+154,Michael,Grant,San Francisco,CA,42,M,116,8:01:42
+155,John,Hendrix,Show Low,AZ,62,M,117,8:01:55
+156,Lauren,Bounds,Scottsdale,AZ,49,F,39,8:02:22
+157,Lucero,Cabrera,Phoenix,AZ,46,F,40,8:03:38
+158,Alynn,Davis,Flagstaff,AZ,49,F,41,8:04:16
+159,Justin,Loveall,Bagdad,AZ,32,M,118,8:05:18
+160,Misti,Thomas,Peoria,AZ,41,F,42,8:05:48
+161,Steve,Deremer,Prescott,AZ,67,M,119,8:06:45
+162,Brian,Laurent,Albuquerque,NM,45,M,120,8:07:08
+163,Stacie,Cerotsky,Phoenix,AZ,43,F,43,8:07:40
+164,Jackson,Graves,Queen Creek,AZ,31,M,121,8:07:46
+165,Jonathan,Bullock,Phoenix,AZ,48,M,122,8:08:19
+166,Laura,Mathis,Scottsdale,AZ,41,F,44,8:08:51
+167,Bill,Rusk,Cave Creek,AZ,36,M,123,8:08:59
+168,Michael,Deras,San Diego,CA,55,M,124,8:10:17
+169,Gary,Prochelo,Scottsdale,AZ,60,M,125,8:11:08
+170,David,Kornmann,Tucson,AZ,55,M,126,8:14:06
+171,Mark,Lowe,Phoenix,AZ,56,M,127,8:15:33
+172,John,Maroushek,Mesa,AZ,57,M,128,8:15:55
+173,Senovia,Baca,Mesa,AZ,61,F,45,8:15:57
+174,Joe,Moreno,Cypress,CA,46,M,129,8:17:59
+175,James,Sample,Flagstaff,AZ,65,M,130,8:18:07
+176,Jessica,Owen,Chino Valley,AZ,47,F,46,8:18:13
+177,Amanda,Templeton,Surprise,AZ,36,F,47,8:19:23
+178,Kevin,Berneburg,Phoenix,AZ,32,M,131,8:19:33
+179,Bryan,Fenster,Peoria,AZ,47,M,132,8:21:49
+180,Indira,Garcia,Mesa,AZ,52,F,48,8:22:44
+181,Carl,Vasil,Litchfield Park,AZ,46,M,133,8:23:06
+182,Daniel,High,Chandler,AZ,63,M,134,8:24:13
+183,Ryan,Williams,Peoria,AZ,41,M,135,8:25:11
+184,Courtney,Anderson,Phoenix,AZ,48,F,49,8:25:40
+185,Patricia,Hamilton,Phoenix,AZ,58,F,50,8:27:51
+186,Summer,Kastning,Apache Junction,AZ,22,F,51,8:28:10
+187,Susan,Rodgers,Tempe,AZ,56,F,52,8:28:42
+188,Eric,Wolfe-Schacter,Buda,TX,45,M,136,8:29:02
+189,Morgan,Roper,Tucson,AZ,33,M,137,8:30:17
+190,Mercedes,Cimino,Mesa,AZ,53,F,53,8:30:20
+191,Jacob,Wilkinson,Phoenix,AZ,44,M,138,8:30:42
+192,Mary,Levy,Paradise Valley,AZ,48,F,54,8:32:14
+193,Brittney,Dodd,Scottsdale,AZ,34,F,55,8:34:04
+194,Tricia,McBride,Gilbert,AZ,52,F,56,8:37:32
+195,Joshua,Lobo,Phoenix,AZ,59,M,139,8:37:33
+196,Adam,Brown,Scottsdale,AZ,39,M,140,8:37:52
+197,John,Racer,Phoenix,AZ,43,M,141,8:38:31
+198,Benjamin,Bromberg,Phoenix,AZ,38,M,142,8:39:18
+199,Bella,Badar,Tucson,AZ,20,F,57,8:40:57
+200,Chris,Ritchie,Peoria,AZ,55,M,143,8:40:59
+201,Eric,Ritchie,Peoria,AZ,26,M,144,8:41:01
+202,Lexie,Lanphear,Kansas City,MO,29,F,58,8:41:51
+203,Randi,Larson,Scottsdale,AZ,48,F,59,8:44:05
+204,Sarah,Stangl,Maple Grove,MN,37,F,60,8:44:06
+205,Karen,Bonnett-Natraj,Auburn,CA,67,F,61,8:44:21
+206,Nattu,Natraj,Auburn,CA,60,M,145,8:46:17
+207,Shannon,Bryan,Tempe,AZ,56,M,146,8:47:06
+208,Charles,Lanphear,Independence,MO,29,M,147,8:47:42
+209,Mark,Turkovich,Phoenix,AZ,62,M,148,8:48:15
+210,Joseph,Haist,Charlestown,IN,47,M,149,8:48:18
+211,Douglas,Eggleston,Scottsdale,AZ,63,M,150,8:48:20
+212,Don,Melton,Phoenix,AZ,53,M,151,8:48:25
+213,Donald,Scott,Phoenix,AZ,52,M,152,8:49:04
+214,Andre,Lee,Tempe,AZ,53,M,153,8:49:57
+215,Kalyan,Raman,Glendale,AZ,61,M,154,8:50:00
+216,Heather,Johnson,Tempe,AZ,44,F,62,8:50:51
+216,Telford,Chapman,Mesa,AZ,57,M,155,8:50:51
+218,Tyler,Kolby,Scottsdale,AZ,34,M,156,8:53:02
+219,Heidi,Puckett,Surprise,AZ,35,F,63,8:53:15
+219,Berenice,Hernandez,Surprise,AZ,46,F,63,8:53:15
+221,Gary,Rivers,Phoenix,AZ,49,M,157,8:54:28
+222,Katelyn,St. Sauveur,Tempe,AZ,35,F,65,8:54:56
+223,Nicole,Ostrom,Litchfield Park,AZ,41,F,66,8:58:02
+224,Jen,Laughlin,Buckeye,AZ,48,F,67,8:58:03
+225,Joanna,Buesen,Surprise,AZ,46,F,68,9:00:10
+226,Spencer,Fawley,Scottsdale,AZ,42,M,158,9:00:43
+227,Brett,Barker,Gilbert,AZ,59,M,159,9:01:50
+228,Erin,Doom,Wichita,KS,50,M,160,9:05:31
+229,Gretchen,Lowery,Fountain Hills,AZ,54,F,69,9:05:35
+230,Melvin,Betani,Peoria,AZ,68,M,161,9:06:34
+231,Charlotte,Bouyssou,Gilbert,AZ,39,F,70,9:06:47
+232,Christy,Olsen,Gilbert,AZ,38,F,71,9:06:49
+233,Amy,Williams,Gilbert,AZ,42,F,72,9:06:51
+234,Tyler,Herndon,Mesa,AZ,31,M,162,9:07:14
+235,Tim,Herndon,Mesa,AZ,25,M,163,9:07:16
+236,Geoffrey,Foote,Chandler,AZ,55,M,164,9:08:45
+237,Daniel,Ellis,Glendale,AZ,40,M,165,9:09:26
+238,Douglas,Eby,Lake City,CO,29,M,166,9:10:23
+238,Sarah,Eby,Lake City,CO,30,F,73,9:10:23
+240,Christina,Pacheco,Phoenix,AZ,55,F,74,9:12:37
+240,Hilary,Van Der Stroom,Tempe,AZ,47,F,74,9:12:37
+242,Eric,Hass,Huntington Beach,CA,54,M,167,9:16:42
+243,Marcel,Van Der Stroom,Tempe,AZ,46,M,168,9:16:47
+244,Kelly,McFadden,Chandler,AZ,33,F,76,9:17:45
+245,Andrew,Marquardt,Flagstaff,AZ,57,M,169,9:27:46
+246,Dana,Frank,Prescott,AZ,61,F,77,9:27:51
+246,Brenda,Geilen,Sun City,AZ,52,F,77,9:27:51
+248,Tobby,Moran,Phoenix,AZ,60,M,170,9:35:26
+249,Candice,Graciano,Saddle River,NJ,42,F,79,9:37:42
+250,Michael,Graciano,Saddle River,NJ,40,M,171,9:37:43
+251,Charles,Jennings,Mesa,AZ,56,M,172,9:38:21
+252,Kaivan,Mangouri,Phoenix,AZ,36,M,173,9:39:16
+253,Robert,Martin,Anthem,AZ,54,M,174,9:47:21
+254,Rebecca,Garbade,Chino Valley,AZ,46,F,80,9:48:18
+255,Mark,Dangerfield,Mesa,AZ,73,M,175,9:57:43
+255,Christian,Schroeder,Flagstaff,AZ,47,M,175,9:57:43
+257,Michael,Amuso,Phoenix,AZ,58,M,177,9:59:17
+258,Lindsay,Ake,Mesa,AZ,34,F,81,9:59:22
+259,Brad,Brown II,Mesa,AZ,28,M,178,9:59:23
+260,Marci,Prevatil,Peoria,AZ,59,F,82,10:01:11
+261,Connor,Crook,Los Alamitos,CA,26,M,179,10:13:38
+261,Gisella,Mendoza,Seal Beach,CA,26,F,83,10:13:38
+263,Michael,Hopkins,Tempe,AZ,45,M,180,10:22:28
+264,Brandon,Pham,Sugar Land,TX,42,M,181,10:23:01
+265,Josh,Birk,Sun City,AZ,47,M,182,10:24:10
+266,Isaiah,Jacobs,Scottsdale,AZ,27,M,183,10:24:18
+267,Darryl,Ferra,Litchfield Park,AZ,39,M,184,10:25:37
+268,Talor,Scott,Scottsdale,AZ,26,M,185,10:25:38
+269,Jim,Witcombe,Farmington,NM,64,M,186,10:25:51
+270,Lori,Robinson,Queen Creek,AZ,49,F,84,10:32:35
+271,Daniel,Hernandez,Phoenix,AZ,55,M,187,10:34:12
+272,Andrew,Sandoz,Chandler,AZ,26,M,188,10:36:51
+273,Bekah,Wilhelm,Phoenix,AZ,38,F,85,10:40:29
+274,Lindsey,Ramos,Litchfield Park,AZ,43,F,86,10:40:31
+275,Steven,Crawford,Mesa,AZ,51,M,189,10:44:13
+276,Amy,Littler,Gilbert,AZ,55,F,87,10:45:33
+277,Teena,Villagomez,Tempe,AZ,62,F,88,10:45:44
+278,Yvonne,Atencio,Phoenix,AZ,54,F,89,10:49:09
+279,Alfredo,Martinez,El Mirage,AZ,34,M,190,10:50:23
+280,Pauline,Menefee,Prescott,AZ,52,F,90,10:52:28
+281,Jeremy,Harper,Laveen,AZ,34,M,191,10:52:47
+282,Lisa,Pozzoni,Tempe,AZ,53,F,91,11:00:35
+283,Jamie,Stewart,Glendale,AZ,40,F,92,11:02:36
+284,Mary,Reid,Flagstaff,AZ,70,F,93,11:07:52
+,,,,,,,,
+0,Alicia,Robeson,Glendale,AZ,54,F,0,0
+0,Jeff,Lee,Mesa,AZ,42,M,0,0
+0,Daniel,Gunnell,Alamo,CA,31,M,0,0

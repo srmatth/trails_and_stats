@@ -1,0 +1,185 @@
+Position,First Name,Last Name,City,State,Age,Gender,Division Place,Time
+1,Tyler,Green,Portland,OR,40,M,1,6:51:24
+2,Blake,Slattengren,Seattle,WA,28,M,2,7:23:15
+3,Casey,Weinman,Eugene,OR,34,M,3,8:02:04
+4,Colin,Macfarlane,Portland,OR,34,M,4,8:02:26
+5,Rachel,Drake,Portland,OR,32,F,1,8:13:56
+6,Jace,Ives,Ashland,OR,40,M,5,8:14:15
+7,Sarah,Allaben,Trout Lake,WA,25,F,2,8:30:55
+8,Remi,Delille,Sammamish,WA,42,M,6,8:52:27
+9,Andrew,Sheridan,Eugene,OR,35,M,7,9:02:15
+10,Rachel,Hawkins,Glide,OR,31,F,3,9:08:11
+11,Jake,Nowosatka,Seattle,WA,33,M,8,9:09:43
+12,Ryan,Thrower,Seattle,WA,37,M,9,9:14:56
+13,Ryan,Wendel,Golden,CO,33,M,10,9:18:17
+14,Catherine,Leclair,Los Angeles,CA,34,F,4,9:25:11
+15,Ryan,Norton,Portland,OR,41,M,11,9:38:47
+16,Kevin,Grigg,Rossland,BC,43,M,12,9:50:02
+17,Anthony,Longo,Boulder,CO,24,M,13,9:52:41
+18,Prashanth,Narasimhan,Portland,OR,28,M,14,9:58:25
+19,Arran,Fagan,Portland,OR,28,M,15,10:02:25
+20,Paul,Morrow,Beaverton,OR,43,M,16,10:09:55
+21,Hans,Von Briesen,Warren,VT,38,M,17,10:18:19
+22,Gordon,Freeman,Hood River,OR,39,M,18,10:19:07
+23,Kaden,Coleman,Alpine,UT,24,M,19,10:23:54
+24,Justin,Traver,Hood River,OR,43,M,20,10:30:54
+25,Anders,Meyer,Corbett,OR,37,M,21,10:31:43
+26,Chase,Pommerville,Santa Barbara,CA,36,M,22,10:34:24
+27,Doria,Unrau,Seattle,WA,24,F,5,10:34:37
+28,Neil,McManaway,Portland,OR,45,M,23,10:40:12
+29,Brandon,Sullivan,Signal Mountain,TN,42,M,24,10:42:18
+30,Patrick,McKinney,Portland,OR,39,M,25,10:52:08
+31,Leah,Brown,Portland,OR,36,F,6,10:52:11
+32,Steve,Canelis,Healdsburg,CA,47,M,26,10:57:09
+33,Taylor,Carr,Hood River,OR,43,M,27,10:58:16
+34,Derek,Rotz,Portland,OR,50,M,28,10:59:07
+35,Kurtis,Wilsey,Seattle,WA,53,M,29,11:02:56
+36,Margaret,Rosner,Seattle,WA,25,F,7,11:04:48
+37,Christopher,Meierling,San Francisco,CA,38,M,30,11:13:20
+38,Andy,Jenck,Portland,OR,27,M,31,11:13:34
+39,Bret,Glavin Olsen,Tumwater,WA,37,M,32,11:16:51
+40,Roman,Gratteri,Hillsboro,OR,48,M,33,11:18:04
+41,John,Cernava,Salem,OR,41,M,34,11:19:42
+42,Sarah,Krueger,Portland,OR,47,F,8,11:25:53
+43,Martin,Allen,Portland,OR,36,M,35,11:27:06
+44,Eric,Cabral,Portland,OR,38,M,36,11:35:41
+45,David,Fee,Portland,OR,50,M,37,11:38:55
+46,Marla,Glass,Bellevue,WA,36,F,9,11:40:26
+47,Krishna,Beemanapalli,Beaverton,OR,27,M,38,11:40:55
+48,Paul,Lask,Newport,OR,40,M,39,11:45:16
+49,Lewie,Taylor,Santa Monica,CA,25,M,40,11:49:26
+50,Allison,Duane,Plainsboro,NJ,23,F,10,11:54:02
+51,Karen,Weintraub,Chico,CA,39,F,11,11:54:28
+52,Dominic,Rossi,Issaquah,WA,34,M,41,11:58:25
+53,Shannon,Rolbiecki,Tacoma,WA,44,F,12,12:06:41
+54,Waylon,Fuller,Portland,OR,45,M,42,12:14:09
+55,Tyler,Rocha,Seattle,WA,27,M,43,12:15:01
+56,Gracie,Lynne,Eugene,OR,32,F,13,12:15:33
+57,Paul,Devito,Portland,OR,27,M,44,12:17:33
+58,Martin,Forde,Los Angeles,CA,30,M,45,12:18:03
+59,Danielle,Perry,Portland,OR,41,F,14,12:19:31
+60,Terrance,Duong,Renton,WA,36,M,46,12:19:50
+61,Taylor,Barbo,Murray,UT,31,F,15,12:26:13
+62,Calvin,Doner,Forest Grove,OR,38,M,47,12:27:45
+63,Carshena,Harvin,Lakewood,WA,44,F,16,12:31:43
+64,Vahan,Michaelian,Salem,OR,43,M,48,12:33:05
+65,Saulius,Eidukas,Bend,OR,57,M,49,12:33:23
+66,Jordan,Reid,Rockaway Beach,OR,32,M,50,12:33:34
+67,Ali,Tanguay,Boulder,CO,36,F,17,12:34:18
+68,Alexandria,Smith,Portland,OR,31,F,18,12:35:38
+69,Rachel,Parks,Lakewood,WA,42,F,19,12:36:15
+70,Nicholas,Thomson,Hillsboro,OR,37,M,51,12:36:38
+71,Michael,Peterson,Vancouver,WA,40,M,52,12:45:59
+72,Jessica,Daniel,San Francisco,CA,38,F,20,12:46:21
+73,Denzil,Jennings,Gresham,OR,42,M,53,12:47:34
+74,Justin,Sims,Portland,OR,36,M,54,12:52:15
+75,Griffin,Lake,Vancouver,WA,27,M,55,12:52:32
+76,Emma,Van Beuningen,Portland,OR,29,F,21,12:59:00
+77,Marta,Fisher,White Salmon,WA,49,F,22,13:00:14
+78,Eileen,Gottemoeller,Brier,WA,37,F,23,13:01:35
+79,Celeste,Laforme,Boise,ID,43,F,24,13:02:30
+80,Taylor,Hickernell,Sherwood,OR,30,M,56,13:05:29
+81,Taylor,Neal,Chattaroy,WA,38,M,57,13:06:29
+82,Dennis,Ellis,Molalla,OR,40,M,58,13:08:06
+83,Nathan,Dickson,Saskatoon,SK,37,M,59,13:10:42
+84,Adam,Arms,Portland,OR,52,M,60,13:11:01
+85,Adnan,Muranovic,Portland,OR,34,M,61,13:13:02
+86,Tanya,Donais,Calgary,AB,55,F,25,13:13:10
+87,Molly,Russell,Tacoma,WA,33,F,26,13:13:14
+87,Jessika,Scannell,Seattle,WA,36,F,26,13:13:14
+89,Jared,Brockett,Hayden,ID,35,M,62,13:14:18
+90,Andy,Sutterfield,Medford,OR,33,M,63,13:18:32
+91,Hannah,Pugh,Portland,OR,29,F,28,13:18:48
+92,Rick,Hollenbaugh,Bozeman,MT,59,M,64,13:19:14
+93,Adam John,Iverson,Seattle,WA,32,M,65,13:21:47
+94,Becky,Henning,Kansas City,MO,49,F,29,13:23:40
+95,Brian,Potwin,Bend,OR,44,M,66,13:23:41
+96,Kelsie,Ellingson,Lauderdale,MN,33,F,30,13:25:09
+96,Jakob,Ellingson,Lauderdale,MN,29,M,67,13:25:09
+98,Nathan,Forester,La Ronge,SK,42,M,68,13:25:15
+99,Richard,Ross,Portola Valley,CA,32,M,69,13:25:51
+100,Zack,Yaguda,Lake Oswego,OR,39,M,70,13:27:52
+101,Ashley,Lloyd,North Vancouver,BC,27,F,31,13:28:37
+102,Mark,Friess,Lake Oswego,OR,51,M,71,13:40:12
+103,Goldy,Herbon,San Diego,CA,38,F,32,13:41:21
+104,Brian,Ushman,Yorkville,IL,43,M,72,13:41:56
+105,Matthew,Cavagnaro,Portland,OR,42,M,73,13:46:49
+106,Kelly,Jiang,Issaquah,WA,26,F,33,13:49:45
+107,Jordan,Haro,Portland,OR,33,M,74,13:50:01
+108,Luke,Brisebois,Saskatoon,SK,37,M,75,13:54:07
+109,Violeta,Ilieva,Seattle,WA,32,F,34,15:24:45
+109,Gwen,Straley,Seattle,WA,38,F,34,15:24:45
+,,,,,,,,
+0,Allan,Dushan,Beaverton,OR,60,M,0,0
+0,Tom,Rogozinski,Cannon Beach,OR,56,M,0,0
+0,Mike,Acer,Yardley,PA,62,M,0,0
+0,Jeremy,Anderson,Chimacum,WA,34,M,0,0
+0,Joseph,Pitt,Pendleton,OR,41,M,0,0
+0,Anastasia,Schmaltz,Columbia,MO,34,F,0,0
+0,Todd,Sears,Burlington,CT,62,M,0,0
+0,Tyler,Fikes,Portland,OR,33,M,0,0
+0,Alexander,Lesher,Seattle,WA,44,M,0,0
+0,Rebecca,Allen,Star,ID,48,F,0,0
+0,Braven,Allen,Star,ID,52,M,0,0
+0,Richard,Duke,Portland,OR,40,M,0,0
+0,Madeline,Pickering,Bend,OR,32,F,0,0
+0,Ry,Fryar,Cascade,ID,52,M,0,0
+0,Emily,Nickell,Portland,OR,27,F,0,0
+0,Sarah,Douglas,Seattle,WA,35,F,0,0
+0,Martin,Capeletto,Hood River,OR,40,M,0,0
+0,Robert,Banjavcic,Texarkana,TX,39,M,0,0
+0,Jean,Wescher,Carol Stream,IL,41,F,0,0
+0,Ryan,Perkins,Beaverton,OR,26,M,0,0
+0,Alicia,Valentyn,Portland,OR,55,F,0,0
+0,Tim,Blough,Oregon City,OR,56,M,0,0
+0,Doug,Leonard,Eugene,OR,50,M,0,0
+0,Emily,Hugo,St George,UT,39,F,0,0
+0,Ben,Wentz,Walla Walla,WA,36,M,0,0
+0,Zane,Blair,Tigard,OR,46,M,0,0
+0,Oliver,Haley,Kalispell,MT,34,M,0,0
+0,Khemera,Chean,Portland,OR,42,M,0,0
+0,Hannah,Roots,Victoria,BC,65,F,0,0
+0,Justin,Allison,Salem,OR,34,M,0,0
+0,David,Lazar,Seattle,WA,34,M,0,0
+0,Chad,Wilson,Albany,OR,42,M,0,0
+0,Emily,Greer,Seattle,WA,48,F,0,0
+0,Zach,Dunn,Beaverton,OR,42,M,0,0
+0,Mike,Stewart,Albany,OR,33,M,0,0
+0,Robert,Butler,Eagle Point,OR,40,M,0,0
+0,Aidan,Fryar,Provo,UT,24,M,0,0
+0,Dennis,Kao,Seattle,WA,42,M,0,0
+0,Mary,Gute,Seattle,WA,42,F,0,0
+0,Michael,Foster,White Plains,MD,49,M,0,0
+0,Candace,Nelson,Blaine,MN,33,F,0,0
+0,Jennifer,Johnstone,North Vancouver,BC,43,F,0,0
+0,Nikhil,Peri,Redwood City,CA,27,M,0,0
+0,Trevor,Cooper,Grand Rapids,MI,31,M,0,0
+0,Joseph,Augustyn,Eugene,OR,25,M,0,0
+0,John,Cooper,Portland,OR,33,M,0,0
+,,,,,,,,
+0,Patrick,Hiller,Hood River,OR,47,M,0,0
+0,Grant,Ritter,South Deerfield,MA,40,M,0,0
+0,Gordy,Higgins,Lincoln City,OR,55,M,0,0
+0,Siri,Lewis,Idaho Springs,CO,50,F,0,0
+0,Heather,Porter,Missoula,MT,29,F,0,0
+0,Meghan,Canfield,Corvallis,OR,63,F,0,0
+0,Scott,Pike,Kirkland,WA,50,M,0,0
+0,Nastassia,Barber,Seattle,WA,31,X,0,0
+0,Abigail,Lukowicz,Seattle,WA,30,F,0,0
+0,Melissa,Flores,Santa Barbara,CA,33,F,0,0
+0,Sean,Blanton,The Bluff,GA,38,M,0,0
+0,Megi,Rexhepaj,Seattle,WA,35,F,0,0
+0,Drew,Walters,Gresham,OR,31,M,0,0
+0,Israel,Romero,The Dalles,OR,33,M,0,0
+0,Jake,Huizinga,Tigard,OR,39,M,0,0
+0,Deanna,Doane,Jacksonville Beach,FL,26,F,0,0
+0,Stephanie,Mitchell,Fort Defiance,AZ,30,F,0,0
+0,David,White,Portland,OR,41,M,0,0
+0,Lindsay,Parsons,Abbotsford,BC,34,F,0,0
+0,Oscar,Fernandez,The Dalles,OR,23,M,0,0
+0,Abby,Ludwig,Colorado Springs,CO,24,F,0,0
+0,Nick,Johnson,Santa Monica,CA,32,M,0,0
+0,Gabriel,Herscu,Livermore,CA,49,M,0,0
+0,Cory,Hartman,Portland,OR,30,F,0,0
+0,Todd,Acosta,Salem,OR,34,M,0,0
+0,Stephanie,Weber,Buckley,WA,38,F,0,0

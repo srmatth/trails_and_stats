@@ -1,0 +1,436 @@
+Position,First Name,Last Name,City,State,Age,Gender,Division Place,Time
+1,Jason,Yang,Los Angeles,CA,33,M,1,4:56:34
+2,Ryan,Root,Lafayette,CO,33,M,2,5:06:59
+3,Gavin,Prior,Charlotte,NC,26,M,3,5:31:13
+4,Courtney,Olsen,Bellingham,WA,37,F,1,5:31:56
+5,Logan,Barrett,Jeffersonville,IN,31,M,4,5:35:59
+6,Harsha,Thirumurthy,Bala Cynwyd,PA,47,M,5,5:46:37
+7,Nicholas,Thompson,Brooklyn,NY,49,M,6,5:46:48
+8,Steven,Preston,California,MD,36,M,7,5:55:49
+9,Melissa,Tanner,Baltimore,MD,43,F,2,5:58:40
+10,Michael,Braun,Hudson,IL,29,M,8,5:59:00
+11,Matthew,Novak,Chicago,IL,34,M,9,6:04:40
+12,Andrea,Pomaranski,Wolverine Lake,MI,42,F,3,6:07:05
+13,Chris,Pedi,Durham,NC,37,M,10,6:07:07
+14,Ethan,Schipp,New York,NY,25,M,11,6:20:53
+15,Lisa,Kabat,Arvada,CO,45,F,4,6:29:40
+16,Christopher,Allen,Huntley,IL,51,M,12,6:29:45
+17,Marisa,Hird,Naperville,IL,38,F,5,6:34:57
+18,Amber,Arvidson,Reserve,NM,42,F,6,6:41:16
+19,Brooke,Bray,San Francisco,CA,48,F,7,6:44:49
+20,Chris,Galloway,McCordsville,IN,43,M,13,6:50:44
+21,Rachel,Ragona,Lake Elmo,MN,41,F,8,6:53:47
+22,Patrick,Riley,Des Moines,IA,51,M,14,6:55:45
+23,Glenn,Cowan,Montreal-West,QC,49,M,15,6:59:03
+24,Audrey,Lawrence,Issaquah,WA,35,F,9,7:00:06
+25,Jason,Teitloff,Clarksville,TN,43,M,16,7:00:25
+26,Scott,McElroy,Paducah,KY,38,M,17,7:00:57
+27,Ben,Zamzow,Byron Center,MI,42,M,18,7:09:53
+28,Pierre Antoine,Mathieu,Saint Louis,MO,39,M,19,7:22:05
+29,Bart,Schreck,Myrtle Beach,SC,42,M,20,7:24:13
+30,Seth,Hardwick,Somerset,KY,26,M,21,7:30:19
+31,Skyler,Giampa,St.Germain,WI,24,M,22,7:31:17
+32,Jennifer,Onuoha,Paducah,KY,33,F,10,7:36:46
+33,Brent,Riopelle,Ashwaubenon,WI,36,M,23,7:39:23
+34,Laura,Sheridan,Cape Girardeau,MO,45,F,11,7:39:45
+35,Diane,O'Toole,Chesterbrook,PA,57,F,12,7:42:37
+36,Alex,Batten,Rochester,IL,40,M,24,7:44:14
+37,Natalie,Eychaner,Chicago,IL,30,F,13,7:46:54
+38,Sara,Tannenbaum,Concord,NH,31,F,14,8:02:22
+39,Matt,Kevan,Zumbrota,MN,45,M,25,8:10:42
+40,William,Betts,Chicago,IL,41,M,26,8:13:41
+41,Timothy,Schenk,Kuttawa,KY,46,M,27,8:19:52
+42,Kamden,Romano,Huntley,IL,38,M,28,8:20:47
+43,Arnold,Lim,Mequon,WI,54,M,29,8:27:52
+44,Jimmie,Strahorn,Jenks,OK,31,M,30,8:28:18
+45,Brandon,Ambrose,Clarksville,TN,40,M,31,8:31:15
+46,Kris,Ying,Bloomington,IN,43,M,32,8:31:22
+47,Christian,Nissen,De Pere,WI,42,M,33,8:32:05
+48,Joseph,D,Champaign,IL,38,M,34,8:35:12
+49,Nicholas,McClenagan,Glen Carbon,IL,34,M,35,8:37:35
+50,Vicki,Gerrein,Union,KY,59,F,15,8:39:17
+51,Jen,Metcalf,Newburgh,IN,54,F,16,8:41:52
+52,Dustin,Barrett,O'fallon,IL,34,M,36,8:44:33
+53,Danielle,Hale,Monticello,IL,40,F,17,8:45:33
+54,Marina,Holter,Chicago,IL,30,F,18,8:49:29
+55,Corey,Adams,Raceland,LA,49,M,37,8:49:30
+56,Calvin,Jenkins,Champaign,IL,19,M,38,8:53:01
+57,Samuel,Lemmon,Beavercreek,OH,28,M,39,8:54:37
+58,Joseph,Zons,Pleasant Prairie,WI,58,M,40,8:56:34
+59,Kristin,Van Andel,Chicago,IL,48,F,19,8:57:40
+60,Nicholas,Willard,Caledonia,IL,42,M,41,8:59:29
+61,Jason,Fitzgerald, ,IL,61,M,42,9:00:55
+62,Brett,Mehringer,Washington,MO,50,M,43,9:02:57
+63,Eric,McCleave,Washington,MO,41,M,44,9:02:58
+64,Dan,Schaefer,Lake St Louis,MO,41,M,45,9:02:59
+65,Kenny,Speer,Novato,CA,52,M,46,9:08:01
+66,John,Bertram,Columbus,OH,61,M,47,9:08:21
+67,Mark,Krause,Villa Park,IL,57,M,48,9:08:44
+68,Amy,Lahey,Somerville,TN,57,F,20,9:09:52
+69,Brad,Nelson,Florence,AL,45,M,49,9:11:17
+70,Sharlet,Gilbert,Richmond,CA,73,F,21,9:13:59
+70,Logan,Spinka,Tamms,IL,35,M,50,9:13:59
+72,Frank,Midiri,Springfield,IL,44,M,51,9:14:00
+73,Andrew,Scharstein,Alexandria,KY,34,M,52,9:15:45
+74,Matthew,Boland,St Charles,MO,40,M,53,9:16:01
+75,James,King,Carbondale,IL,56,M,54,9:17:40
+76,Josh,Sisson,St. Louis,MO,39,M,55,9:18:06
+77,Jess,Hamblin,Petersburg,IL,39,F,22,9:18:16
+78,Ben,Baker,Boonville,IN,32,M,56,9:18:39
+79,Cameron,Willoughby,Shiloh,IL,34,M,57,9:20:25
+80,Charlie,Freed,Louisville,KY,31,M,58,9:23:27
+81,Mark,Kidd,Highland,IL,64,M,59,9:25:09
+82,Dylan,Cramer,Chicago,IL,28,M,60,9:27:01
+83,Joel,Hahn,Greenbrier,TN,38,M,61,9:27:49
+84,Chelsea,Smith,Foley,MO,29,F,23,9:29:07
+85,Melissa,Locke,Palos Hills,IL,40,F,24,9:31:04
+86,Joseph,Burchard,Lindenhurst,IL,31,M,62,9:33:46
+87,Nathan,Schingoethe,Itasca,IL,32,M,63,9:34:06
+88,David,Harris,Conway,AR,70,M,64,9:36:20
+89,Heather,Proft,Shelbyville,IN,42,F,25,9:38:09
+90,Catherine,Lynch,Spring,TX,34,F,26,9:39:23
+91,Travis,Redden,Highland,IL,40,M,65,9:39:25
+92,David,Jones,Murfreesboro,TN,73,M,66,9:40:39
+93,Jared,Padgett,Owensboro,KY,42,M,67,9:41:00
+94,Steph,Hill,Alexandria,VA,34,F,27,9:42:28
+95,Eddie,Steers,Birmingham,AL,27,M,68,9:43:01
+96,Christie,Brinker,Brookport,IL,39,F,28,9:44:54
+97,Ryan,Franks,Harrisburg,IL,48,M,69,9:44:56
+98,Chris,Winkleman,Harrisburg,IL,44,M,70,9:44:57
+99,Heath,Pinell,Memphis,TN,25,M,71,9:46:34
+100,Hayden,Pinell,Chelsea,AL,32,M,72,9:46:35
+101,Corey,Winking,Quincy,IL,49,M,73,9:47:39
+102,Phil,Smeigh,Centerville,IN,57,M,74,9:50:49
+103,Rich,Fela,Bloomington,IL,51,M,75,9:51:11
+104,Mikey,Davis,Sidney,IL,25,M,76,9:51:32
+105,Todd,Nitchman,Waynesville,MO,51,M,77,9:51:52
+106,Daniel,Midiri,Springfield,IL,39,M,78,9:54:01
+107,Kathy,Decker,Washington,IN,51,F,29,9:54:32
+108,Brenda,Cross,Chandler,IN,57,F,30,9:57:25
+109,Kevin,Shelton,Fort Branch,IN,36,M,79,10:04:16
+110,James,Christensen,Downers Grove,IL,51,M,80,10:09:12
+111,Robin,Johnson,Brandon,MN,42,F,31,10:09:16
+112,Craig,Buell,Huntington,WV,48,M,81,10:09:22
+113,Rebecca,Jones,Franklin,TN,39,F,32,10:10:17
+114,Madeline,Fox,St Louis,MO,26,F,33,10:10:32
+115,Mike,Lawrence,St. Jacob,IL,64,M,82,10:11:43
+116,James,Hensley,Lexington,KY,33,M,83,10:12:37
+117,Kirsten,Tidd,Saint Charles,MO,51,F,34,10:13:32
+118,Brandon,Parmer,Powell,OH,48,M,84,10:16:35
+119,Bryan,Lewis,Albany,OR,56,M,85,10:17:41
+120,Joe,Calvert,Studio City,CA,47,M,86,10:18:01
+121,Mark,Iversen,Mankato,MN,65,M,87,10:18:41
+122,John,Winkler,Santa Claus,IN,54,M,88,10:18:44
+123,Belinda,Young,Chatsworth,GA,55,F,35,10:19:14
+124,Sarah,Keesling,Dryden,MI,40,F,36,10:20:01
+125,Jarriett,Moore,Bowling Green,KY,49,M,89,10:20:02
+126,Naresh,Kumar,St. Louis,MO,42,M,90,10:20:43
+127,Matthew,Zaranti,Cypress,IL,41,M,91,10:23:46
+128,Tim,Westaway,Sarnia,ON,69,M,92,10:25:55
+129,Kara,Hourdas,Lexington,KY,50,F,37,10:26:21
+130,Ken,Halpin,West Lafayette,IN,43,M,93,10:26:42
+131,John,Piwetz,Elizabethtown,KY,52,M,94,10:26:53
+132,Howard,Schaub,Fort Thomas,KY,67,M,95,10:27:50
+133,Nicholas,Jahnke,Arlington Heights,IL,41,M,96,10:29:57
+134,Josh,Brown,Bardwell,KY,42,M,97,10:30:07
+135,Nicole,Long,Lexington,KY,50,F,38,10:31:36
+136,Joey,Bourisaw,Saint Louis,MO,37,M,98,10:33:00
+137,Jennifer,Scroggins,Union,KY,47,F,39,10:33:29
+138,Shannon,White,Big Lake,MN,46,F,40,10:34:50
+139,Ronald,Winton,Pelham,TN,41,M,99,10:35:21
+140,Melissa,Mauser,Fort Thomas,KY,39,F,41,10:36:23
+141,Dewayne,Moree,Cleveland,TN,44,M,100,10:36:52
+142,Josh,Higgins,Saint Peters,MO,32,M,101,10:38:08
+143,Lyndsey,Halik,Florence,KY,43,F,42,10:38:47
+144,Erin,Dial-Duran,Clinton,IA,38,F,43,10:40:31
+145,Keith,Roberts,Raleigh,IL,48,M,102,10:41:55
+146,Laura,Range,Paducah,KY,58,F,44,10:41:57
+147,Erin,Patterson,Saint Louis,MO,43,F,45,10:41:58
+148,Monica,Mittel,Louisville,KY,40,F,46,10:42:01
+149,Jason,Lerch,Ann Arbor,MI,41,M,103,10:42:21
+150,Joel,Grass,St. Louis,MO,34,M,104,10:45:42
+151,Jacob,O'Connor,Bel Aire,KS,23,M,105,10:45:56
+152,Dana,Kleinerman,Menlo Park,CA,39,F,47,10:47:01
+153,Katherine,Mueller,Melber,KY,57,F,48,10:47:02
+154,Glenn,Richardson,Louisville,KY,48,M,106,10:48:04
+155,Lisa,Hiday,Indianapolis,IN,60,F,49,10:48:07
+156,Charlotte,Schultz,Puryear,TN,19,F,50,10:48:30
+157,Leann,Staley,Rineyville,KY,46,F,51,10:48:39
+158,Crystal,Wheatley,Louisville,KY,48,F,52,10:48:40
+159,John,Benham,Mason,OH,52,M,107,10:49:22
+160,Brian,Deheer,Chicago,IL,24,M,108,10:49:24
+161,Cheryl,Webster,Huntsville,AL,62,F,53,10:50:41
+162,Matthew,Brantley,Chicago,IL,43,M,109,10:51:54
+163,Nichole,Reed,Rainsville,AL,46,F,54,10:53:03
+164,Mike,Samuelson,Lakeland,TN,59,M,110,10:53:22
+165,Ross,McLelland,Delaware,OH,29,M,111,10:57:24
+166,Renee,Guthrie,Harrison,OH,40,F,55,10:58:35
+167,Ryan,Carow,Germantown,WI,34,M,112,10:58:55
+168,Vicky,Cingolani,West Fork,AR,63,F,56,10:59:21
+169,Ben,Barth,Clinton,IL,48,M,113,11:00:45
+170,Kyle,Thompson,Charleston,IL,41,M,114,11:00:46
+171,Jimmy,Nielsen,Belleville,IL,50,M,115,11:01:30
+172,Chloe,Sims,Owensboro,KY,19,F,57,11:04:02
+173,Joe,Kovarik,Glen Carbon,IL,31,M,116,11:04:19
+174,Josh,Hendershot,Brighton,MI,37,M,117,11:04:35
+175,Andrea,Olive,Mississauga,ON,44,F,58,11:07:44
+176,Jason,Waggoner,Mattoon,IL,50,M,118,11:07:58
+177,Dylan,Hammons,Owensboro,KY,52,M,119,11:11:56
+178,Preston,York,Nashville,TN,29,M,120,11:16:06
+179,Samuel,Mallory,La Grange,IL,29,M,121,11:16:15
+180,Danny,Crossett,Jackson,TN,69,M,122,11:16:23
+181,Barbara,Ashe,Lotus,CA,75,F,59,11:17:47
+182,Lucy,Slovon,Silver Spring,MD,44,F,60,11:18:51
+183,Tyler,Taber,Marion,IL,35,M,123,11:22:42
+184,David,Large Jr,Terre Haute,IN,50,M,124,11:24:49
+185,Mike,McMillan,North Little Rock,AR,67,M,125,11:25:33
+186,Alan,McLain,Arlington,TX,60,M,126,11:26:59
+187,Jason,Green,Douglasville,GA,50,M,127,11:28:56
+188,Matthew,Casebolt,Owensboro,KY,44,M,128,11:30:27
+189,Jonnah,Angara,Oak Park,IL,53,F,61,11:31:52
+190,Mark,Mueller,Saint Peters,MO,43,M,129,11:32:24
+191,Kelsey,Robinson,Canton,MI,33,F,62,11:33:20
+192,Benjamin,Herbst,Saint Charles,MO,31,M,130,11:34:22
+193,Nicholas,Heisler,Jackson,MO,30,M,131,11:34:49
+194,Amy,Suffecool,Plainfield,IL,51,F,63,11:35:31
+195,Anthony,Walker,Doylestown,OH,58,M,132,11:37:11
+196,Kevin,Dorsey,Germantown,TN,53,M,133,11:37:29
+196,Kyle,Leggett,Mason,OH,36,M,133,11:37:29
+198,Natalie,Meador,Bloomington,IN,38,F,64,11:37:31
+199,Sheila,Brophy,Byron Center,MI,55,F,65,11:37:56
+200,Donna,Lutes,Lawrenceburg,IN,46,F,66,11:38:29
+201,Stalina,Gibson,New York,NY,41,F,67,11:38:52
+202,Chris,Cunningham,Rineyville,KY,46,M,135,11:39:09
+203,Jerry,Duong,University Place,WA,37,M,136,11:39:10
+204,Neil,Houser,Paducah,KY,38,M,137,11:39:24
+205,Justin,Hendrix,Elizabethtown,KY,38,M,138,11:40:05
+206,Minh,Do,Champaign,IL,50,M,139,11:43:17
+207,Faith,Nichols,Lexington,KY,40,F,68,11:44:05
+208,Julyssa,Martinez,Lake Saint Louis,MO,21,F,69,11:45:27
+209,Brandon,Baquet,Saint Jacob,IL,44,M,140,11:45:33
+210,Mark,Cihlar,Aspen,CO,66,M,141,11:46:12
+211,Michael,Smith,Bruceville,IN,55,M,142,11:46:55
+212,Viviana,Hernandez,Rineyville,KY,43,F,70,11:47:25
+213,Sarah,Powell,Comstock Park,MI,33,F,71,11:48:03
+214,Michelle,Foster,Nashville,TN,42,F,72,11:49:40
+215,Alexa,Boyce,Mason,MI,43,F,73,11:50:15
+216,Eric,Geren,Cleveland,TN,53,M,143,11:50:34
+216,Matt,Ryerson,Knoxville,TN,53,M,143,11:50:34
+218,Jeff,Salyer,Cleveland,TN,45,M,145,11:50:35
+219,Richard,Shelden,Louisville,KY,49,M,146,11:50:44
+220,Casey,Bernard,Louisville,KY,49,M,147,11:50:46
+221,Esmarie,Boyles,Cobden,IL,37,F,74,11:51:25
+222,Scott,Linker,Lawndale,NC,55,M,148,11:52:11
+223,April,Lillstrom,Chicago,IL,40,F,75,11:52:29
+224,Craig,Bowles,Saint Louis,MO,50,M,149,11:52:44
+224,Robert,Miller,St. Louis,MO,45,M,149,11:52:44
+226,Zebulon,Willoughby,Elizabethtown,KY,39,M,151,11:53:09
+227,Phillip,Asbell,Greencastle,IN,59,M,152,11:53:54
+228,Zach,Hicks,Mulkeytown,IL,34,M,153,11:54:29
+229,Daniel,Snider,Carterville,IL,31,M,154,11:56:22
+230,Francisco,Espinoza,Oak Lawn,IL,48,M,155,11:56:35
+231,Scott,Finley,Huntington,IN,66,M,156,11:59:32
+232,Mike,Kemp,Boonville,IN,53,M,157,12:04:49
+233,Jackson,Horn,Lexington,KY,23,M,158,12:05:12
+234,Richard,Ehrlich,Scott Afb,IL,31,M,159,12:08:24
+235,Collin,Ridgeway,Suwanee,GA,43,M,160,12:08:26
+236,Hal,Fuqua,Farmington,KY,63,M,161,12:14:05
+237,Beth,Little,Oxford,MS,42,F,76,12:14:49
+238,Molly,Falconer,Murphysboro,IL,45,F,77,12:15:11
+239,Brad,Wilkening,Marshalltown,IA,55,M,162,12:15:21
+240,Jaron,Graham,Beaverton,OR,41,M,163,12:16:47
+241,Jerry,Young,Elsah,IL,67,M,164,12:17:05
+242,Lorenzo,Rivera Jr,Chicago,IL,30,M,165,12:17:52
+243,Brad,Lael,Beardstown,IL,59,M,166,12:18:18
+244,Troy,Probst,Effingham,IL,37,M,167,12:19:42
+245,Kimberly,Zahasky,Middleton,WI,44,F,78,12:19:49
+246,Valerie,Hunt,Campbellsville,KY,39,F,79,12:19:55
+247,Jon,Blankenship,Columbia Falls,MT,51,M,168,12:20:09
+248,Anne,Davis,New York,NY,58,F,80,12:20:13
+249,Steven,Borcherding,Springfield,IL,72,M,169,12:20:28
+250,Skylar,Watson,Adel,IA,33,M,170,12:24:23
+251,Angie,Prinsen,Cedar Grove,WI,40,F,81,12:24:35
+252,Mara,Bliss,Grand Island,NE,38,F,82,12:24:45
+253,James,Dawson,Valley Head,AL,59,M,171,12:24:53
+254,Gabrielle,Dodd,Paducah,KY,39,F,83,12:25:19
+255,Ashish,Gupta,Silver Spring,MD,56,M,172,12:25:29
+256,Wendy,Gillick,Silver Spring,MD,55,F,84,12:25:30
+257,John,Digaetano,Crete,IL,53,M,173,12:25:53
+258,Reed,Laplante,Burlington,NC,44,M,174,12:26:31
+259,Fred,Smith,Richmond,IL,55,M,175,12:26:34
+260,Karen,Seguin,West Olive,MI,53,F,85,12:26:52
+261,Keithen,Branch,Paducah,KY,44,M,176,12:28:11
+262,Jana,Paul,Tulsa,OK,41,F,86,12:29:35
+263,Nathan,Blaylock,Vienna,IL,35,M,177,12:35:41
+264,Raul,Luevano,Honea Path,SC,45,M,178,12:36:23
+264,Rhonda,Luevano,Honea Path,SC,57,F,87,12:36:23
+266,Shane,Adams,Louisville,KY,35,M,179,12:39:03
+267,David,Couty,Equality,IL,40,M,180,12:40:22
+268,Tanya,Kidd,Owosso,MI,50,F,88,12:40:55
+269,Katherine,Fogelberg,Blacksburg,VA,51,F,89,12:41:09
+270,Douglas,Debenham,Las Vegas,NV,65,M,181,12:41:56
+271,Alexander,Abiang,Fayetteville,NC,58,M,182,12:42:56
+272,Joli,Vollers,Ames,IA,60,F,90,12:43:31
+273,Gerrie,Allabach,Fairview Heights,IL,41,M,183,12:45:39
+274,John,Calhoun,Elizabethtown,KY,37,M,184,12:45:47
+275,Sarah,Dixon,Eads,TN,48,F,91,12:47:23
+276,John,Buzansky,Jamison,PA,62,M,185,12:48:19
+277,Malv,Campbell,Bethesda,OH,61,M,186,12:51:40
+278,Nick,Kaminski,Burleson,TX,52,M,187,12:51:45
+279,Lindsey,Winton,Pelham,TN,35,F,92,12:53:30
+280,Mike,Hager,Grand Rapids,MN,40,M,188,12:54:23
+281,Alex,Bednarek,Great Lakes,IL,35,M,189,12:55:55
+282,Albert,Rinker,Bloomville,OH,62,M,190,12:56:39
+283,Bobbi,Montalvo,Fremont,MI,45,M,191,12:57:51
+284,Chris,Jacobs,Lexington,KY,41,M,192,13:03:11
+285,Beth,Meurer,Coopersville,MI,54,F,93,13:05:02
+286,Brad,Cope,Harrisburg,IL,47,M,193,13:05:17
+287,Tricia,Houpt,Benton,AR,55,F,94,13:06:43
+288,Michael,Montgomery,Franklin,TN,77,M,194,13:08:47
+289,Bill,Wahl,Ballwin,MO,43,M,195,13:09:50
+290,Nicole,Pizzi,Manor,TX,32,F,95,13:10:58
+291,David,Juarez,Joliet,IL,28,M,196,13:12:31
+292,Alfonso,Gonzalez,Lexington,KY,45,M,197,13:12:34
+293,Erin,Casler,Mount Juliet,TN,54,F,96,13:13:43
+294,Jen,Kehoe,Sun Prairie,WI,54,F,97,13:15:47
+295,Scott,Windhorst,Sullivan,IL,43,M,198,13:15:58
+296,Tobias,Hausman,Metropolis,IL,38,M,199,13:16:00
+297,Doug,Hettinger,Mattoon,IL,48,M,200,13:16:01
+298,Zac,McWhorter,Falkville,AL,45,M,201,13:16:04
+299,Phil,Stewart,Bethesda,MD,74,M,202,13:16:41
+300,Peter,Stoddart,Nobleton,ON,39,M,203,13:17:36
+301,Jeffrey,Dufour,Metropolis,IL,63,M,204,13:19:14
+302,Graciela,Garcia,Clarksville,TN,44,F,98,13:19:28
+303,April,Retherford,Windfall,IN,55,F,99,13:20:19
+304,Angie,Rhude,Morganfield,KY,59,F,100,13:27:02
+305,Bo,Marchionte,Niles,OH,52,M,205,13:27:18
+306,Taylor,Hrovat,Lyndonville,NY,33,F,101,13:28:17
+307,Blair,Hrovat,Terre Haute,IN,61,M,206,13:28:18
+307,Travis,Hrovat,Lyndonville,NY,36,M,206,13:28:18
+309,Steve,Horcharik,Springfield,IL,38,M,208,13:28:35
+310,Candy,Williams,Vinita,OK,46,F,102,13:28:38
+311,James,Payne,Sparta,TN,32,M,209,13:28:43
+312,Adam,Holt,Sturgis,KY,43,M,210,13:28:47
+313,Ryan,Clayton,Killen,AL,52,M,211,13:29:01
+314,Naomi,Copeland,Naperville,IL,44,F,103,13:31:06
+315,Simon,Anari,Bloomington,IL,20,M,212,13:32:07
+316,Ryan,Trenkamp,Cleveland,TN,29,M,213,13:33:16
+317,Letitia,Moffitt,Longview,IL,55,F,104,13:33:40
+318,Kenneth,Atchison,Talladega,AL,44,M,214,13:33:46
+319,Zachary,Stephens,Bourbonnais,IL,44,M,215,13:34:03
+320,Jeff,O'Connor,Kankakee,IL,58,M,216,13:34:04
+321,Lauryn,Hodge,Bradley,IL,23,F,105,13:34:05
+322,Ivan,Aviles,Hammond,IN,30,M,217,13:34:46
+323,Joshua,Freeman,Gallant,AL,42,M,218,13:35:45
+324,David,Townsend,Grand Rivers,KY,50,M,219,13:36:42
+325,Shane,Baker,Rockford,IL,46,F,106,13:37:47
+326,Joe,Gomez,Cobden,IL,58,M,220,13:39:39
+327,Chrissy,Whitten,Tuttle,OK,46,F,107,13:42:40
+328,Ron,Evans,Devon,PA,57,M,221,13:44:22
+329,Todd,Branson,Bainbridge,IN,60,M,222,13:44:56
+330,Michelle,Jachim,Downers Grove,IL,53,F,108,13:45:27
+331,Krista,Johnson,Plano,IL,50,F,109,13:45:29
+332,Erica,Pisciotto,St. Louis,MO,55,F,110,13:50:34
+333,S,Tucker,St Louis,MO,46,F,111,13:50:35
+334,Anthony,Gardner,Louisville,KY,61,M,223,13:57:07
+335,Juli,Aistars,Wauconda,IL,66,F,112,13:57:37
+336,Stan,Roberts,Lexington,OH,58,M,224,13:58:02
+337,David,Aguiar,Cincinnati,OH,41,M,225,14:05:49
+338,Dennis,Cantrell,Coatesville,IN,64,M,226,14:11:50
+339,Michael,Moore,Glen Carbon,IL,39,M,227,14:12:30
+340,Todd,Rose,Puryear,TN,62,M,228,14:15:22
+341,Charles,Vestal,Fisher,IL,25,M,229,14:15:33
+342,Cody,Moody,Fisher,IL,37,M,230,14:15:34
+343,Amanda,Winchell,Mount Vernon,IL,40,F,113,14:18:31
+344,Ryan,Vandewiel,Oak Forest,IL,29,M,231,14:20:01
+345,Michael,Girard,Morrison,CO,66,M,232,14:21:11
+346,Jt,Doran,Covington,KY,34,M,233,14:21:21
+347,Marjorie,Doran,Port Charlotte,FL,63,F,114,14:21:22
+348,Jennifer,Hoeting,Cincinnati,OH,49,F,115,14:22:31
+349,Ryan,Moyers,Cincinnati,OH,50,M,234,14:22:33
+350,Adrienne,Kennedy,Ladue,MO,55,F,116,14:25:21
+351,Lawrence,Chow,Centerville,OH,53,M,235,14:30:39
+352,John,Parrish,Gardendale,AL,48,M,236,14:30:50
+353,James,Culp,Port Perry,ON,66,M,237,14:36:00
+354,Kate,Klein,Chicago,IL,46,F,117,14:38:26
+355,Allison,Stark,Gainesville,GA,55,F,118,14:46:23
+356,Lewis,Stark,Gainesville,GA,57,M,238,14:46:24
+357,Jackie,Pomeroy,Golden,CO,72,F,119,14:46:34
+358,Alicia,Fitzgerrel,Union,KY,42,F,120,14:46:50
+359,Michael-Walter,Wildman,Indianapolis,IN,22,M,239,14:47:29
+360,Alison,Voltz,Huntley,IL,53,F,121,14:50:07
+361,Lauren,Sporleder,St.Louis Park,MN,27,F,122,15:03:24
+362,John,Konwinski,Chicago,IL,55,M,240,15:06:44
+363,Renee,Barr,Kimberly,WI,61,F,123,15:10:58
+364,Jeffrey,Morris,New Baden,IL,49,M,241,15:20:12
+365,Calvin,Gerrein,Saint Peters,MO,52,M,242,15:20:50
+366,Brandy,Tunbridge,Nicholasville,KY,39,F,124,15:25:16
+367,Lori,Gardner,Louisville,KY,62,F,125,15:29:32
+368,Molly,Sheridan,Green Valley,AZ,67,F,126,15:32:46
+369,Jackson,Carby,Bloomington,AL,20,M,243,15:39:21
+370,Dustin,Cooper,Burnsville,NC,48,M,244,15:43:40
+371,Sharon,Riggs,Fort Payne,AL,62,F,127,15:52:23
+372,David,Phillips,Plymouth,MN,73,M,245,16:17:40
+373,Ted,Wallace,Fairfield,IA,55,M,246,16:27:27
+374,Christie,Norton,Fort Payne,AL,43,F,128,16:30:34
+375,Wendy,Dockins,Loves Park,IL,45,F,129,16:30:37
+376,Alex,Mercer,Athens,IL,36,M,247,16:33:19
+377,Jason,Grover,Chatham,IL,40,M,248,16:33:33
+378,Marc,Frost,Indianapolis,IN,66,M,249,16:36:04
+379,Linda,Williams,Cottage Grove,MN,67,F,130,16:43:55
+380,Ryan,Mather,Chicago,IL,37,M,250,16:47:51
+380,Jesse,Bettis,Chicago,IL,36,M,250,16:47:51
+382,Karen,Straus,Evanston,IL,64,F,131,16:59:02
+383,Gwendolyn,Kelly-Kohnke,St. Louis Park,MN,48,F,132,17:22:25
+384,Sanjay,Mohanta,Brampton,ON,52,M,252,18:08:58
+385,Nathanael,Brady,Elizabethtown,KY,40,M,253,18:11:07
+386,Erin,Brady,Elizabethtown,KY,40,F,133,18:11:15
+387,Sherri,Lynn,Vienna,IL,50,F,134,18:56:49
+388,Darrell,Duke,Rockport,IN,52,M,254,18:56:54
+389,Edmund,Loy,Honolulu,HI,45,M,255,19:00:59
+390,Joyce,Ong,Bristow,VA,74,F,135,20:48:09
+391,Max,Roycroft,Rowlett,TX,60,M,256,21:00:49
+392,Ashley,Langley,Bloomington,IN,41,F,136,26:31:37
+393,Jameelah,Abdul-Rahim Mujaahid,Kennesaw,GA,56,F,137,28:39:38
+,,,,,,,,
+0,Shanna,Ambuehl,Dieterich,IL,37,F,0,0
+0,Chad,Hart,Owensboro,KY,38,M,0,0
+0,Daniel,Wells,Danville,KY,77,M,0,0
+0,Michael,Haviland,Ball Ground,GA,83,M,0,0
+0,Kelly,Leneave,Paducah,KY,47,M,0,0
+0,Kathleen,Blankenship,Columbia Falls,MT,50,F,0,0
+0,Scott,Isles,Terre Haute,IN,70,M,0,0
+0,Darrell,Murphy,Eureka,MO,50,M,0,0
+0,Leslie,Makepeace,Albuquerque,NM,35,F,0,0
+0,Heidi,Messbarger,Cincinnati,OH,50,F,0,0
+0,Kelly,Davisson,Madisonville,KY,57,F,0,0
+0,Frank,Davisson,Madisonville,KY,69,M,0,0
+0,Esteban,Bringas,Chicago,IL,53,M,0,0
+0,Jason,Conner,Columbia,MO,47,M,0,0
+0,Jackie,Franklin,Madisonville,KY,62,F,0,0
+0,Amelia,Driscoll,Mobile,AL,46,F,0,0
+0,Katie,Holtmann,Cincinnati,OH,43,F,0,0
+0,Gatlin,Holland,Birmingham,AL,29,M,0,0
+0,Kyle,Holder,Durand,IL,29,M,0,0
+0,Gerardo,Salamanca,Chicago,IL,29,M,0,0
+0,Jason,Hetzler,Quincy,IL,51,M,0,0
+0,Kara,Cole,Dover,TN,47,F,0,0
+0,Carrie,Pulliam,Springfield,TN,40,F,0,0
+0,Marty,Kanter-Cronin,Janesville,WI,65,M,0,0
+0,Kallin,Carolus Khan,Iowa City,IA,27,M,0,0
+0,Kellye,Stelling,Memphis,TN,56,F,0,0
+0,Martin,Cain,Chicago,IL,63,M,0,0
+0,Jenny,Morris,Harrisburg,IL,38,F,0,0
+0,Michael,Morris,Harrisburg,IL,42,M,0,0
+0,Nicole,Koser,Loves Park,IL,43,F,0,0
+0,Joshua,Maughon,Crestwood,KY,39,M,0,0
+0,James,Grounds,Brazil,IN,36,M,0,0
+0,Christopher,Meador,Bloomington,IN,39,M,0,0
+0,Gina,O'Connor,Kankakee,IL,52,F,0,0
+0,Kendel,Clark,Pleasantville,IA,31,M,0,0
+0,Cameron,Trout,Knightsville,AL,27,M,0,0
+0,Koty,Cawthon,Bluffs,IL,34,M,0,0
+0,Tiffany,Murry,Evansville,IN,32,F,0,0
+0,Ben,Campbell,Carlinville,IL,32,M,0,0
+0,James,Maglasang,Paducah,KY,32,M,0,0
+0,Hannah,O,Mayfield,KY,24,F,0,0

@@ -1,0 +1,30 @@
+Position,First Name,Last Name,City,State,Age,Gender,Division Place,Time
+1,Megan,Eckert,Santa,NM,37,F,1,270.836
+2,Ryan,Metivier,Auburn,ME,48,M,1,266.669
+3,Ryan,Snickles,Chandler,AZ,40,M,2,179.168
+4,Jameson,Collins,Eagle River,AK,40,M,3,154.168
+5,Jose,Sosa,Chula Vista,CA,42,M,4,150.001
+6,Francis,Picard,Montreal,QC,43,M,5,108.334
+7,Kevin,Goldberg,Westminster,CO,35,M,6,104.168
+8,Mike,Wilkinson,Parker,CO,52,M,7,75.01
+9,Ron,Aladeniyi,Austin,TX,48,M,8,70.834
+10,Sean,Edmonds,Phoenix,AZ,44,M,9,54.167
+10,Gabe,Rubenstein,San Diego,CA,47,M,9,54.167
+10,Kimball,Richins,Mesa,AZ,51,M,9,54.167
+13,Tina,Anderson,Castle Rock,CO,46,F,2,50
+13,Randall,Loui,Phoenix,AZ,41,M,12,50
+13,Cristian,Igualt,Chandler,AZ,43,M,12,50
+13,Sandra,Carpenter,Evergreen,CO,50,F,2,50
+17,Tim,Cronk,Oro Valley,AZ,61,M,14,41.667
+17,Samantha,Harding,Scottsdale,AZ,26,F,4,41.667
+19,Jim,Harding,Genoa City,WI,56,M,15,37.5
+20,Tristin,Elder,Greeley,CO,21,M,16,33.334
+20,Jacob,Massler,El Cerrito,CA,42,M,16,33.334
+20,Shenoa,Creer,Decatur,GA,48,F,5,33.334
+20,Brian,Umlauf,Chandler,AZ,42,M,16,33.334
+,,,,,,,,
+0,Connor,Foley,Glendale,AZ,32,M,0,0
+0,Logan,Stephenson,Scottsdale,AZ,44,M,0,0
+0,Ben,Zamzow,Byron Center,MI,42,M,0,0
+0,Andrew,Miller,Phoenix,AZ,27,M,0,0
+0,Heath,Platt,St George,UT,49,M,0,0

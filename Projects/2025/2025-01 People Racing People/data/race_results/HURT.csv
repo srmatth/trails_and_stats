@@ -1,0 +1,134 @@
+Position,First Name,Last Name,City,State,Age,Gender,Division Place,Time
+1,Ihor,Verys,Chilliwack,BC,29,M,1,20:50:09
+2,Anthony,Lee,Boulder,CO,30,M,2,21:39:28
+3,Michito,Sawa,Setagaya-ku, ,42,M,3,22:39:37
+4,William,Hubert,Kailua Kona,HI,26,M,4,24:02:16
+5,Ian,Farris,Draper,UT,42,M,5,25:21:34
+6,Takeshi,Yamada,Honolulu,HI,49,M,6,25:42:57
+7,Andrea,Tarras,Chilliwack,BC,40,F,1,26:00:05
+8,Michael,Tomchaney,Scottsdale,AZ,34,M,7,26:18:10
+9,Oskar,Michalak,Squamish,BC,39,M,8,26:41:10
+10,Katherina,Laan,Mill Valley,CA,45,F,2,26:51:30
+11,Hiroyasu,Tanaka,Kawasaki-shi, ,49,M,9,27:00:12
+12,Michael,Braman,Orem,UT,40,M,10,27:30:25
+13,William,Weidman,Arlington,VA,40,M,11,27:40:57
+14,Nathan,Cogswell,Kaneohe,HI,41,M,12,28:34:52
+15,Brian,Wyland,Haleiwa,HI,36,M,13,28:37:58
+16,Peter,Brandes,Niwot,CO,31,M,14,28:50:49
+17,Aaron,Richards,Honolulu,HI,34,M,15,29:01:28
+18,Candice,Burt,Boulder,CO,42,F,3,29:40:41
+19,Roman,Gratteri,Hillsboro,OR,47,M,16,29:52:18
+20,Art,Hurtado,Brownsville,TX,38,M,17,29:56:39
+21,John,Schmid,Oakland,CA,42,M,18,30:08:36
+22,Wookie,Kim,Honolulu,HI,37,M,19,30:16:12
+23,Erik,Bird,Mission,BC,40,M,20,30:17:55
+24,Joel,Kuhn,Honolulu,HI,35,M,21,30:19:21
+25,Ryo,Tamai,Setagaya-ku, ,29,M,22,31:19:11
+26,Kelby,Land,Eugene,OR,31,F,4,31:21:46
+27,Ryan,Solberg,EUGENE,OR,40,M,23,31:21:49
+28,Masazumi,Fujioka,Mill Creek,WA,52,M,24,31:52:19
+29,Austin,Cotner,Tulsa,OK,27,M,25,31:55:38
+30,Nicholas,Hamilton,Kaneohe,HI,40,M,26,32:38:35
+31,Kenji,Treschuk,Honolulu,HI,41,M,27,32:58:16
+32,Daniel,Manimbo,Broomfield,CO,36,M,28,33:08:44
+33,Hiromasa,Kobayashi,"Hachioji-shi,", ,42,M,29,33:09:22
+34,Alex,Gauthier,Honolulu,HI,29,M,30,33:21:33
+35,Jeremy,Kluttz,Hixson,TN,40,M,31,33:22:27
+36,Megan,Sperry,San Diego,CA,47,F,5,33:23:14
+37,Andrew,Ewing,Corte Madera,CA,46,M,32,33:27:00
+38,Chris,Bassett,Livermore,CA,56,M,33,33:28:32
+39,Tricia,McKeown,Squamish,BC,31,F,6,33:42:57
+40,Angel,Varela,laguna niguel,CA,33,M,34,33:46:50
+41,William,Ross,South Charleston,WV,35,M,35,33:46:56
+42,Aaron,Lee,MILLBRAE,CA,29,M,36,33:55:18
+43,Sean,Eversole,Panama City,FL,42,M,37,33:59:39
+44,Simon,Guerard,Carlsbad,CA,37,M,38,34:01:15
+45,Ericka,Yiu,Aiea,HI,30,F,7,34:03:03
+46,Alexander,East,Cary,NC,27,M,39,34:23:30
+47,Sara,Santilli,Honolulu,HI,39,F,8,34:27:47
+48,Scott,Hickenlooper,Bountiful,UT,32,M,40,34:34:36
+49,Charlotte,Vasarhelyi,Cambridge,ON,47,F,9,34:37:05
+50,Eric,Batchelor,San Diego,CA,38,M,41,34:40:09
+51,Andrey,Prihodko,Brooklyn,NY,50,M,42,34:42:25
+52,Matthew,Menacher,Chicago,IL,46,M,43,34:43:00
+52,Aneta,Zeppettella,Centerville,OH,51,F,10,34:43:00
+54,Chris,Jones,Sonoma,CA,52,M,44,34:54:59
+55,Yoichiro,Sakurai,Hachioji, ,45,M,45,34:57:00
+56,Leah,Stickels,Kailua,HI,43,F,11,34:59:20
+57,Jason,Verbracken,Lakeside,CA,48,M,46,35:02:37
+58,Sabina,Tolean,Alberta,AB,58,F,12,35:04:24
+59,Stefan,Fiandeiro,San Jose,CA,23,M,47,35:16:48
+60,Joshua,Yeager,Kaaawa,HI,36,M,48,35:17:28
+61,Jon,Willman,Las vegas,NV,38,M,49,35:22:44
+62,Lindsay,Phenix,Los Angeles,CA,33,F,13,35:23:01
+63,Daniel,Gordon,Pinehurst,NC,34,M,50,35:25:51
+64,Mauricio,Puerto,Ventura,CA,51,M,51,35:29:14
+65,Elliott,Beach,Oxford,MS,30,M,52,35:34:05
+66,Andrew,Barney,American Fork,UT,51,M,53,35:34:59
+67,Tim,Drummond,Westbury, ,29,M,54,35:35:46
+68,Jaime,Holt,Huntsville,AL,39,F,14,35:39:02
+69,Keith,Knipling,Alexandria,VA,47,M,55,35:44:00
+70,Tomio,Suyama,Funabashi, ,54,M,56,35:45:10
+71,Regina,Massingill,Houston,TX,40,F,15,35:46:09
+72,Rick,Hohman,Hudson,OH,40,M,57,35:47:12
+73,John,Salmonson,Kaneohe,HI,84,M,58,35:48:00
+74,Mark,Ravaglia,Kamuela,HI,52,M,59,35:48:03
+75,Adam,Weir,Issaquah,WA,38,M,60,35:48:56
+,,,,,,,,
+0,Craig,Slagel,Vancouver,BC,51,M,0, 
+0,Mike,Smith,Santa Fe,NM,66,M,0, 
+0,Ernie,Floyd,Herriman,UT,69,M,0, 
+0,Kathy,D'Onofrio,Truckee,CA,59,F,0, 
+0,Randy,Duncan,Victoria,BC,62,M,0, 
+0,Gary,Marr,Lacey,WA,72,M,0, 
+0,Karel,Baloun,Lafayette,CA,51,M,0, 
+0,Tracy,Garneau,Jasper,AB,54,F,0, 
+0,Jake,Hinz,Hughesville,MD,53,M,0, 
+0,Ruth,Kohstall,Dayton,OH,69,F,0, 
+0,James,Oliphant,Corvallis,OR,60,M,0, 
+0,Di,Wu,Pullman,WA,40,M,0, 
+0,Robert,Villani,Brooklyn,NY,65,M,0, 
+0,Kevin,McWilliams,Meridian,ID,44,M,0, 
+0,Daniel,Goddard,North Vancouver,BC,39,M,0, 
+0,Pargol,Lakhan,Vancouver,BC,42,F,0, 
+0,Alexander,Abiang,Fayetteville,NC,57,M,0, 
+0,Tek,Ung,Cranston,RI,42,F,0, 
+0,Christal,Cuadra-Keegan,Reno,NV,39,F,0, 
+0,Louis,Fiandeiro,San Jose,CA,64,M,0, 
+0,Samir,Shah,Portland,OR,50,M,0, 
+0,Jaime,Johnson,Auburn,CA,47,F,0, 
+0,Carlos,Font,Orlando,FL,40,M,0, 
+0,Andrew,Williams,Kamloops,BC,41,M,0, 
+0,Trish,Mintz,Callander,ON,46,F,0, 
+0,Paul,Maza,Freeville,NY,55,M,0, 
+0,Becca,Lopez,Concord,CA,39,F,0, 
+0,Gabriel,Thompson,Hanover,MN,44,M,0, 
+0,Chelsea,Smith,Chester,VA,37,F,0, 
+0,Philip,Floraday,Plymouth,MI,39,M,0, 
+0,Constance,Garro,Boys Town,NE,58,F,0, 
+0,Kent,Blobaum,Omaha,NE,61,M,0, 
+0,Liz,Butterfield,Eugene,OR,31,F,0, 
+0,Brandi,Payne,Ewa Beach,HI,39,F,0, 
+0,Staci,Thomas,Jackson,TN,46,F,0, 
+0,Alison,Bassett,Livermore,CA,47,F,0, 
+0,Shane,Williams,Salt Lake City,UT,31,M,0, 
+0,James,Marinas,Gilroy,CA,52,M,0, 
+0,John,Trongard,Casper,WY,38,M,0, 
+0,Jocelyn,O'Donnell,Bend,OR,28,F,0, 
+0,Pam,Kennedy,Wellington,FL,55,F,0, 
+0,Shaun,Pothin,Houston,TX,37,M,0, 
+0,Manmadh,Rebba,Hyderabad, ,44,M,0, 
+0,Sarah,Mocker,Pittsburgh,PA,46,F,0, 
+0,Kelley,Hupp,Honolulu,HI,52,F,0, 
+0,Emma,Nunn,Port Alberni,BC,29,F,0, 
+0,Akira,Nakashima,Fuchu-Shi, ,46,M,0, 
+0,Ajay,Hanspal,Kingsbridge, ,25,M,0, 
+0,Aj,Juarez,Laguna Beach,CA,33,M,0, 
+0,Eriko,Nakagawa,Honolulu,HI,33,F,0, 
+0,Lisa,Devona,Pompano Beach,FL,47,F,0, 
+0,Ken,Michal,San Francisco,CA,53,M,0, 
+0,Vincent,Ma,San Jose,CA,54,M,0, 
+0,Kevin,Kunieda,Waipahu,HI,36,M,0, 
+0,Robert,Hori,Honolulu,HI,58,M,0, 
+0,Wesley,G,Honolulu,HI,27,M,0, 
+0,Wilson,Cheung,Hong Kong, ,52,M,0, 

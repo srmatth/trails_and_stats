@@ -1,0 +1,114 @@
+Position,First Name,Last Name,City,State,Age,Gender,Division Place,Time
+1,Michael,Eastburn,Porter Ranch,CA,34,M,1,18:49:59
+2,Clark,Messman,Los Angeles,CA,28,M,2,19:11:18
+3,Rene,Dorantes,Pasadena,CA,48,M,3,19:54:49
+4,Jeffrey,Stern,Mill Valley,CA,37,M,4,21:11:34
+5,Edher,Ramirez,Las Vegas,NV,39,M,5,21:27:38
+6,Tyler,Burke,Thousand Oaks,CA,39,M,6,21:58:50
+7,Megan,Eckert,Santa Fe,NM,37,F,1,22:02:52
+8,Roman,Trach,Folsom,CA,37,M,7,22:14:24
+9,Scott,Munson,Woodland Hills,CA,33,M,8,22:47:23
+10,Rolando,Mendoza,Ontario,CA,34,M,9,23:06:37
+11,Jeff,Schacherl,Thousand Oaks,CA,37,M,10,23:20:54
+12,Russ,Ford,Katy,TX,44,M,11,23:46:28
+13,Eric,Earnshaw,Carlsbad,CA,45,M,12,24:25:21
+14,Joel,Frost-Tift,Burbank,CA,36,M,13,24:43:51
+15,Paul,Sinclair,Los Angeles,CA,55,M,14,24:46:25
+16,Chad,Bruce,Eastvale,CA,51,M,15,24:57:50
+17,Andy,Pearson,Los Angeles,CA,39,M,16,25:48:31
+18,Christopher,Calzetta,Carmel,CA,42,M,17,25:49:17
+18,Kirill,Minkovich,Redwood City,CA,42,M,17,25:49:17
+20,Andy,Kumeda,Sierra Madre,CA,56,M,19,26:09:06
+21,Dongyang,Li,Champaign,IL,35,M,20,26:12:22
+22,Guillermo,Batres,Orange,CA,42,M,21,26:18:30
+23,Sean,Lee,Cerritos,CA,54,M,22,26:21:23
+24,Sarah,McMahon,Laguna Beach,CA,31,F,2,26:25:55
+25,Lyman,Hawbaker III,New York,NY,37,M,23,26:26:02
+26,Charles,Pettit,Johannesburg,ZAF,43,M,24,26:34:21
+27,Lucas,Wilkinson,Chino Hills,CA,37,M,25,26:36:29
+28,Brian,Bender,Sierra Madre,CA,37,M,26,26:51:17
+29,Daniel,Weissauer,Topanga,CA,43,M,27,27:14:40
+30,Takahiro,Watanabe,Aoba-Ku Yokohama-Shi,AL,45,M,28,27:18:59
+31,William,Nguyen,Menlo Park,CA,36,M,29,27:31:13
+32,Travis,Burleson,Upland,CA,30,M,30,27:42:12
+33,Joe,Wilbourn,Glendora,CA,40,M,31,27:42:18
+34,Yumi,Vielpeau,San Francisco,CA,35,F,3,27:49:13
+34,Jose,Montellano,Riverside,CA,37,M,32,27:49:13
+36,Trevor,Meding,Sugar Land,TX,43,M,33,28:13:43
+37,Torsten,Voigt,Vancouver,BC,44,M,34,28:18:48
+38,Angel,Perez,Landers,CA,53,M,35,28:30:51
+39,David,Kelling,San Diego,CA,27,M,36,28:35:11
+40,Brock,Ludlow,Aurora,OR,46,M,37,28:41:50
+41,Drew,Coughlin,Auburn,CA,59,M,38,28:49:10
+42,Ben,Harner,Chicago,IL,38,M,39,28:49:30
+43,Rocky,Reyes,Bellflower,CA,47,M,40,28:59:12
+44,Heather,Bell,Las Vegas,NV,45,F,4,28:59:33
+45,Alex,Derbyshire,Alhambra,CA,27,M,41,29:05:04
+46,Emmanuel,Maximo,Inglewood,CA,42,M,42,29:07:29
+47,Alfonso,Maximo,Inglewood,CA,45,M,43,29:07:37
+48,Kyle,Imhoff,Lincoln,CA,33,M,44,29:10:23
+49,Morgan,Mahn,Flagstaff,AZ,29,M,45,29:12:46
+50,Christopher,De La Vega,Pasadena,CA,33,M,46,29:19:57
+51,Ryan,King,Las Vegas,NV,42,M,47,29:26:05
+52,Nathan,Cartier,Los Angeles,CA,36,M,48,29:34:28
+53,Kory,McAfee,San Diego,CA,38,M,49,29:38:42
+54,Clement,Guillaume,San Francisco,CA,33,M,50,29:42:24
+54,Ralf,Elsaesser,Millbrae,CA,49,M,50,29:42:24
+56,Aaron,Shapiro,Bethesda,MD,40,M,52,29:49:35
+57,Sidney,Sparks,San Diego,CA,28,M,53,29:50:29
+58,Scott,Kunz,Simi Valley,CA,42,M,54,29:56:47
+59,Lisa,Figone-Crouch,Madera,CA,56,F,5,30:15:58
+60,Andrew,Bogus,Los Angeles,CA,34,M,55,30:22:16
+61,David,Le Pagne,Altadena,CA,51,M,56,30:32:58
+62,Chris,Smallcomb,Sparks,NV,47,M,57,30:38:46
+63,Lindsay,Phenix,Los Angeles,CA,33,F,6,30:39:21
+64,Jong Geun,Lee,Fullerton,CA,55,M,58,30:40:05
+65,Simon,Guerard,Carlsbad,CA,38,M,59,30:42:53
+66,Andi,Ramer,Marana,AZ,51,F,7,30:43:51
+67,Nick,Mastrodemos,La Canada,CA,60,M,60,30:48:25
+68,Adam,Bertolet,Redondo Beach,CA,40,M,61,30:49:15
+69,Van,Truong,Glendora,CA,40,M,62,30:52:24
+70,Andrew,Ewing,Corte Madera,CA,46,M,63,30:52:42
+70,Alex,Kamages,Petaluma,CA,47,M,63,30:52:42
+72,David,Barkdull,Irvine,CA,41,M,65,30:53:01
+73,Sara,Santilli,Honolulu,HI,40,F,8,30:53:50
+74,Daniel,Clodfelter,Pasadena,CA,39,M,66,31:01:44
+75,Hailey,Chiasson,Morro Bay,CA,34,F,9,31:07:14
+76,Pablo,Ventura,Pomona,CA,49,M,67,31:13:20
+77,Michael,Curry,San Diego,CA,37,M,68,31:16:00
+78,Jimmy,Ortega,Bayfield,CO,33,M,69,31:19:37
+79,Bri,Meyer,Palmdale,CA,26,F,10,31:28:55
+80,Paloma,Ortiz,Escondido,CA,32,F,11,31:30:49
+81,Liam,Tryon,Toronto,ON,34,M,70,31:35:31
+82,Kenneth,Sherfey,Folsom,CA,45,M,71,31:36:40
+83,Joaquin,Ortiz,Glendale,CA,56,M,72,31:37:40
+84,Andrew,Kelly,Liverpool,GBR,27,M,73,31:42:05
+85,Yu-Yen,Mo,San Jose,CA,55,M,74,31:42:11
+86,Ulises,Reyes,Downey,CA,49,M,75,31:44:05
+87,Marylou,Corino,Georgetown,ON,46,F,12,31:51:35
+88,Anthony,Sandoval,La Mesa,CA,50,M,76,31:51:50
+89,Victor,Yang,Palos Verdes Estates,CA,48,M,77,31:52:30
+90,Andrew,Paul,Rancho Santa Fe,CA,45,M,78,31:53:01
+91,Veronica,Alaniz,South Gate,CA,51,F,13,32:02:35
+92,Erik,Koenig,Lompoc,CA,32,M,79,32:05:43
+93,Cynthia,Rivera,Sierra Madre,CA,49,F,14,32:15:54
+94,Pedro,Martinez,Van Nuys,CA,38,M,80,32:19:32
+95,Khang,Le,Fountain Valley,CA,47,M,81,32:24:18
+95,Ryan,Brady,Santa Cruz,CA,47,M,81,32:24:18
+97,Kyle,Muladore,Playa Del Rey,CA,33,M,83,32:28:21
+98,Kongpan,Li,Los Angeles,CA,35,M,84,32:28:33
+99,Cameron,Kim,Pasadena,CA,50,M,85,32:34:26
+100,Kristin,Petersen,Monrovia,CA,49,F,15,32:36:34
+101,Ruben,Quezada,Crestline,CA,50,M,86,32:37:24
+102,Masahiro,Kitano,Los Angeles,CA,43,M,87,32:40:56
+103,Andrea,Kooiman,Mission Viejo,CA,49,F,16,32:42:24
+104,Cesar,Salas,San Diego,CA,50,M,88,32:43:47
+105,Dan,Glass,Fernley,NV,54,M,89,32:45:56
+106,Jason,Brock,Kaysville,UT,48,M,90,32:46:10
+107,Evan,Wetzel,Madison,WI,26,M,91,32:46:24
+108,Rony,Sanchez,Sherman Oaks,CA,40,M,92,32:46:37
+109,Timothy,Borden,Gallup,NM,35,M,93,32:47:11
+110,Yoichiro,Sakurai,Hachioji,AL,46,M,94,32:50:46
+111,Oscar,Mejorada,El Sobrante,AL,48,M,95,32:54:00
+112,Justin,McMillan,Atascadero,CA,50,M,96,32:55:36
+113,Kimani,Long,Charlotte,NC,50,M,97,32:59:07

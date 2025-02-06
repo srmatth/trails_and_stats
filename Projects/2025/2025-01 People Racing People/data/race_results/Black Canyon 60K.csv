@@ -1,0 +1,378 @@
+Position,First Name,Last Name,City,State,Age,Gender,Division Place,Time
+1,Eli,Hemming,Kremmling,CO,28,M,1,4:06:39
+2,Brad,Miles,Superior,CO,32,M,2,4:35:14
+3,Brett,Hornig,Ashland,OR,32,M,3,4:41:22
+4,Michael,Versteeg,Prescott,AZ,38,M,4,4:47:57
+5,Cameron,Yeaman,Lakewood,CO,33,M,5,4:50:03
+6,Nicholas,Lightbody,Victoria,BC,32,M,6,4:55:45
+7,Elena,Horton,Salt Lake City,UT,27,F,1,4:57:19
+8,Dan,Delay,Asheville,NC,32,M,7,4:59:16
+9,Georgia,Porter,Flagstaff,AZ,35,F,2,5:00:06
+10,Matthew,Hadley,Kansas City,MO,28,M,8,5:01:14
+11,Brian,Culmo, , ,31,M,9,5:01:52
+12,Keely,Henninger,Portland,OR,31,F,3,5:04:37
+13,Jenny,Quilty,Abbotsford,BC,35,F,4,5:05:39
+14,Charles,Castonguay,Québec,QC,36,M,10,5:11:44
+15,Cody,Logan,Oakland,CA,29,M,11,5:12:33
+16,Sarah,Gage,Albuquerque,NM,29,F,5,5:14:27
+17,Kevin,Walker,Saint Helena,CA,30,M,12,5:16:43
+18,Jacob,Puzey,Radium Hot Springs,BC,41,M,13,5:22:23
+19,Megan,Kupres,Phoenix,AZ,30,F,6,5:24:54
+20,Michael,McCausland,Seattle,WA,25,M,14,5:26:03
+21,Rachael,Norfleet,Belgrade,MT,29,F,7,5:28:29
+22,Caity,Ashley,Raleigh,NC,28,F,8,5:35:36
+23,Dave,Chew,Ophir,CO,39,M,15,5:35:47
+24,Judd,Lorson,Linden,PA,39,M,16,5:37:41
+25,Nathan,Clark,Reno,OR,27,M,17,5:38:44
+26,Grace,Eversaul,Flagstaff,AZ,25,F,9,5:38:50
+27,Laurence,Laplante,Notre-Dame-Des-Prairies,QC,31,F,10,5:42:33
+28,Nichole,Abma,Canmore,AB,32,F,11,5:42:46
+29,Ian,Gwaltney,Boise,ID,21,M,18,5:43:40
+30,Trev,Vanknotsenburg,Tampa,FL,39,M,19,5:44:33
+31,Cole,Jones,Austin,TX,33,M,20,5:51:20
+32,Zachary,Bates,Snowflake,AZ,21,M,21,5:55:15
+33,Regan,Sikes,Colorado Springs,CO,25,F,12,5:55:38
+34,Jenna,Lee,Scottsdale,AZ,22,F,13,5:57:54
+35,Yiou,Wang,Larkspur,CA,38,F,14,5:59:56
+36,Rafael,Castañeda,Santiago,DOM,26,M,22,6:00:05
+37,Brandon,Blondeau,Calgary,AB,33,M,23,6:05:22
+38,Andrew,Williams,Calgary,AB,34,M,24,6:10:34
+39,Ryan,Gwaltney,Boise,ID,48,M,25,6:13:13
+40,Justin,Henke,Yorktown,VA,36,M,26,6:16:01
+41,Itsuko,Uemiya,Osaka,JPN,45,F,15,6:16:05
+42,Evan,Mudgett,Montrose,CO,33,M,27,6:16:39
+43,Rebecca,Lewandowski,Tucson,AZ,38,F,16,6:22:32
+44,Bella,Ward,Phoenix,AZ,24,F,17,6:23:12
+45,Aaron,Bonham,Roswell,GA,55,M,28,6:24:40
+46,Kayla,Josephson,Phoenix,AZ,29,F,18,6:25:00
+47,Kelly,Snyder,Somerville,MA,31,F,19,6:27:13
+48,Jake,Jackson,Loma Linda,CA,46,M,29,6:27:24
+49,Luke,Gaeta,Rapid City,SD,45,M,30,6:28:58
+50,Jessica,Purcell,Rapid City,SD,34,F,20,6:32:30
+51,Nick,Moultrie,San Diego,CA,34,M,31,6:32:43
+52,Heather,Pinkstaff,Hudson,OH,39,F,21,6:37:07
+53,Chester,Cooper,Broomfield,CO,24,M,32,6:38:36
+54,Jaci,Dick,Lakewood,CO,36,F,22,6:40:07
+55,Jesse,Rosales,Denver,CO,37,M,33,6:41:46
+56,Andrea,Ferrari,Phoenix,AZ,39,F,23,6:49:31
+57,Julie,Doll,Salt Lake City,UT,30,F,24,6:49:52
+58,Tyler,Thompson,Bend,OR,37,M,34,6:50:12
+59,Cody,Gannon,Squamish,BC,27,M,35,6:51:07
+60,Christopher,Batte,Portland,OR,43,M,36,6:52:01
+61,Reid,Goodfellow,Bountiful,UT,29,M,37,6:53:19
+62,Shanda,Demorest,La Crescent,MN,33,F,25,6:53:34
+63,Andrew,Ellis,Seattle,WA,42,M,38,6:54:06
+64,Garrett,Steerman,Misoula,MT,29,M,39,6:54:14
+65,Talia,Wells,Calgary,AB,37,F,26,6:54:21
+66,Shannon,Mauser Suing,Gretna,NE,46,F,27,6:54:24
+67,Alex,Bowman,Phoenix,AZ,38,M,40,6:55:40
+68,Nicolas,Aubrée,Notre-Dame Des Prairies,QC,50,M,41,7:01:07
+69,Emily,Fisk,Bridgeport,PA,35,F,28,7:01:37
+70,Russell,Shaw,Florissant,CO,41,M,42,7:02:58
+71,Jamie,Reichler,Parker,CO,55,M,43,7:03:00
+72,Katie,Curry,Victoria,BC,29,F,29,7:03:27
+73,Nima,Sharif,San Carlos,CA,41,M,44,7:07:07
+74,Dennis,Serna,Ridgewood,NY,33,M,45,7:08:35
+75,Alex,Schwab,Devils Lake,ND,28,M,46,7:09:00
+76,Addison,Sember,Brookline,MA,25,F,30,7:09:43
+77,Ashleigh,Thompson,Tucson,AZ,33,F,31,7:09:49
+78,Meredith,Mosman,Seattle,WA,34,F,32,7:10:24
+79,Brandon,McDowell,Prescott,AZ,43,M,47,7:10:26
+80,Chiyo,Yamauchi,Brooklyn,NY,40,F,33,7:13:27
+81,Bryce,Straka,Tucson,AZ,39,M,48,7:14:33
+82,Joachim,Cassel,Los Angeles,CA,33,M,49,7:15:02
+83,Fabrice,Perrin,Annecy,FRA,52,M,50,7:16:22
+84,Chris,Erickson,Phoenix,AZ,59,M,51,7:18:27
+85,Tania,Tasaka,North Vancouver,BC,55,F,34,7:18:33
+86,Liam,Tryon,Toronto,ON,34,M,52,7:22:00
+87,Jordan,Collins,Atascadero,CA,33,M,53,7:24:24
+88,James,Tumber,"Stapleton, Denver",CO,34,M,54,7:25:48
+89,Tiffany,Stroud,Stony Plain,AB,44,F,35,7:26:13
+90,Justin,Hollman,Anthem,AZ,39,M,55,7:26:58
+91,Chelsey,Topping,Canmore,AB,41,F,36,7:27:08
+92,Casey,Koza,Akron`,OH,40,M,56,7:28:14
+93,Brad,Baumgartner,Carmel,IN,53,M,57,7:30:30
+94,Kristopher,Koch,San Antonio,TX,41,M,58,7:30:50
+95,Max,Goff,Arvada,CO,36,M,59,7:31:00
+96,Erin,Kelly,Maple Plain,MN,44,F,37,7:31:17
+97,Ron,Bauer,Sedona,AZ,62,M,60,7:32:02
+98,Jared,Chrzanowski,Flagstaff,AZ,42,M,61,7:32:26
+99,Allison,Reitmayer,Vista,CA,31,F,38,7:32:32
+100,Philipp,Cesana,Basel, ,44,M,62,7:32:53
+101,Jason,Stapley,Etobicoke,ON,37,M,63,7:33:14
+102,Sarah,Fondaw,East Helena,MT,30,F,39,7:33:48
+103,Hannah,Nyrop,Tucson,AZ,34,F,40,7:34:52
+104,Fanny,Grichy,New York,NY,31,F,41,7:36:52
+105,Zachary,White,Tempe,AZ,41,M,64,7:37:58
+106,Susan,Loken,Phoenix,AZ,60,F,42,7:38:27
+106,Yohnnie,Juhlin,Iowa City,IA,53,F,42,7:38:27
+106,Christine,Garcia,Breckenridge,CO,52,F,42,7:38:27
+109,Jacquelyn,Lombari,Phoenix,AZ,35,F,45,7:40:13
+110,Daniel,Hunter,Scottsdale,AZ,27,M,65,7:40:54
+111,Joshua,Petersen,Queen Creek,AZ,30,M,66,7:41:56
+112,Shianne,Kattner,Tucson,AZ,40,F,46,7:44:19
+113,Natalie,Piszek,Fruita,CO,43,F,47,7:44:49
+114,Brian,Roper,Phoenix,AZ,35,M,67,7:45:25
+115,Bjorn,Skogen,Lansing,MI,40,M,68,7:46:59
+116,Elianna,Bier,Phoenix,AZ,30,F,48,7:47:46
+117,Sarah,Clark,Solon,IA,46,F,49,7:48:53
+118,Earle,Burrows,Grand Bay Westfield,NB,60,M,69,7:48:58
+119,Fiona,Sands,Philadelphia,PA,28,F,50,7:50:42
+120,Adam,Williams,Pullman,WA,37,M,70,7:51:05
+121,Ben,Peterson,Studio City,CA,28,M,71,7:51:08
+122,Stacey,Munson,Solon,IA,41,F,51,7:52:59
+123,Kristi,Haase,Omaha,NE,47,F,52,7:53:27
+124,Karen,Ong,Las Cruces,NM,39,F,53,7:53:55
+125,Timothy,Cole,New York,NY,42,M,72,7:54:03
+126,Stephanie,Solla,West Berlin,VT,32,F,54,7:54:18
+127,Sayaka,Tsuda,New York,NY,35,F,55,7:54:35
+128,Joseph,Proctor,Gilbert,AZ,41,M,73,7:54:55
+129,Mariele,Wardian,Scottsdale,AZ,41,F,56,7:56:44
+130,Ariana,Lutterman,Brooklyn,NY,29,F,57,7:57:02
+131,Armando,Chavez,Albuquerque,NM,38,M,74,7:57:40
+132,Augustine,Chavez,Paradise Valley,AZ,45,M,75,7:57:41
+133,Wesley,Van Beek,Windsor,ON,41,M,76,7:58:22
+134,Beau,Hartwell,Scottsdale,AZ,43,M,77,7:59:29
+135,Thea,Foss Von Ahnen,Olympia,WA,33,F,58,8:00:26
+136,Zachary,Hawkins,Missoula,MT,23,M,78,8:01:14
+137,Matt,Hill,Crystal Lake,IL,39,M,79,8:01:37
+138,Ashley,Paintner,Olympia,WA,38,F,59,8:03:10
+139,Carolyn,Miller,Portland,OR,24,F,60,8:04:11
+140,Kyle,Waring,Fairfax,CA,36,M,80,8:04:17
+141,Sharon,Wohl,Tempe,AZ,28,F,61,8:07:23
+142,Daisey,Henson,Fort Worth,TX,37,F,62,8:12:49
+143,James,Parrella,Cold Spring,NY,54,M,81,8:14:40
+144,Ron,Mc laren,Meridian,ID,54,M,82,8:15:25
+145,Angela,Sanford,Cleveland,OH,43,F,63,8:16:09
+146,Robert,Tremayne,Buckeye,AZ,50,M,83,8:16:10
+147,Rik,Jackson,Hayfield,GBR,34,M,84,8:17:26
+148,Stephen,Leask,Saskatoon,SK,45,M,85,8:20:44
+149,Jerome,Jutzi,Scottsdale,AZ,33,M,86,8:20:45
+150,Frank,Niemiec,Pittsburgh,PA,34,M,87,8:22:03
+150,Joe,Piehler,Orchard Park,NY,35,M,87,8:22:03
+152,Michel,Poletti,Chamonix,FRA,68,M,89,8:23:15
+153,Sidney,Kalin,Danville,CA,20,F,64,8:25:08
+154,Jon,Kalin,Danville,CA,57,M,90,8:25:11
+155,Maya,Hena,Tesuque Pueblo,NM,31,F,65,8:25:48
+156,Brad,Mc collester,Dallas,TX,32,M,91,8:26:10
+157,Julia,Moffitt,Iowa City,IA,56,F,66,8:28:17
+158,Jennifer,Block,San Diego,CA,37,F,67,8:28:43
+159,Steve,Bell,Arvada,CO,73,M,92,8:29:34
+160,Karey,Miles,Phoenix,AZ,41,F,68,8:29:36
+161,Marcus,Jamison,Emporia,KS,33,M,93,8:30:05
+162,Maria,Dibella,Tempe,AZ,26,F,69,8:30:21
+163,Sara,Shoff,Tucson,AZ,34,F,70,8:31:23
+164,Lloyd,Hilaiel,Denver,CO,45,M,94,8:31:33
+165,Maddie,Fache,Golden,BC,37,F,71,8:32:00
+166,Greg,Fraker,Phoenix,AZ,52,M,95,8:32:04
+167,Jess,Shvedov,Denver,CO,46,F,72,8:33:15
+168,Carl,Vasil,Litchfield Park,AZ,46,M,96,8:33:38
+169,Jason,Farmer,Phoenix,AZ,34,M,97,8:34:21
+170,Brandon,Yoo,Tempe,AZ,48,M,98,8:35:08
+171,Andrew,Mc intosh,Vancouver, ,54,M,99,8:35:45
+172,Vesta,Mohebbi,Canonsburgh,PA,34,F,73,8:36:25
+173,Adam,Field,Phoenix,AZ,49,M,100,8:36:45
+174,Josh,Bowles,Phoenix,AZ,36,M,101,8:37:47
+175,Nathan,Warner,Tucson,AZ,40,M,102,8:37:56
+176,Shane,Sparkman,St. Louis,MO,50,M,103,8:37:59
+177,Dore,Thornton,Prescott,AZ,51,M,104,8:38:36
+178,Cynthie,Cuno,Los Angeles,CA,46,F,74,8:39:11
+179,Tyler,Fikes,Portland,OR,33,M,105,8:39:52
+180,Lukas,Bradley,San Juan,PRI,50,M,106,8:41:07
+181,Bronte,Ibsen,Scottsdale,AZ,27,F,75,8:41:46
+182,Shelley,Couch,Stony Plain,AB,58,F,76,8:42:35
+183,Virginia,Zimnowski,Longmont,CO,32,F,77,8:43:11
+184,Virgil,Dorobantu,Las Vegas,NV,50,M,107,8:43:21
+185,Tiest,Van Gool,Lafayette,CO,52,M,108,8:43:35
+186,Laura,Reynolds,Bel Air,MD,36,F,78,8:43:54
+187,Steven,Pritt,Little Elm,TX,51,M,109,8:43:55
+188,Eloise,Armour,Missoula,MT,30,F,79,8:44:31
+189,Sandra,Prosko,Parkland County,AB,58,F,80,8:45:03
+190,Emily,Hill,Flower Mound,TX,26,F,81,8:45:24
+190,Brendan,Hill,Anchorage,AK,30,M,110,8:45:24
+192,Garren,Hill,North Richland Hills,TX,54,M,111,8:45:27
+193,Shawn,Brunson,Mesa,AZ,43,M,112,8:45:31
+194,Leif,Pederson,Vail,AZ,45,M,113,8:46:05
+195,Emily,Kose,Tucson,AZ,43,F,82,8:46:33
+196,Kayleigh,Orozco,Phoenix,AZ,32,F,83,8:47:19
+197,Deb,Baker,Cottonwood,AZ,61,F,84,8:48:49
+198,Jaime,Maher,Fenton,MO,41,F,85,8:50:21
+199,David,Moore,Silver Lake,OH,42,M,114,8:50:48
+200,Brandan,Bowie,Gallup,NM,32,M,115,8:52:22
+201,Freddy,Oliva,Brooklyn,NY,41,M,116,8:55:24
+202,Ting,Li,Brooklyn,NY,32,F,86,8:55:26
+203,Brittany,Koether,Whitestown,IN,34,F,87,8:56:20
+203,Matt,Cantrell,Whitestown,IN,40,M,117,8:56:20
+205,Peter,Kim,Ben Lomond,CA,52,M,118,8:56:45
+206,Lucinda,Eversman,Bowling Green,KY,38,F,88,8:57:32
+207,Ryan,Manos,Phoenix,AZ,31,M,119,8:58:14
+208,Rolando,Mendoza,Ontario,CA,33,M,120,9:01:14
+209,Debi,Holton,Depere,WI,52,F,89,9:01:26
+210,Bob,Frawley,Minneapolis,MN,67,M,121,9:01:59
+211,Jennifer,Cain,Phoenix,AZ,42,F,90,9:02:04
+211,Darcy,Barnes,Wittmann,AZ,45,F,90,9:02:04
+213,Derek,Burr,Phoenix,AZ,35,M,122,9:03:34
+214,Ian,Slaymaker,Kent,OH,51,M,123,9:04:35
+215,Jake,Kelly,Phoenix,AZ,32,M,124,9:04:39
+216,Gabriel,Teixeira Rezende Matos Versiani,Nova Lima,BRA,37,M,125,9:05:08
+217,Brian,Taylor,Parker,CO,51,M,126,9:05:34
+218,Sean,Garbutt,Sacramento,CA,32,M,127,9:05:44
+219,Mike,Sofka,Avon,OH,37,M,128,9:05:52
+220,Nancy,Krochmalnicki,Toronto,ON,36,F,92,9:06:37
+221,Jim,Nail,Las Vegas,NV,51,M,129,9:07:41
+222,Caleb,Morgan,Phoenix,AZ,30,M,130,9:09:01
+223,Kirsten,Lecey,Davis,CA,39,F,93,9:09:26
+223,Jonathan,Throne,Sacramento,CA,36,M,131,9:09:26
+225,Wesley,Martin,Flagstaff,AZ,59,M,132,9:10:03
+226,Lena,Coradini,Denver,CO,42,F,94,9:11:40
+226,Erin,Bonthron,Aurora,CO,32,F,94,9:11:40
+228,Nicholas,Davis,Roanoke,VA,32,M,133,9:12:27
+228,Kyle,Pahowka,Alexandria,VA,33,M,133,9:12:27
+230,Bruce,Higgins,Flagstaff,AZ,71,M,135,9:12:40
+231,Jeffrey,Otto,San Tan Valley,AZ,42,M,136,9:12:52
+232,Jason,Cox,Beaufort,SC,42,M,137,9:13:00
+233,Jacob,Dibella,Tempe,AZ,29,M,138,9:15:06
+234,Kevin,Kato,Yuma,AZ,37,M,139,9:16:19
+235,Kim,Monroe Adrian,Scottsdale,AZ,50,F,96,9:16:41
+236,Erika,Tokarz,Castle Rock,CO,41,F,97,9:16:51
+237,Ashley,Owen,Peoria,AZ,37,F,98,9:18:43
+238,Lara Jean,Breeding,Girdwood,AK,46,F,99,9:19:37
+239,Melanie,Prohaska,Brook Park,OH,41,F,100,9:21:10
+240,Korbyn,Ukasick,Windsor,CO,28,F,101,9:24:39
+241,Don,Asher,Wooster,OH,54,M,140,9:24:40
+242,Kelly,Fruth,Grants Pass,OR,30,F,102,9:28:01
+243,Brittany,McCrory,Phoenix,AZ,36,F,103,9:28:26
+244,Michael,Dzezinski,Phoenix,AZ,57,M,141,9:30:12
+245,Liz,Hill,Tucson,AZ,52,F,104,9:30:15
+246,Rhonda,Bompensa Zimmerman,Phoenix,AZ,56,F,105,9:30:20
+247,Moses,Valenzuela,Los Angeles,CA,43,M,142,9:30:31
+248,Benjamin,Moore,Tucson,AZ,47,M,143,9:33:46
+249,Mark,Jakfors,Tucson,AZ,48,M,144,9:35:23
+250,Troy,Wicks,Woodburn,OR,57,M,145,9:36:33
+251,Andy,Jones Wilkins,Wilson,AR,56,M,146,9:37:52
+252,Cameron,Skreden,Sacramento,CA,31,M,147,9:39:23
+253,Yanzi,Liu,Flagstaff,AZ,45,F,106,9:40:02
+254,Laura,Marcoux,Vista,CA,36,F,107,9:41:08
+254,David,Hibbs,Mesa,AZ,44,M,148,9:41:08
+256,John,Leonard,East Aurora,NY,44,M,149,9:41:13
+257,Christian,Stenner,Calgary, ,44,M,150,9:46:11
+258,Jeffrey,Divine,Denver,CO,48,M,151,9:46:46
+259,Mario,Blanchet,Québec,QC,63,M,152,9:48:09
+260,John,Schultz,Scottsdale,AZ,52,M,153,9:49:25
+261,Emily,Cornell,Ventura,CA,32,F,108,9:49:52
+261,Liam,Pickhardt,Ventura,CA,26,M,154,9:49:52
+263,Sara,Hole,Stamford,CT,24,F,109,9:50:03
+264,Richard,Plumb,Phoenix,AZ,56,M,155,9:50:04
+265,Vincent,Ensslin,Los Angeles,CA,36,M,156,9:50:19
+266,Shelby,Heinz,Chandler,AZ,24,F,110,9:51:10
+267,Brad,Fink,Katy,TX,42,M,157,9:52:34
+268,Jacqueline,Guyader,Victoria,BC,55,F,111,9:53:16
+269,Chantal,Lachance,Halifax,NS,52,F,112,9:53:22
+270,Andy,Pattison,Halifax,NS,57,M,158,9:53:23
+271,Kymberly,Mercier,Larkspur,CO,37,F,113,9:53:54
+272,Travis,Sutton,Chandler,AZ,34,M,159,9:54:25
+273,Jaron,Shaddix,Moses Lake,WA,32,M,160,9:54:26
+274,Julie,Dobslaw,St. Louis,MO,55,F,114,9:54:27
+274,Susan,Richmond,Eureka,MO,62,F,114,9:54:27
+276,Courtney,Hill,McCall,ID,42,F,116,9:54:32
+277,Danielle,Horstman,Chandler,AZ,28,F,117,9:54:47
+278,Robert,Myers,Signal Mountain,TN,46,M,161,9:55:30
+279,Dan,Crandall,Fairview Park,OH,49,M,162,9:55:39
+280,Kevin,Ng,Portland,OR,34,M,163,9:56:55
+281,Beth,Pfohl,Iowa City,IA,47,F,118,9:57:41
+281,Megan,Laing,Solon,IA,44,F,118,9:57:41
+283,Aaron,Shearman,Kuna,ID,41,M,164,9:58:20
+284,Tyler,Simmons,Deer Park,WA,31,M,165,9:58:47
+285,Jeffrey,Peyton,Portland,OR,61,M,166,9:59:09
+286,Scott,Buchanan,Chandler,AZ,39,M,167,9:59:27
+287,Jon,Cepek,Fairview Park,OH,54,M,168,9:59:42
+288,Chantelle,Elvedahl,Victoria,BC,29,F,120,10:00:35
+289,Lavanya,Kandala,Phoenix,AZ,45,F,121,10:01:24
+290,Shelby,Haverda,Westminster,CO,32,F,122,10:02:03
+291,Emma,Cheyne,Howell,MI,30,F,123,10:02:15
+292,Kristen,Difate,St. Louis,MO,43,F,124,10:02:26
+293,Nicole,Honda,Dillon,CO,57,F,125,10:04:21
+294,Tristan,Lee,Tucson,AZ,44,M,169,10:04:33
+295,Kevin,Dieu,Chino Valley,AZ,40,M,170,10:04:34
+296,Jessica,Godkin,Prescott,AZ,36,F,126,10:05:52
+297,John,Daly,Golden,CO,60,M,171,10:06:55
+298,Lesslie,Shaw,Florissant,CO,54,F,127,10:09:19
+299,Jennifer,Barker,Mammoth Lakes,CA,40,F,128,10:11:00
+300,Ryan,McCarley,Phoenix,AZ,36,M,172,10:15:47
+301,Kathleen,Berhorst,High Ridge,MO,33,F,129,10:19:17
+302,Angela,Rumer,Tempe,AZ,38,F,130,10:21:02
+303,Kyle,Buntz,Sierra Vista,AZ,27,M,173,10:21:53
+304,Paul,Nielsen,Wellington,CO,63,M,174,10:23:14
+304,Ruth,Kohstall,Dayton,OH,70,F,131,10:23:14
+306,Bob,Ulrich,Gilbert,AZ,39,M,175,10:28:08
+307,Andrea,Moore,Flagstaff,AZ,46,F,132,10:28:09
+308,Daniel,Musser,New Harmony,UT,59,M,176,10:30:40
+309,Jen,Coleman,Cave Creek,AZ,47,F,133,10:32:13
+309,Matt,Emerson,Phoenix,AZ,52,M,177,10:32:13
+311,David,Cole,Gilbert,AZ,51,M,178,10:40:58
+312,Joey,Bourisaw,Saint Louis,MO,36,M,179,10:41:15
+313,Canyon,Howard,Phoenix,AZ,29,M,180,10:41:28
+314,Geno,Shvedov,Denver,CO,36,M,181,10:41:53
+315,Kelsey,Gabriel,Mesa,AZ,21,F,134,10:46:23
+316,Adam,Church,Albuquerque,NM,39,M,182,10:46:46
+317,Koury,Church,Rio Rancho,NM,36,M,183,10:46:56
+318,Sai,Marin,Las Vegas,NV,36,M,184,10:49:13
+318,Adam,Heaivilin,Las Vegas,NV,39,M,184,10:49:13
+320,Allison,Jeffery,New York,NY,48,F,135,10:53:16
+321,Marlinda,Bedonie,Tucson,AZ,44,F,136,11:08:16
+322,Barry,Wimmer,Cottonwood,AZ,58,M,186,11:14:12
+323,Ylandra,Wimmer,Cottonwood,AZ,56,F,137,11:14:47
+324,Emaad,Burki,Potomac,MD,54,M,187,11:16:48
+325,Kenneth,Swab,Bethesda,MD,73,M,188,11:18:00
+326,Amanda,Booth,Aylmer,ON,57,F,138,11:18:15
+327,Carol,Stewart,Waterloo,ON,58,F,139,11:18:16
+328,Matt,Bro,Queen Creek,AZ,60,M,189,11:20:25
+329,Garrett,Bronder,Corinth,TX,32,M,190,11:23:22
+330,Allison,Holko,Alexandria,VA,44,F,140,11:26:29
+331,Lisa,Malpass,Enumclaw,WA,54,F,141,11:26:30
+332,Luis,Delgado,Phoenix,AZ,39,M,191,11:27:47
+333,Jennifer,Wyczalek,Phoenix,AZ,56,F,142,11:30:06
+334,Michele,Hartwig,Lakewood,IL,56,F,143,11:30:24
+335,Ira,Allen,Flagstaff,AZ,42,M,192,11:32:58
+336,Macy,Haverda,Las Vegas,NV,37,F,144,11:33:16
+337,Dennis,Munson,Solon,IA,66,M,193,11:34:06
+338,Julie,Harvey,Ferron,UT,60,F,145,11:35:07
+339,Jonathan,Tse,San Marino,CA,42,M,194,11:43:33
+340,Matthew,Leake,Fort Worth,TX,35,M,195,11:45:45
+340,Silas,Kyler,Prescott Valley,AZ,35,M,195,11:45:45
+342,Sonny,Mc kinney,Truckee,CA,44,M,197,11:53:23
+,,,,,,,,
+0,Dave,Mc fadden,Hoopeston,IL,61,M,0,0
+0,Christine,Lichtenfels,Lander,WY,62,F,0,0
+0,Alicia,Robeson,Glendale,AZ,54,F,0,0
+0,Nancy,Oh,Ny,NY,51,F,0,0
+0,Megan,Eastwood,North Vancouver,BC,53,F,0,0
+0,Matt,Miller,Phoenix,AZ,45,M,0,0
+0,Sarah,Hansel,Aiken,SC,42,F,0,0
+0,Jackson,Fonder,Phoenix,AZ,62,M,0,0
+0,Tessa,Chesser,Tellruide,CO,37,F,0,0
+0,Leighanna,Stephenson,North Ridgeville,OH,39,F,0,0
+0,Deborah,Chambers,Phoenix,AZ,53,F,0,0
+0,Regina,Massingill,Houston,TX,40,F,0,0
+0,Maureen,Harrison,Bowling Green,KY,60,F,0,0
+0,Norman,Drabek,O'fallon,IL,68,M,0,0
+0,Kayleigh,Nelson,Flagstaff,AZ,31,F,0,0
+0,Zach,Waynick,Fort Collins,CO,42,M,0,0
+0,Abigail,West,Athens,GA,28,F,0,0
+0,Wardia,Debray,Scottsdale,AZ,56,F,0,0
+0,Caroline,Loveall,Houston,TX,26,F,0,0
+0,Scott,Moncur,Cochrane,AB,42,M,0,0
+0,Sharameh,Leisure,Sumner,WA,36,F,0,0
+0,Beau,Pullman,Tempe,AZ,23,M,0,0
+0,Jessica,Segal,Gorham,ME,32,F,0,0
+0,Sam,Darley,Chandler,AZ,35,F,0,0
+0,Zac,Walberer,Flagstaff,AZ,36,M,0,0
+0,Jenny,Stice,Bowling Green,KY,36,F,0,0
+0,Austin,Lewis,Grand Blanc,MI,26,M,0,0
+0,Susan,Schwab,Devils Lake,ND,69,F,0,0
+0,Stephanie,Gallardo,Brooklyn,NY,37,F,0,0
+0,Michelle,Diedrich,Mammoth Lakes,CA,35,F,0,0
+0,Leah,Yingling,Salt Lake City,UT,32,F,0,0
+0,Gene,Diedrich,Mammoth Lakes,CA,36,M,0,0
+0,Mark,Keating,Houston,TX,56,M,0,0
+0,Kirsten,Chrzanowski,Flagstaff,AZ,35,F,0,0
