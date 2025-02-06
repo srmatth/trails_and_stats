@@ -1,0 +1,184 @@
+Position,First Name,Last Name,City,State,Age,Gender,Division Place,Time
+1,Tyler,Fox,Lander,WY,31,M,1,7:39:26
+2,Ryan,Montgomery,Wanship,UT,30,X,0,7:40:17
+3,Gabe,Joyes,Lander,WY,38,M,2,7:47:15
+4,Christopher,Hammes,Durango,CO,32,M,3,7:47:42
+5,Simon,Pfreundschuh,Fort Collins,CO,34,M,4,8:26:42
+6,Daniel,Metzger,Colorado Springs,CO,30,M,5,8:29:05
+7,Bo,Shelby,Denver,CO,28,M,6,8:34:03
+8,Henry,Harris,Salida,CO,26,M,7,8:36:35
+9,Michael,Mitchell,Denver,CO,25,M,8,8:37:22
+10,Leah,Yingling,Salt Lake City,UT,33,F,1,9:00:13
+11,Christopher,Harrington,Golden,CO,40,M,9,9:01:21
+12,Andrew,Burford,Boulder,CO,23,M,10,9:06:51
+13,Andy,Altepeter,Boulder,CO,40,M,11,9:08:28
+14,Brett,Carlson,Broomfield,CO,37,M,12,9:15:04
+15,Stefan,Schuster,Denver,CO,29,M,13,9:17:12
+16,Maggie,Shafer,Fort Collins,CO,37,F,2,9:22:56
+17,Mckendree,Hickory,Oak Creek,CO,35,F,3,9:27:41
+18,Michele,Yates,Conifer,CO,41,F,4,9:28:26
+19,David,Braunlich,Boulder,CO,33,M,14,9:36:25
+20,Jennie,Yeaman,Colorado Springs,CO,31,F,5,9:36:59
+21,Regan,Sikes,Colorado Springs,CO,26,F,6,9:44:00
+22,Genevieve,Harrison,Eagle,CO,37,F,7,9:46:13
+23,Charissa,Kenny,Fort Collins,CO,41,F,8,9:50:11
+24,Danny,Bundrock,Fort Collins,CO,44,M,15,10:00:47
+25,Katelyn,McDaniel,Boulder,CO,31,F,9,10:11:40
+26,Nichol Bob Russ,Wolverton,Fort Collins,CO,37,M,16,10:12:58
+27,Russell,Wolfe,Memphis,TN,19,M,17,10:21:19
+28,Matthew,Hawes,Lakewood,CO,29,M,18,10:23:40
+29,Jesse,Lauder,Lakewood,CO,43,M,19,10:30:11
+30,Jack,Sutherland,Fort Collins,CO,44,M,20,10:31:19
+31,Jeremy,Singer,Denver,CO,32,M,21,10:31:22
+32,David,Regan,Longmont,CO,30,M,22,10:45:05
+33,Cory,Linfield,Colorado Springs,CO,36,M,23,10:49:19
+34,Ryan,Lagerquist,Boulder,CO,38,M,24,10:57:17
+35,Christopher,Allen,Huntley,IL,51,M,25,11:04:20
+36,Andrew,Rexroad,Denver,CO,40,M,26,11:08:31
+37,Andrew,Poland,Lakewood,CO,37,M,27,11:10:04
+38,Ryan,Cooper,Boulder,CO,50,M,28,11:16:09
+39,Connor,Poole,Broomfield,CO,23,M,29,11:17:52
+40,Frederic,Bard,Fort Collins,CO,40,M,30,11:18:12
+41,Nathan,Kurz,Longmont,CO,41,M,31,11:19:37
+42,Erin,Drasler,Leadville,CO,43,F,10,11:21:10
+43,Timothy,Reynolds,Fort Collins,CO,29,M,32,11:21:33
+44,Logan,Meier,Denver,CO,29,M,33,11:22:36
+45,Kay,Borleis,Fort Collins,CO,37,F,11,11:22:49
+46,Isaac,Mousel,Denver,CO,29,M,34,11:29:18
+47,Margaret,Macdonald,Arvada,CO,41,F,12,11:29:51
+48,Jonathan,Tanner,Fort Collins,CO,36,M,35,11:30:35
+49,Heather,Blatchley,Niwot,CO,42,F,13,11:35:00
+50,Roland,Pitcairn,Longmont,CO,38,M,36,11:38:49
+51,Dave,Corsten,Peyton,CO,55,M,37,11:43:38
+52,Sean,Filipovitz,Boulder,CO,39,M,38,11:47:07
+53,Christian,Lavoie,Fort Collins,CO,49,M,39,11:47:31
+54,Matt,Elam,Boulder,CO,32,M,40,11:47:57
+55,Jonathan,Hayek,Steamboat Springs,CO,38,M,41,11:49:34
+56,Christopher,Taylor,Carbondale,CO,36,M,42,11:50:06
+57,Kota,Minegishi,Lakewood,CO,41,M,43,11:51:56
+58,Faye,Blumberg,Denver,CO,36,F,14,11:52:59
+59,Luke,Schuler,Milliken,CO,33,M,44,11:56:01
+60,Drew,Brown,Highlands Ranch,CO,30,M,45,11:58:03
+61,Brunza,Labore,Eaton,CO,36,M,46,11:59:11
+62,Eric,Holle,Erie,CO,43,M,47,11:59:14
+63,James,Zafarana,Fort Collins,CO,29,M,48,12:03:39
+64,Mike,Cowart,Leadville,CO,34,M,49,12:04:07
+65,Heidi,Beauchamp,Lakewood,CO,43,F,15,12:04:31
+66,Jeremy,Burmeister,Kersey,CO,42,M,50,12:08:55
+67,Rachel,Tracy,Fort Collins,CO,43,F,16,12:09:09
+68,Lincoln,Stultz,Lakewood,CO,24,M,51,12:16:10
+69,Mike,Conroy,Kansas City,MO,31,M,52,12:19:18
+70,Jordan,Radin,Fort Collins,CO,52,M,53,12:25:40
+71,Emma,Paras,Denver,CO,34,F,17,12:31:38
+72,Emily,Wenger,Fort Collins,CO,31,F,18,12:34:00
+73,Ryan,Anderson,Fort Collins,CO,27,M,54,12:44:48
+74,Eric,Franklin,Loveland,CO,49,M,55,12:47:53
+75,Dean,Lehmkuhler,Cheyenne,WY,46,M,56,12:50:47
+76,Matt,Burch,Fort Collins,CO,32,M,57,12:53:03
+77,Mark,Luetke,Fort Collins,CO,41,M,58,12:53:05
+78,Patrick,Harris,Fort Collins,CO,26,M,59,12:55:24
+79,Randall,Meyer,Norwalk,IA,39,M,60,12:57:54
+80,Michelle,Foster,Loveland,CO,40,F,19,13:02:44
+81,Laura,Mason,Columbus,CO,32,F,20,13:06:57
+82,Derrick,Morford,Loveland,CO,37,M,61,13:08:03
+83,Adam,Seaman,Parker,CO,39,M,62,13:09:00
+84,Tyler,Kempkes,Wellington,CO,35,M,63,13:09:58
+85,Reed,McIntyre,Denver,CO,34,M,64,13:11:01
+86,Julia,Kukulies,Fort Collins,CO,31,F,21,13:12:25
+87,Jonathan,Piland,Cheyenne,WY,37,M,65,13:14:08
+88,Laura,Howell,Colorado Springs,CO,50,F,22,13:15:30
+89,Kyle,Wurtz,Fort Collins,CO,33,M,66,13:15:44
+90,Anthony,Milas,Denver,CO,34,M,67,13:15:46
+91,Brent,Boos,Boulder,CO,40,M,68,13:18:24
+92,Mallory,Logan,Gunnison,CO,38,F,23,13:19:51
+93,Scott,Slusher,Fort Collins,CO,54,M,69,13:20:01
+94,Brittney,Street,New Castle,CO,38,F,24,13:25:27
+95,Dominique,Youngren,Broomfield,CO,31,M,70,13:28:41
+96,Mike,Flood,Superior,CO,41,M,71,13:28:49
+97,Sommer,Wiss,Superior,CO,29,F,25,13:31:36
+98,Ben,Trautwein,Cheyenne,WY,48,M,72,13:34:00
+99,Jon,Winkler,Littleton,CO,44,M,73,13:35:05
+100,Anne,Hinman,Sheridan,WY,28,F,26,13:40:12
+101,David,Luty,Rocklin,CA,53,M,74,13:40:48
+102,Scott,Rubinstein,Littleton,CO,46,M,75,13:40:53
+103,Jonathon,Cox,Evergreen,CO,30,M,76,13:41:15
+104,Samantha,Sellke,Evergreen,CO,30,F,27,13:41:17
+105,Lucas,Durig,Colorado Springs,CO,42,M,77,13:44:22
+106,Kevin,Sarsen,Denver,CO,53,M,78,13:45:48
+107,Michel,Roos,Oranjestad,ABW,53,M,79,13:47:29
+108,Gregg,Griffenhagen,Fort Collins,CO,53,M,80,13:50:14
+109,Kristin,Gablehouse,Broomfield,CO,46,F,28,13:51:04
+110,Garrett,Black,Kaysville,UT,18,M,81,13:51:52
+111,Todd,Schroeder,Timnath,CO,60,M,82,13:54:01
+112,Hannah,Caldwell,Fort Collins,CO,24,F,29,13:54:08
+113,Katie,Jones,Loveland,CO,44,F,30,13:55:49
+114,Nicole,Ross,Castle Rock,CO,42,F,31,13:56:28
+115,Nathan,Epperson,Fort Collins,CO,38,M,83,13:58:05
+116,Steve,Castner,Denver,CO,32,M,84,13:59:13
+117,Todd,Bogdaschewskyi,Buffalo Creek,CO,32,M,85,13:59:28
+118,Jovonna,Kirkling,Arvada,CO,36,F,32,13:59:39
+119,Addy,Ehleiter,Timnath,CO,19,F,33,14:09:09
+120,Bill,Schum,Erie,CO,52,M,86,14:15:10
+121,Chris,Hoover,Fort Collins,CO,35,M,87,14:26:18
+122,Luke,Crumb,Boulder,CO,35,M,88,14:49:54
+,,,,,,,,
+0,Greg,Opgenorth,Arvada,CO,43,M,0,0
+0,Jeremy,Day,Colorado Springs,CO,44,M,0,0
+0,Michael,Huff,Loveland,CO,56,M,0,0
+0,Milan,Klanjsek,Denver,CO,61,M,0,0
+0,Maria,Grant,Fort Collins,CO,49,F,0,0
+0,Oza,Klanjsek,Denver,CO,60,F,0,0
+0,Siobhan,Pritchard,Steamboat Springs,CO,45,F,0,0
+0,Stacy,Jones,Colbert,WA,48,F,0,0
+0,Kristopher,Keller,Lafayette,CO,42,M,0,0
+0,Ed,Thomas,Larchwood,IA,65,M,0,0
+0,Nikiah,Nudell,Wellington,CO,50,M,0,0
+0,Sky,Grahn,Ft Collins,CO,34,M,0,0
+0,Nick,Page,Box Elder,SD,42,M,0,0
+0,Emma,Vierheller,Fort Collins,CO,33,F,0,0
+0,Andrew,Pupa,Loveland,CO,36,M,0,0
+0,Dennis,Ellis,Cheyenne,WY,50,M,0,0
+0,Mitchel,Beres,Bozeman,MT,30,M,0,0
+0,Tim,Honors,Denver,CO,39,M,0,0
+0,Shelbie,Christensen,Lander,WY,30,F,0,0
+0,Michael,Huntington,Littleton,CO,40,M,0,0
+0,Kelly,Daugherty,Longmont,CO,42,M,0,0
+0,Jennifer,Ruechel,New Castle,CO,41,F,0,0
+0,Case,Stevenson,Loveland,CO,37,M,0,0
+0,Michael,Keilman,Boulder,CO,56,M,0,0
+0,Tim,Winning,Fort Collins,CO,33,M,0,0
+0,Ricardo,Cordova,Monument,CO,51,M,0,0
+0,Ian,Romero,Denver,CO,36,M,0,0
+0,Joseph,Marchell,Fort Collins,CO,32,M,0,0
+0,Kimberly,Stevenson,Loveland,CO,39,F,0,0
+0,Sarah,Biehl,Boulder,CO,30,F,0,0
+0,Brandon,James,Fort Collins,CO,32,M,0,0
+0,Russell,McConaha,Arvada,CO,50,M,0,0
+0,Cooper,Moon,Lakewood,CO,25,M,0,0
+0,Matt,Scholbrock,Firestone,CO,40,M,0,0
+0,Isaac,Bohrer,Castle Rock,CO,41,M,0,0
+0,Billy,Kozma,Longmont,CO,39,M,0,0
+0,Jace,Horak,Littleton,CO,29,M,0,0
+0,Ana,Babinec,Littleton,CO,28,F,0,0
+0,Tess,McGinty,Fort Collins,CO,40,F,0,0
+0,Christine,O'Gorman,Fort Collins,CO,35,F,0,0
+0,Elijah,Flenner,Fort Collins,CO,50,M,0,0
+0,Anthony,Dominic,Broomfield,CO,25,M,0,0
+0,Nathan,Frost,Firestone,CO,39,M,0,0
+0,Brooklynn,Black,Kaysville,UT,18,F,0,0
+,,,,,,,,
+0,Eric,Skocaj,Federal Way,WA,38,M,0,0
+0,Josh,Gray,Windsor,CO,41,M,0,0
+0,Ed,Bousquet,Fort Collins,CO,62,M,0,0
+0,Malia,Lawrence,Fort Collins,CO,36,F,0,0
+0,Scott,Mehring,Lakewood,CO,34,M,0,0
+0,Joe,Wissing,Albuquerque,NM,47,M,0,0
+0,Louis,Narmour,Fort Collins,CO,33,M,0,0
+0,Jordan,Deitsch,Lakewood,CO,29,M,0,0
+0,Jonathan,Engelstad,Broomfield,CO,52,M,0,0
+0,Chuck,Brenton,Bellvue,CO,37,M,0,0
+0,Jason,Rubek,Fort Collins,CO,39,M,0,0
+0,Secca,Roettenbacher,Eagle,CO,33,F,0,0
+0,Heather,Hans,Boulder,CO,48,F,0,0
+0,Matthew,Olsen,Fort Collins,CO,37,M,0,0
+0,Brent,Learned,Casper,WY,32,M,0,0

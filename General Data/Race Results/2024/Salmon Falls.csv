@@ -1,0 +1,269 @@
+Position,First Name,Last Name,City,State,Age,Gender,Division Place,Time
+1,Robert,Ressl,Sacramento,CA,37,M,1,3:51:15
+2,Emily,Hawgood,Beatrice, ,29,F,1,4:23:18
+3,Ray,Avalos,Folsom,CA,40,M,2,4:42:44
+4,Sarah,Correa,Folsom,CA,33,F,2,4:47:44
+5,Andrea,Deutsche,Newcastle,CA,34,F,3,4:49:40
+6,Caleb,Kruse,Oakland,CA,31,M,3,4:50:19
+7,Cole,Kersey,Cameron Park,CA,31,M,4,4:52:05
+8,Travis,Lee,El Dorado Hills,CA,41,M,5,5:00:23
+9,Ashley,Lin,Oakland,CA,35,F,4,5:01:17
+10,Joah,Spearman,Sacramento,CA,40,M,6,5:02:40
+11,John,Hudson,Sacramento,CA,44,M,7,5:02:48
+12,Cody,Moraga,Auburn,CA,32,M,8,5:04:03
+13,Francis,Duenas,Sacramento,CA,37,M,9,5:04:05
+14,Chris,Barry,El Dorado Hills,CA,52,M,10,5:04:46
+15,Laura,Pryor,Oakland,CA,37,F,5,5:05:50
+16,Tommy,Konwinski,Folsom,CA,39,M,11,5:15:29
+17,Pablo,Delaguila,Sacramento,CA,36,M,12,5:15:38
+18,Rory,Stuart,El Dorado Hills,CA,47,M,13,5:15:52
+19,Antonny,Oliveira,Folsom,CA,36,M,14,5:20:34
+20,Eduardo,Perez Caban,Lincoln,CA,32,M,15,5:26:08
+21,Ronald,Hess,Fair Oaks,CA,62,M,16,5:35:14
+22,Trevor,Johnson,Folsom,CA,41,M,17,5:37:33
+23,Benjamin,Madrigal,Madera,CA,36,M,18,5:38:03
+24,Abby,McKee,Rocklin,CA,53,F,6,5:39:28
+25,Michael,Wilgus,Penryn,CA,53,M,19,5:39:34
+26,Pao,Moua,Elk Grove,CA,50,M,20,5:39:38
+27,Tracy,Plaster,Fair Oaks,CA,49,M,21,5:41:52
+28,Mark,Eger,Roseville,CA,52,M,22,5:41:57
+29,Martin,Sengo,Auburn,CA,43,M,23,5:44:33
+30,Rebecca,Teeters,Folsom,CA,56,F,7,5:49:48
+31,Franco,Zuniga,Redwood City,CA,39,M,24,5:49:53
+32,Rosanne,Ramirez,El Dorado Hills,CA,34,F,8,5:50:08
+33,Ruth,Mcgrath,Carmichael,CA,51,F,9,5:50:26
+34,Matthew,Bonner,Chico,CA,32,M,25,5:50:32
+35,Rob,Austerman,El Dorado Hills,CA,41,M,26,5:53:32
+36,Brenton,Warren,South Lake Tahoe,CA,51,M,27,5:54:04
+37,Jared,Matcham,Calistoga,CA,54,M,28,5:54:16
+38,Steven,Langford,Sacramento,CA,30,M,29,5:55:50
+39,Luis,Vidal,Auburn,CA,29,M,30,5:55:57
+40,Greg,Ngo,Dixon,CA,54,M,31,5:56:25
+41,Nami,Kato,Rancho Cordova,CA,41,F,10,5:57:16
+42,Josh,Hunt,Folsom,CA,44,M,32,5:57:20
+43,Aaron,Zuniga,Nevada City,CA,45,M,33,5:58:11
+44,Dennis,Mui,Citrus Heights,CA,45,M,34,5:58:27
+45,Julia,Madsen,El Dorado Hills,CA,45,F,11,5:59:39
+46,Brian,Passenheim,Roseville,CA,46,M,35,6:00:12
+47,Andrea,Graffis,Folsom,CA,37,F,12,6:01:21
+48,Julie,Hinman,Roseville,CA,32,F,13,6:01:27
+49,Thomas,Alan,Sacramento,CA,55,M,36,6:02:35
+50,Rocky,Castro,Folsom,CA,34,M,37,6:02:53
+51,Alex,Last,El Dorado Hills,CA,26,M,38,6:04:32
+52,Lori,Summers,Auburn,CA,54,F,14,6:04:49
+53,Laura,Heinlein,Davis,CA,26,F,15,6:05:03
+54,Brett,Ewing,Elk Grove,CA,50,M,39,6:05:57
+55,Garrett,Henley,West Sacramento,CA,25,M,40,6:06:00
+56,Brandon,Fuller,Cameron Park,CA,27,M,41,6:08:08
+57,Junnelle,Hogen,Sacramento,CA,27,F,16,6:09:11
+58,Zachary,Denico,Sacramento,CA,34,M,42,6:09:47
+59,Danielle,Yokel,Etna,CA,50,F,17,6:09:59
+60,Cory,Norris,Grass Valley,CA,51,M,43,6:10:24
+61,Susan,Truong,Folsom,CA,54,F,18,6:10:26
+62,Shannon,Martin,Reno,NV,47,F,19,6:13:08
+63,Alycia,Campbell,Auburn,CA,48,F,20,6:13:29
+64,Erik,Kintzel,Lincoln,CA,42,M,44,6:14:49
+65,Haley,Dillon,Folsom,CA,43,F,21,6:15:00
+66,Alyssa,Burns,Davis,CA,29,F,22,6:17:35
+67,Chris,Kaneshiro,Citrus Heights,CA,32,M,45,6:18:26
+68,J. Warren,Coulam,Orangevale,CA,53,M,46,6:20:47
+69,Pao,Vang,Atwater,CA,46,M,47,6:21:15
+70,Zoe,Wood,Davis,CA,27,F,23,6:21:26
+71,Youa,Buchanan,Fairoaks,CA,43,F,24,6:21:35
+72,Cole,Gray,Davis,CA,26,M,48,6:22:37
+73,Steve,Kahl,Folsom,CA,35,M,49,6:23:57
+74,Scott,Vizzusi,Reno,NV,33,M,50,6:24:35
+75,Meghan,Everett,Fair Oaks,CA,38,F,25,6:25:20
+76,Melissa,Vanni,Newcastle,CA,45,F,26,6:25:28
+77,Alana,Klingman,Fair Oaks,CA,41,F,27,6:26:48
+78,Whitney,Solomon,Auburn,CA,41,F,28,6:27:34
+79,Aubrey,Stodghill,Granite Bay,CA,40,M,51,6:30:53
+80,Carlo,Ammatuna,Roseville,CA,35,M,52,6:31:18
+81,Lowell,Saelee,Sacramento,CA,40,M,53,6:31:49
+82,Lexie,Catanglan,Roseville,CA,43,F,29,6:32:20
+83,Roberta,Mohsenzadegan,Sacramento,CA,39,F,30,6:33:32
+84,Sarah,Glynn,Shingle Springs,CA,42,F,31,6:33:45
+85,Kevin,Brockman,El Dorado Hills,CA,42,M,54,6:35:57
+86,Chadd,Thompson,El Dorado Hills,CA,35,M,55,6:36:05
+87,Paula,Hamilton,Carmichael,CA,61,F,32,6:36:25
+88,Ed,Daniels,Folsom,CA,57,M,56,6:36:32
+89,Thomas,Bowdey,El Dorado Hills,CA,35,M,57,6:36:35
+90,Aaron,Westlake,Folsom,CA,53,M,58,6:40:45
+91,Jody,Hansen,Folsom,CA,46,F,33,6:41:32
+92,Jerry,Suo,Sacramento,CA,51,M,59,6:42:30
+93,Ismael,Macias,Lincoln,CA,57,M,60,6:44:15
+94,Ashley,Sozzi,El Dorado Hills,CA,33,F,34,6:44:17
+95,Shane,Teragawa,Antelope,CA,47,M,61,6:44:50
+96,Jose,Pelayo,Placerville,CA,31,M,62,6:45:25
+97,Adam,Burke,Scottsdale,AZ,40,M,63,6:45:56
+98,Bridgette,Holzapple,Vacaville,CA,60,F,35,6:46:26
+99,Christina,Forehand,Sacramento,CA,39,F,36,6:46:29
+100,Roger,Pynappel,Truckee,CA,64,M,64,6:48:35
+101,Julie,Arnold,Granite Bay,CA,64,F,37,6:49:15
+102,Bruce,Yang,Sacramento,CA,36,M,65,6:50:18
+103,James,Kern,Santa Cruz,CA,65,M,66,6:51:10
+104,Jimmy,Luong,Sacramento,CA,30,M,67,6:51:15
+105,Kyle,Vogt,Auburn,CA,57,M,68,6:51:56
+106,Jamie,Veirs,Folsom,CA,39,F,38,6:52:13
+107,Jedediah,Thorne,Somerset,CA,38,M,69,6:52:19
+108,Jennifer,Garcia,Granite Bay,CA,52,F,39,6:53:00
+109,Shane,Butler,Bothell,WA,35,M,70,6:53:24
+110,John,Morgan,Folsom,CA,66,M,71,6:54:25
+111,Lenka,Bostian,Pleasant Hill,CA,40,F,40,6:55:04
+112,Victor,Ramirez,Selma,CA,57,M,72,6:57:25
+113,Chad,Maxon,Fair Oaks,CA,34,M,73,6:57:39
+114,Mark,Moore,Sacramento,CA,46,M,74,6:57:52
+115,Chris,Haustein,Rancho Cordova,CA,45,M,75,6:59:50
+116,Bruce,Falzarano,Roseville,CA,65,M,76,7:02:04
+117,Pamela,Knight,Citrus Heights,CA,56,F,41,7:02:05
+118,Steve,Winter,Pilot Hill,CA,52,M,77,7:05:16
+119,Tim,Casagrande,Orangevale,CA,45,M,78,7:05:38
+120,Christine,Vincent,Roseville,CA,51,F,42,7:06:00
+120,Rachel,Moebus,Folsom,CA,38,F,42,7:06:00
+122,Danielle,Eriksen,Orangevale,CA,40,F,44,7:06:01
+123,Cortney,Wilcox,Roseville,CA,38,F,45,7:06:23
+124,Jeanette,Evans,Placerville,CA,54,F,46,7:06:25
+125,Edd,Ligsay,Gold River,CA,64,M,79,7:07:09
+126,Scott,Mann,Rocklin,CA,48,M,80,7:07:19
+127,Robert,Oldham,Roseville,CA,46,M,81,7:08:12
+128,Hannah,Day,Sacramento,CA,37,F,47,7:08:23
+129,Gillian,Soles,Sacramento,CA,44,F,48,7:08:24
+130,Alaina,Star,Roseville,CA,35,F,49,7:09:14
+131,Melanie,Masad,Elk Grove,CA,42,F,50,7:10:01
+132,Dan,Foley,El Dorado Hills,CA,62,M,82,7:10:31
+133,Martin,Mercado,Sunnyvale,CA,30,M,83,7:10:41
+134,Jacquelyn,Murphy,Roseville,CA,39,F,51,7:10:45
+135,William,Frank,Sacramento,CA,61,M,84,7:11:04
+136,Scott,Morton,Santa Rosa,CA,46,M,85,7:11:17
+137,Louis,Fiandeiro,San Jose,CA,64,M,86,7:15:02
+138,Dwight,Simpson,Placerville,CA,58,M,87,7:15:10
+138,Chris,Ingman,Placerville,CA,60,M,87,7:15:10
+140,Steph,Sarantopoulos,Grass Valley,CA,32,F,52,7:15:38
+141,Rebecca,Bloom,Fair Oaks,CA,59,F,53,7:16:08
+142,John,Lyle,Fresno,CA,42,M,89,7:16:38
+143,Susan,Lee,Sacramento,CA,60,F,54,7:17:07
+144,Kristi,Carlson,Vacaville,CA,55,F,55,7:18:42
+145,Mark,Blackwell,Oakland,CA,54,M,90,7:18:47
+146,Nichole,Torgerson,West Sacramento,CA,45,F,56,7:18:49
+147,Kip,Kuduk,Sacramento,CA,55,M,91,7:19:23
+148,Deanna,Guy,Fair Oaks,CA,55,F,57,7:19:58
+149,Trung,Hoang,Sacramento,CA,42,M,92,7:21:08
+150,Aaron,Richter,Reno,NV,44,M,93,7:21:17
+151,Merlina,Castro,Folsom,CA,40,F,58,7:21:36
+152,Katey,Morton,Folsom,CA,44,F,59,7:22:07
+153,Mila,Olson,Diamond Springs,CA,44,F,60,7:24:12
+154,Stephanie,Konvalin,Orangevale,CA,50,F,61,7:24:43
+155,Ia,Yang,San Jose,CA,43,F,62,7:25:55
+156,Justin,Lewis,Rocklin,CA,38,M,94,7:25:59
+157,Ka,Xiong,Elk Grove,CA,43,F,63,7:26:45
+158,Paulina,Benner,Rancho Cordova,CA,52,F,64,7:27:02
+159,Blia,Vang,Elk Grove,CA,45,F,65,7:27:38
+160,Shavinder,Singh,Fair Oaks,CA,46,M,95,7:29:01
+161,Kyle,Weinberger,Auburn,CA,47,M,96,7:29:34
+162,Luismiguel,Tomas,Sacramento,CA,33,M,97,7:29:39
+163,Ron,Duncan,El Dorado Hills,CA,55,M,98,7:30:36
+164,Brian,Bain,Sacramento,CA,44,M,99,7:31:10
+165,Todd,Larsen,Sacramento,CA,53,M,100,7:32:33
+166,Roger,Curtis,Folsom,CA,62,M,101,7:36:48
+167,Patty,Shijo,Sacramento,CA,64,F,66,7:37:12
+168,Angela,Long,Auburn,CA,50,F,67,7:38:31
+169,Collin,Winter,Roseville,CA,37,M,102,7:38:38
+170,Gloria,Lee,Orangevale,CA,34,F,68,7:38:39
+171,Mark,Smith,Roseville,CA,46,M,103,7:38:51
+172,Rich,Fentzke,Danviille,CA,53,M,104,7:38:57
+173,Paul,Zimmer,Orangevale,CA,60,M,105,7:39:56
+174,Jack,Meyer,Foresthill,CA,60,M,106,7:40:24
+175,Kelly,Valentine,Sacramento,CA,46,F,69,7:40:33
+176,Sheng,Vang,Sacramento,CA,47,F,70,7:42:43
+177,Susan,Morgan,Milpitas,CA,60,F,71,7:47:30
+178,Cynthia,Groom,Orangevale,CA,52,F,72,7:48:44
+179,Jennifer,Cabrera,Folsom,CA,47,F,73,7:48:45
+180,Megan,Munoz-Ramirez,Roseville,CA,41,F,74,7:49:09
+181,Brenda,Hofer,Roseville,CA,49,F,75,7:49:48
+182,Tim,Penner,West Sacramento,CA,61,M,107,7:50:08
+183,Chris,Chase,Roseville,CA,41,M,108,7:51:31
+184,Jeremy,Donati,West Sacramento,CA,43,M,109,7:51:42
+185,Tou,Yang,Clovis,CA,43,M,110,7:52:07
+186,Bob,McTavish,Roseville,CA,67,M,111,7:52:11
+187,Mark,Cooley,Gold River,CA,48,M,112,7:53:37
+188,Nicole,Darby,Sacramento,CA,55,F,76,7:54:05
+189,Chandra,Smith,Roseville,CA,45,F,77,7:54:35
+190,Aleanea,Brooks,Citrus Heights,CA,39,F,78,7:55:02
+191,Jeremy,Scheeler,Greenwood,CA,34,M,113,7:55:04
+191,Lynnae,Scheeler,Greenwood,CA,36,F,79,7:55:04
+193,Keely,Weaver,Cool,CA,36,F,80,7:55:06
+194,John,Nichols,Sacramento,CA,59,M,114,7:56:18
+194,Charley,Jones,Folsom,CA,52,M,114,7:56:18
+196,Dale,Smelser,Vacaville,CA,61,M,116,7:56:32
+197,Laura,Chancellor,El Dorado Hills,CA,43,F,81,7:57:09
+198,Bill,Rutgers,Elk Grove,CA,44,M,117,7:57:34
+199,Jenn,Coyle,Sacramento,CA,41,F,82,7:58:33
+200,Jerry,Smock,Citrus Heights,CA,47,M,118,7:59:52
+201,Lauren,Wood,Roseville,CA,32,F,83,8:01:07
+202,Mun Har,Yoon,Folsom,CA,52,F,84,8:01:23
+203,Todd,Petrik,Folsom,CA,59,M,119,8:01:24
+204,Teri,Guerrero,Woodland,CA,50,F,85,8:03:03
+205,Nicholas,Cunningham,Sacramento,CA,38,M,120,8:03:06
+206,Donald,Kiser,Sacramento,CA,58,M,121,8:03:08
+207,Aubrey,Baude,Roseville,CA,30,F,86,8:03:09
+208,Nick,Lowell,Rocklin,CA,29,M,122,8:03:19
+209,Leigh,Ferra,Orangevale,CA,54,F,87,8:06:09
+210,Katie,Hartman,Roseville,CA,37,F,88,8:06:11
+211,Rachel,Barrington,Rocklin,CA,32,F,89,8:06:12
+212,Kevin,Castaneda,Georgetown,CA,35,M,123,8:09:04
+213,Matt,Tilley,Orangevale,CA,56,M,124,8:10:28
+214,Melina,Massetti,Auburn,CA,52,F,90,8:11:02
+215,Isaiah,Vaba,El Dorado Hills,CA,39,M,125,8:12:06
+216,Kenneth,Reimer,Roseville,CA,30,M,126,8:12:43
+217,Shelly,Andersen,Nevada City,CA,62,F,91,8:13:27
+218,Sarah,Breitenbach,West Sacramento,CA,47,F,92,8:17:31
+219,Satyananda,Beura,Folsom,CA,51,M,127,8:17:34
+220,Michelle,Ruggles,Sacramento,CA,54,F,93,8:17:41
+221,Doua,Yang,Sacramento,CA,42,M,128,8:18:18
+222,Randy,Wong,Fair Oaks,CA,68,F,94,8:25:19
+223,M.C.,Moss,Grass Valley,CA,65,F,95,8:27:37
+224,Josh,De Bord,Sacramento,CA,50,M,129,8:30:04
+225,Marissa,Yorita,El Dorado Hills,CA,29,F,96,8:33:17
+226,Stephanie,Carr,El Dorado Hills,CA,22,F,97,8:36:26
+227,Matt,Brayton,Folsom,CA,55,M,130,8:36:28
+228,Deirdre,Fitzpatrick,Sacramento,CA,51,F,98,8:42:07
+229,Heather,Carlson,Alameda,CA,49,F,99,8:42:09
+230,Javier,Salcedo,Fair Oaks,CA,29,M,131,8:45:41
+231,Kristen,Magno,Rancho Cordova,CA,33,F,100,8:45:58
+232,Celeste,Decker,Santa Rosa,CA,54,F,101,8:46:36
+233,Murugan,Balasubramanian,Rocklin,CA,50,M,132,8:47:54
+234,Chuck,Wilson,Palo Alto,CA,75,M,133,8:50:08
+235,Leslie,Guillon,Sacramento,CA,47,F,102,8:52:31
+236,Sonia,Triplet,Lincoln,CA,55,F,103,8:54:29
+237,Annie,Drinkwater-Wright,Sacramento,CA,40,F,104,8:56:06
+238,Mariah,Talso,Sacramento,CA,42,F,105,8:56:09
+239,Brian,Park,Sacramento,CA,38,M,134,8:56:27
+240,Lauren,Carr,Folsom,CA,29,F,106,8:56:32
+241,Veronica,Martinez,Elk Grove,CA,48,F,107,8:57:47
+,,,,,,,,
+0,Joel,Olson,Gold River,CA,42,M,0,0
+0,Alena,Hansen,Granite Bay,CA,34,F,0,0
+0,Donnie,Davis,El Dorado Hills,CA,52,M,0,0
+0,Lidia,Fiandeiro,San Jose,CA,58,F,0,0
+0,Alicia,Ramirez,Auburn,CA,48,F,0,0
+0,Mark,Zerhusen,Folsom,CA,42,M,0,0
+0,Andy,Norman,Clovis,CA,46,M,0,0
+,,,,,,,,
+0,Karen,Framnes,Rocklin,CA,56,F,0,0
+0,Jason,Yaeger,Fair Oaks,CA,51,M,0,0
+0,Robert,Fulton,Folsom,CA,67,M,0,0
+0,Stacie,Riddle,Mill Valley,CA,44,F,0,0
+0,Brad,Chase,Reno,NV,63,M,0,0
+0,Michael,Carver,Cameron Park,CA,58,M,0,0
+0,Bridgette,Pilling,Rocklin,CA,40,F,0,0
+0,Tom,O'Donnell,Fair Oaks,CA,54,M,0,0
+0,Brad,Timmerman,Folsom,CA,39,M,0,0
+0,Femi,Philip,Sacramento,CA,42,M,0,0
+0,Melissa,Goleb,Oakland,CA,33,F,0,0
+0,Karla,Espinoza,North Highlands,CA,28,F,0,0
+0,Janelle,Schneider,Lincoln,CA,40,F,0,0
+0,Kyle,Kersey,Cameron Park,CA,40,M,0,0
+0,Pamela,Iwaszewicz,Berkeley,CA,34,F,0,0
+0,Kelsey,Kline,Sacramento,CA,33,F,0,0
+0,Javier,Flores,Sacramento,CA,47,M,0,0
+0,Briana,Willson,Rocklin,CA,24,F,0,0

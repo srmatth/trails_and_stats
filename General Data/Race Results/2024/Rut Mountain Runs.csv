@@ -1,0 +1,618 @@
+Place,Bib,Name,Gender,Age,City,State,Clock Time,Chip Time,Pace
+1,1648,Michelino Sunseri,M,32,Driggs,ID,5:01:15,5:01:13,9:56
+2,1041,Ryan Becker,M,30,Telluride,CO,5:09:12,5:09:10,10:12
+3,56,Scott Patterson,M,32,Anchorage,AK,5:20:07,5:20:07,10:33
+4,1725,Florian Winker,M,25,Freiburg,BW,5:21:27,5:21:24,10:36
+5,1266,David Hedges,M,26,Asheville,NC,5:24:46,5:24:44,10:43
+6,1020,Lars Arneson,M,34,Anchorage,AK,5:33:58,5:33:58,11:01
+7,1744,STEPHEN KERSH,M,33,Seattle,WA,5:34:50,5:34:50,11:03
+8,7,Griffin Briley,M,18,Park City,UT,5:35:34,5:35:22,11:04
+9,1726,Andrew Wise,M,29,Denver,CO,5:44:55,5:44:52,11:22
+10,1544,Klaire Rhodes,F,26,Anchorage,AK,5:45:29,5:45:29,11:24
+11,1697,Luke Webster,M,29,Golden,CO,5:52:02,5:51:58,11:36
+12,1501,Wesley Perkins,M,19,Park city,UT,5:53:19,5:53:06,11:39
+13,1775,Jazmine Lowther,F,32,Nelson,BC,5:53:14,5:53:14,11:39
+14,1446,Charlie Michaletz,M,22,Helena,MT,5:55:32,5:55:26,11:43
+15,1485,Hannah Osowski,F,32,Colorado Springs,CO,5:56:26,5:56:26,11:45
+16,70,Chad Trammell,M,40,Anchorage,AK,6:10:14,6:05:14,12:03
+17,1207,Luke Galloway,M,29,Missoula,MT,6:07:12,6:07:08,12:07
+18,1747,Kristina Trygstad-Saari,F,39,Bozeman,MT,6:07:18,6:07:15,12:07
+19,1736,Cameron Yeaman,M,34,Lakewood,CO,6:09:12,6:09:09,12:11
+20,1592,Scott Schoen,M,32,Hailey,ID,6:18:15,6:13:14,12:19
+21,1536,Gregory Ratzell,M,29,Salt Lake City,UT,6:18:54,6:18:49,12:30
+22,57,Galen Peterson,M,33,Boulder,CO,6:20:32,6:20:28,12:33
+23,77,Christian Winker,M,27,Spaichingen,BW,6:22:20,6:22:17,12:36
+24,1679,Calvin Van Ryzin,M,30,Bozeman,MT,6:27:17,6:27:14,12:46
+25,1540,Alec Reiss,M,25,Denver,CO,6:27:22,6:27:16,12:46
+26,1706,Samuel Wescott,M,22,Frisco,CO,6:28:51,6:28:51,12:50
+27,1081,Noah Brown,M,23,Bozeman,MT,6:30:37,6:30:34,12:53
+28,1593,Erich Schreier,M,28,Bozeman,MT,6:34:41,6:34:32,13:01
+29,1702,Casey Weinman,M,34,Eugene,OR,6:37:18,6:37:13,13:06
+30,1098,Mike Cappi,M,32,Salt Lake City,UT,6:40:31,6:40:25,13:12
+31,1707,Cooper West,M,24,Great Falls,MT,6:41:11,6:41:07,13:14
+32,1595,Robert Schwartz,M,40,Truckee,CA,6:44:18,6:44:15,13:20
+33,1233,Jake Hacker,M,20,Tahoma,CA,6:44:45,6:44:37,13:21
+34,1535,Ella Ratliff,F,28,Boulder,CO,6:45:03,6:44:54,13:21
+35,1136,Jonathan Cyganik,M,31,Bozeman,MT,6:45:55,6:45:47,13:23
+36,1168,Megan Drake,F,26,Orem,UT,6:46:22,6:46:08,13:24
+37,1103,Ruben Castren,M,28,Salt Lake City,UT,6:53:19,6:48:14,13:28
+38,1574,Layne Ryerson,M,27,Manhattan,MT,6:54:10,6:49:10,13:30
+39,1048,Nate Bender,M,36,Missoula,MT,6:49:44,6:49:34,13:31
+40,1659,Joe Thompson,M,24,Missoula,MT,6:57:14,6:51:54,13:35
+41,1002,Nichole Abma,F,33,Dead Man's Flats,AB,6:52:43,6:52:37,13:37
+42,1646,David Sullivan,M,32,Cumming,GA,6:57:52,6:52:52,13:37
+43,1046,Nick Belles,M,31,Murray,UT,6:54:19,6:54:12,13:40
+44,1247,Caroline Hardin,F,28,Missoula,MT,6:55:17,6:55:12,13:42
+45,1452,Zebediah Millslagle,M,27,Bend,OR,6:55:48,6:55:43,13:43
+46,1613,Jared Shumate,M,25,Park City,UT,6:57:08,6:57:08,13:46
+47,1464,Ben Moscona,M,28,Bozeman,MT,6:57:16,6:57:11,13:46
+48,1022,Christopher Ashland,M,34,Bozeman,MT,6:57:27,6:57:23,13:46
+49,1359,Lucinda Kolpa,F,26,Bozeman,MT,6:57:34,6:57:30,13:46
+50,1623,Bryson Smith,M,36,Driggs,ID,6:58:33,6:58:25,13:48
+51,1731,Forest Woodward,M,38,Missoula,MT,7:01:02,7:00:48,13:53
+52,1561,Alejandro Rosales,M,28,Missoula,MT,7:01:39,7:01:39,13:54
+53,1504,Joslynn Peterson,F,33,Boulder,CO,7:03:39,7:03:35,13:58
+54,1198,Samuel Forsyth,M,34,Bend,OR,7:03:44,7:03:39,13:58
+55,1299,Nathan Iltis,M,33,Bozeman,MT,7:06:15,7:06:09,14:03
+56,53,Ben Ohman,M,33,Belgrade,MT,7:08:14,7:08:04,14:07
+57,1356,Cassi Knight,F,36,Bozeman,MT,7:08:34,7:08:28,14:08
+58,1348,Amy King,F,31,Jackson,WY,7:11:25,7:11:20,14:14
+59,1368,Christopher Kussmaul,M,30,Bozeman,MT,7:11:37,7:11:25,14:14
+60,1512,Jeff Pickett,M,34,BOISE,ID,7:12:09,7:11:43,14:14
+61,1072,Nathan Bowser,M,40,Philadelphia,PA,7:13:29,7:13:25,14:18
+62,1116,Kai Collingwood,M,28,BoisE,ID,7:14:24,7:14:16,14:19
+63,1488,Olsen Pancoast,M,26,Minneapolis,MN,7:19:49,7:14:22,14:20
+64,1590,Nathan Schneider,M,25,Bozeman,MT,7:41:40,7:16:36,14:24
+65,1171,Brian Dugovich,M,42,Bozeman,MT,7:17:17,7:17:10,14:25
+66,1674,Sam Van De Velde,M,32,Missoula,MT,7:17:40,7:17:35,14:26
+67,1374,Logan Laird,M,29,Missoula,MT,7:19:35,7:19:25,14:30
+68,44,Tyler Melzer,M,41,Bozeman,MT,7:20:19,7:20:06,14:31
+69,1273,Kergis Hiebert,M,26,Bozeman,MT,7:20:50,7:20:41,14:32
+70,1643,Jackson Strand,M,29,Bozeman,MT,7:28:57,7:23:36,14:38
+71,1256,Dane Harrod,M,33,Spokane,WA,7:30:11,7:25:11,14:41
+72,21,Jonathan Fowlkes,M,43,Missoula,MT,7:27:39,7:27:23,14:45
+73,1047,Adam Bellomy,M,37,New York City,NY,7:33:26,7:28:13,14:47
+74,1607,Chris Shepherd,M,47,issaquah,WA,7:30:10,7:29:59,14:51
+75,1180,Jonathan Edwards,M,36,Sandy,UT,7:30:24,7:30:16,14:51
+76,1142,Chris Delaney,M,27,Missoula,MT,7:33:30,7:33:17,14:57
+77,1459,Justin Moreng,M,29,Boulder,CO,7:34:12,7:34:04,14:59
+78,1212,JT Gasper,M,22,Cheney,WA,7:39:28,7:34:19,14:59
+79,1281,Bas Holland,M,23,Cheney,WA,7:39:28,7:34:19,14:59
+80,47,Alex Morren,M,28,Missoula,MT,7:36:23,7:36:12,15:03
+81,1545,Christina Richards,F,36,Missoula,MT,7:38:04,7:37:58,15:06
+82,1118,Jack Consenstein,M,26,Salt Lake City,UT,7:38:27,7:38:20,15:07
+83,1323,Stella Johnson,F,21,Leavenworth,MT,7:38:31,7:38:23,15:07
+84,1350,Seth King,M,25,Whitefish,MT,7:45:09,7:40:02,15:10
+85,1099,James Cardot,M,31,Big Sky,MT,7:40:24,7:40:24,15:11
+86,1375,John Lake,M,31,Salt Lake City,UT,7:45:51,7:40:41,15:12
+87,1418,Jeremiah Martin,M,46,Columbia Falls,MT,7:45:48,7:40:42,15:12
+88,1630,Michael Spencer,M,37,Bozeman,MT,7:41:02,7:40:55,15:12
+89,1051,Nicholas Berger,M,39,Stevensville,MT,7:42:13,7:42:05,15:15
+90,1291,Brooke Hueftle,F,35,Butte,MT,7:47:24,7:42:09,15:15
+91,1434,Alex McKelvey,M,32,Redmond,WA,7:47:42,7:42:31,15:15
+92,1585,Leo Scheller,M,29,Missoula,MT,7:47:39,7:42:34,15:15
+93,1314,Paul Jindrich,M,31,Missoula,MT,7:47:55,7:42:45,15:16
+94,49,Robert Nelson,M,45,Livingston,MT,7:48:01,7:42:52,15:16
+95,1197,Zach Footer,M,21,Bozeman,MT,7:43:31,7:43:23,15:17
+96,1475,Scott Nonweiler,M,26,Bozeman,MT,7:48:50,7:43:36,15:18
+97,1119,Shea Coons,F,31,Missoula,MT,7:43:44,7:43:36,15:18
+98,1636,Kendall Stevens,F,26,Salt Lake City,UT,7:44:11,7:44:03,15:18
+99,1334,s scarlet kaplan,F,28,Arlee,MT,7:50:50,7:45:37,15:22
+100,1150,Bethany Dice,F,39,Bozeman,MT,7:47:08,7:47:02,15:24
+101,1034,Joel Barton,M,27,Big Sky,MT,7:57:23,7:47:12,15:25
+102,1227,Luke Greene,M,33,Kalispell,MT,7:54:10,7:48:50,15:28
+103,1496,Nicholas Pearson,M,34,Salt Lake City,UT,7:54:10,7:49:10,15:29
+104,1292,Connor Hult,M,26,Bozeman,MT,7:50:11,7:49:53,15:30
+105,1155,Tory Dobyns,F,25,Bozeman,MT,7:55:25,7:50:12,15:31
+106,1343,Ethan Kennedy,M,28,Columbia Falls,MT,7:55:20,7:50:13,15:31
+107,1620,Travis Skogstad,M,38,Franktown,CO,8:02:37,7:52:23,15:35
+108,1342,David Keltgen,M,32,Bozeman,MT,7:58:09,7:52:57,15:36
+109,1131,Montey Crummer,M,38,New London,NH,7:58:40,7:53:32,15:37
+110,1589,Isaac Schmidt,M,25,Bozeman,MT,7:53:51,7:53:47,15:38
+111,1546,Alyson Ridgway,F,38,Bozemanozeman,MT,8:09:11,7:53:59,15:38
+112,12,Christopher Connell,M,29,Cambridge,MA,8:00:16,7:55:07,15:40
+113,1614,Benjamin Silberman,M,31,Salt Lake City,UT,8:00:52,7:55:44,15:42
+114,72,Samuel Van Pelt,M,31,Seattle,WA,7:58:24,7:58:09,15:46
+115,1662,Mark Trautmann,M,28,Helena,MT,8:08:22,7:58:15,15:47
+116,1395,Helena Long,F,26,Bozeman,MT,8:11:12,8:01:05,15:52
+117,1411,Drew Mahan,M,44,Kellogg,ID,8:12:15,8:02:06,15:54
+118,1345,Joseph Kerr,M,22,Bozeman,MT,8:02:55,8:02:47,15:56
+119,1407,Jacob MacDuff,M,28,Bozeman,MT,8:04:48,8:04:38,15:59
+120,1617,Sam Sisson,M,35,Bozeman,MT,8:05:07,8:04:55,16:00
+121,1555,Daniel Romalia,M,19,Highlands Ranch,CO,8:10:00,8:04:58,16:00
+122,1439,Mason Merager,M,23,Cody,WY,8:06:27,8:06:11,16:02
+123,1642,Nathan Stone,M,34,Missoula,MT,8:17:02,8:06:43,16:03
+124,1534,Babak Rastgoufard,M,51,Missoula,MT,8:11:50,8:06:47,16:03
+125,1554,Jackson Rohleder,M,22,Bozeman,MT,8:18:22,8:08:02,16:06
+126,1021,Stephen Arnold,M,36,Jackson,WY,8:08:36,8:08:25,16:07
+127,1205,Chris Futterer,M,57,Bozeman,MT,8:18:37,8:08:37,16:07
+128,1236,Henry Hall,M,27,Salt Lake City,UT,8:14:11,8:09:07,16:08
+129,1530,Ryan Quinn,M,41,Calgary,AB,8:19:51,8:09:34,16:09
+130,1113,Adam Coles,M,27,Kalamazoo,MI,8:15:42,8:10:33,16:11
+131,1201,Laura Frazier,F,35,Bozeman,MT,8:10:44,8:10:35,16:11
+132,1244,Jack Hape,M,28,Bozeman,MT,8:25:38,8:10:35,16:11
+133,1676,Pete Van Deventer,M,38,Snowmass,CO,8:16:14,8:10:57,16:12
+134,1037,Bradley Bate,M,42,Missoula,MT,8:21:26,8:11:26,16:13
+135,1710,Nick Wheeler,M,28,Boise,ID,8:11:49,8:11:30,16:13
+136,1489,John Park,M,25,San Francisco,CA,8:21:38,8:11:34,16:13
+137,1235,Daniel Hall,M,27,Butte,MT,8:16:51,8:11:47,16:13
+138,1456,Michael Molloy,M,35,Bozeman,MT,8:17:18,8:12:15,16:14
+139,1074,Haley Bradley,F,40,Missoula,MT,8:12:44,8:12:30,16:15
+140,1054,Andi Bertolina,F,30,Stateline,NV,8:22:49,8:12:34,16:15
+141,25,Lars Heinstedt,M,25,Bozeman,MT,8:24:15,8:14:12,16:18
+142,1481,Naomi Ohman,F,23,Bozeman,MT,8:15:06,8:14:58,16:20
+143,1097,Jared Campbell,M,25,Paynesville,MN,8:20:29,8:15:01,16:20
+144,1730,Kaelyn Woods,F,26,Bozeman,MT,8:21:55,8:16:42,16:23
+145,1541,Hayden Remington,M,20,Kalispell,MT,8:23:15,8:18:15,16:26
+146,2,Brian Andzejewicz,M,45,Boulder,CO,8:34:05,8:18:42,16:27
+147,1579,Henry Sauer,M,23,West Glacier,MT,8:35:07,8:19:50,16:29
+148,1260,Daniel Harvala,M,30,Bozeman,MT,8:20:15,8:20:03,16:30
+149,1200,Shannon Foster,F,43,Missoula,MT,8:30:35,8:20:10,16:30
+150,1012,Anonymous Participant,F,34,,,8:30:43,8:20:20,16:30
+151,1258,Aaron Hartnell,M,43,Great Falls,MT,8:25:25,8:20:23,16:30
+152,1695,Eliza Webber,F,34,Bozeman,MT,8:31:06,8:20:47,16:31
+153,1064,Heidi Booher,F,24,Salt Lake City,UT,8:37:01,8:21:50,16:33
+154,1559,Lucas Rood,,22,Bozeman,MT,8:32:02,8:21:58,16:34
+155,1673,Carly Valerious,F,23,Aspen,CO,8:32:44,8:22:26,16:34
+156,34,Dan Kowalski,M,43,Emigrant,MT,8:28:22,8:23:15,16:36
+157,1701,Nate Weigel,M,31,Seattle,WA,8:28:33,8:23:23,16:36
+158,1263,Matthew Hausauer,M,36,Bozeman,MT,8:33:32,8:23:30,16:37
+159,3,Artie Battaglin,M,23,Bozeman,MT,8:23:52,8:23:39,16:37
+160,1209,JP Gartland,M,40,Helena,MT,8:23:49,8:23:42,16:37
+161,1476,Ian Novak,M,23,Bozeman,MT,8:28:54,8:23:47,16:37
+162,1573,Garrett Ryerson,M,29,Helena,MT,8:34:01,8:23:49,16:37
+163,1179,Lacy Eccles,F,41,Whitefish,MT,8:29:00,8:23:55,16:37
+164,1358,Eric Koehler,M,34,Bozeman,MT,8:29:22,8:24:08,16:38
+165,1420,Jose Martinez,M,33,Helena,MT,8:29:17,8:24:11,16:38
+166,1329,Deptula Joseph,M,27,Leadville,CO,8:29:39,8:24:18,16:38
+167,1335,Anna Kaufmann,F,36,Bozeman,MT,8:29:41,8:24:27,16:38
+168,1242,Carly Hansen,F,37,Missoula,MT,8:25:38,8:25:26,16:40
+169,79,Jena Greaser,F,38,Fernie,BC,8:25:44,8:25:36,16:41
+170,1004,Abigail Adams,F,40,Missoula,MT,8:36:06,8:26:06,16:42
+171,1013,Chase Anderson,M,39,Hamilton,MT,8:37:03,8:26:59,16:43
+172,10,Kendall Clifton-Short,F,46,Bozeman,MT,8:33:00,8:27:59,16:45
+173,1473,Sarah Newcomb,F,28,Pocatello,ID,8:33:24,8:28:05,16:46
+174,1570,Elsa Russell,F,24,Boulder,CO,8:34:12,8:28:58,16:47
+175,1008,Penelope Allen,F,21,Bozeman,MT,8:29:30,8:29:15,16:48
+176,1066,Isaac Bostrom,M,28,Eagle,ID,8:34:47,8:29:41,16:49
+177,1583,Emma Schaff,F,30,Salt Lake City,UT,8:34:55,8:29:46,16:49
+178,1249,Kinsey Harmon,F,28,Bozeman,MT,8:34:55,8:29:50,16:49
+179,1083,Jeff Brownson,M,50,Boise,ID,8:35:07,8:29:52,16:49
+180,1363,Kalli Krumpos,F,35,Washington,DC,8:50:48,8:30:42,16:51
+181,1734,Phil Wynen,M,41,Atlanta,GA,8:36:10,8:30:58,16:51
+182,1277,Raychel Hoerner,F,23,Helena,MT,8:37:01,8:31:52,16:53
+183,1183,Isaac Eland,M,22,Bozeman,MT,8:42:17,8:32:01,16:53
+184,1163,Lindsay Dose,F,23,West Glacier,MT,8:42:33,8:32:25,16:54
+185,1581,Jackson Sayre,M,17,Bozeman,MT,8:44:33,8:34:16,16:58
+186,1251,Alec Harreld,M,34,Bozeman,MT,8:39:45,8:34:41,16:59
+187,1409,Joe Magajna,M,43,Bozeman,MT,8:44:42,8:34:42,16:59
+188,1005,Rainy Adkins,F,23,Eugene,OR,8:45:15,8:34:58,16:59
+189,1308,Wendy Janssen,F,36,Columbia Falls,MT,8:45:35,8:35:18,17:00
+190,1509,Nick Philips,M,36,Atlanta,GA,8:41:07,8:35:53,17:01
+191,1608,Johanna Sherman,F,28,Lolo,MT,8:36:58,8:36:43,17:03
+192,1578,Marina Santiago,F,36,Missoula,MT,8:42:19,8:37:15,17:04
+193,1672,Kevin Bristol Vahlbusch,M,37,Bozeman,MT,8:47:59,8:37:31,17:04
+194,1114,Anna Coles,F,34,Kalispell,MT,8:47:40,8:37:33,17:04
+195,1045,Josh Beisel,M,26,Missoula,MT,8:48:10,8:37:52,17:05
+196,1479,Kari Obma,F,42,Missoula,MT,8:38:39,8:38:24,17:06
+197,1604,Jonas Shannon-Webster,M,23,Bozeman,MT,8:38:37,8:38:32,17:06
+198,1194,Corey Fisher,M,44,Missoula,MT,8:48:49,8:38:43,17:07
+199,1104,Caleb Cerling,M,36,Louisville,CO,8:53:58,8:38:55,17:07
+200,1520,Deserrae Potts,F,26,Bozeman,MT,8:54:49,8:39:44,17:09
+201,62,Jody Sanborn,F,42,Banner,WY,8:45:21,8:40:08,17:09
+202,1085,Jack Buban,M,25,Bozeman,MT,8:46:14,8:41:11,17:12
+203,1487,Tanner Pace,M,30,Missoula,MT,8:51:23,8:41:24,17:12
+204,1362,Sarah Krout,F,27,Victor,MT,8:47:19,8:42:00,17:13
+205,1602,Leah Senner,F,24,Bozeman,MT,8:43:29,8:43:16,17:16
+206,1063,Canaan Bontadelli,M,47,Bozeman,MT,8:50:00,8:44:38,17:18
+207,78,Milton Zhinin-Barreto,M,43,Missoula,MT,8:50:15,8:45:09,17:19
+208,8,Colin Brust,M,28,Missoula,MT,8:55:21,8:45:18,17:20
+209,1070,Michael Bowers,M,36,Bozeman,MT,8:51:24,8:45:58,17:21
+210,54,Bryant Oleary,M,30,Bozemanbozeman,MT,8:56:32,8:46:24,17:22
+211,1017,Eric Antonson,M,30,Billings,MT,8:57:58,8:47:50,17:25
+212,1727,Gretchen Wise,F,36,Livingston,MT,8:58:59,8:48:37,17:26
+213,1666,Brandon Trusler,M,25,Chicago,IL,8:58:59,8:48:49,17:27
+214,1301,Jacob Inman,M,23,Bozeman,MT,9:04:36,8:49:27,17:28
+215,1344,Alex Kenoian,F,27,Oak Park,IL,9:04:34,8:49:29,17:28
+216,1609,Linnea Sherman,F,23,Bozeman,MT,9:04:48,8:49:39,17:28
+217,1500,Garrett Perkins,M,24,Bozeman,MT,9:00:04,8:49:57,17:29
+218,1428,Ryan McAfee,M,43,Colorado Springs,CO,9:05:21,8:50:02,17:29
+219,20,John Fiore,M,62,Missoula,MT,8:56:38,8:51:26,17:32
+220,1167,Michael Downs,M,46,Berkeley,CA,9:02:43,8:52:32,17:34
+221,1061,Leigha Bohn,F,31,Missoula,MT,8:58:26,8:53:05,17:35
+222,1366,Tyler Kuhn,M,41,Cody,WY,9:03:33,8:53:29,17:36
+223,1506,Robert Peterson,M,31,Billings,MT,8:59:25,8:54:24,17:38
+224,1658,Jade Thomas,F,26,Columbia Falls,MT,9:15:12,8:54:59,17:39
+225,1714,Gillian Wilcox,F,27,Missoula,MT,9:10:17,8:55:18,17:40
+226,1443,Nathan Meyer,M,26,Pocatello,ID,9:05:44,8:55:31,17:40
+227,1644,Addie Streble,F,22,Bozeman,MT,9:16:10,8:56:07,17:41
+228,1267,Jenny Heglund,F,39,Gallatin Gateway,MT,9:02:18,8:57:03,17:43
+229,1681,Katherine Vaux,F,32,Ellijay,GA,9:08:55,8:58:49,17:46
+230,1628,Karyn Sorenson,F,29,Missoula,MT,9:14:02,8:58:58,17:47
+231,1117,Morgan Coniglio,F,22,Anchorage,AK,9:24:48,8:59:44,17:48
+232,1071,Courtney Bowman,M,43,Big Sky,MT,9:05:36,9:00:18,17:49
+233,1259,Wesley Harton,M,27,Missoula,MT,9:11:45,9:01:29,17:52
+234,1386,Brendan Leonard,M,45,Missoula,MT,9:16:50,9:01:43,17:52
+235,1328,Fiona Jordan,F,24,Missoula,MT,9:13:53,9:03:35,17:56
+236,1704,Kelsey Wellington,F,33,Missoula,MT,9:03:51,9:03:43,17:56
+237,1466,Garrett Murtha,M,24,Bozeman,MT,9:15:27,9:05:24,18:00
+238,1185,Colton Ellingson,M,23,Bozeman,MT,9:11:45,9:06:41,18:02
+239,1633,Brett Stanton,M,27,Portsmouth,RI,9:27:04,9:06:53,18:02
+240,1499,Devin Pereira,F,24,Bozeman,MT,9:22:38,9:07:20,18:03
+241,1440,Daniel Meuchel,M,35,Billings,MT,9:08:07,9:07:55,18:04
+242,1671,Curtis Upton,M,21,Bozeman,MT,9:13:50,9:08:38,18:06
+243,1622,Alex Smith,M,36,Bozeman,MT,9:24:08,9:08:45,18:06
+244,1069,Nolan Boswel,M,22,Bozeman,MT,9:19:06,9:08:51,18:06
+245,1084,Ross Brunner,M,42,Huson,MT,9:29:04,9:08:54,18:06
+246,1089,Josh Bunz,M,38,Billings,MT,9:13:59,9:08:59,18:07
+247,1079,Corey Bronstein,M,61,Englewood,NJ,9:19:24,9:09:07,18:07
+248,1495,Erik Pearson,M,33,Arvada,CO,9:24:47,9:09:42,18:08
+249,1399,Allison Lowenstein,F,33,Seattle,WA,9:15:43,9:10:43,18:10
+250,1650,e ethan swadburg,M,28,Bozeman,MT,9:35:56,9:10:45,18:10
+251,1637,Tad Stichman,M,47,Billings,MT,9:26:23,9:10:56,18:10
+252,1616,Marilee Simons,F,43,Bozeman,MT,9:21:03,9:10:59,18:11
+253,1654,Emma Tate,F,23,Bozeman,MT,9:12:36,9:12:28,18:13
+254,1529,Brennen Quigley,M,26,Lakewood,CO,9:33:42,9:13:39,18:16
+255,1647,Peter Sunden,M,41,Missoula,MT,9:19:58,9:14:46,18:18
+256,1141,Aaron Deeter,M,28,Bozeman,MT,9:20:19,9:15:07,18:19
+257,1693,Josh Wasserman,M,26,Big Sky,MT,9:30:30,9:15:21,18:19
+258,1341,Maddie Kelly,F,30,Salt Lake City,UT,9:35:25,9:15:25,18:19
+259,1696,Jackson Webber,M,24,Salt Lake City,UT,9:36:08,9:16:04,18:21
+260,1039,Samuel Bayard,M,50,Bozeman,MT,9:36:17,9:16:07,18:21
+261,1677,Justin van Emmerik,M,34,Kalispell,MT,9:41:13,9:16:07,18:21
+262,1060,Jeremy Boethin,M,49,Star,ID,9:16:22,9:16:10,18:21
+263,1229,Josh Gretz,M,42,Cranberry Twp,PA,9:16:30,9:16:23,18:21
+264,1102,Blake Cash,M,43,Chattanooga,TN,9:26:34,9:16:25,18:21
+265,1336,Emma Keating,X,21,Bozeman,MT,9:32:00,9:16:47,18:22
+266,6,Carley Bostrom,F,36,East Helena,MT,9:22:12,9:17:07,18:23
+267,1067,Micah Bostrom,M,35,Helena,MT,9:22:12,9:17:08,18:23
+268,1721,Triana Willmert,F,24,Bozeman,MT,9:37:41,9:17:36,18:24
+269,1302,Madeline Inman,F,21,Bozeman,MT,9:33:11,9:18:02,18:25
+270,1424,Noah Mattes,M,26,Bozeman,MT,9:38:11,9:18:05,18:25
+271,1510,Liz Phillips,F,24,Missoula,MT,9:33:26,9:18:05,18:25
+272,1364,John Kubinak,M,30,Bozeman,MT,9:34:35,9:19:25,18:27
+273,1355,Ingrid Klinkenberg,F,27,Burlington,VT,9:29:31,9:19:27,18:27
+274,1158,Frank Dominik,M,38,Victorville,CA,9:25:40,9:20:29,18:29
+275,37,Caleb Laszloffy,M,30,Laurel,MT,9:20:52,9:20:40,18:30
+276,1239,Jackson Hamilton,M,28,Bozeman,MT,9:31:55,9:21:34,18:32
+277,1663,Metta Trautmann,F,28,Bozeman,MT,9:37:18,9:22:00,18:32
+278,1415,Raelynn Malson,F,27,Bozeman,MT,9:37:18,9:22:01,18:32
+279,1720,Nathaniel Williams,M,24,Belgrade,MT,9:33:09,9:22:54,18:34
+280,1528,Adrianna Proffitt,F,22,Bozeman,MT,9:38:22,9:23:11,18:35
+281,1599,Beau Seegmiller,M,54,Menan,ID,9:38:27,9:23:21,18:35
+282,1538,Ava Reier,F,22,Bozeman,MT,9:34:18,9:23:54,18:36
+283,48,Nathan Stouffer,M,25,Kalispell,MT,9:39:34,9:24:31,18:37
+284,1568,Brock Rugg,M,24,Missoula,MT,9:29:47,9:24:44,18:38
+285,1318,Anonymous Participant,F,33,,,9:35:56,9:25:34,18:39
+286,1145,Anne Dellwo,F,39,Missoula,MT,9:50:46,9:25:34,18:39
+287,1645,Madison Sudweeks,X,26,Salt Lake City,UT,9:46:49,9:26:39,18:42
+288,46,Matt Moosavian,M,30,Washington,DC,9:32:16,9:27:03,18:42
+289,1531,Ben Quist,M,22,Bozeman,MT,9:37:15,9:27:05,18:42
+290,1389,Cody Lindberg,M,29,Big Sky,MT,9:47:18,9:27:05,18:42
+291,1575,Lexi Ryman,F,33,Bozeman,MT,9:47:14,9:27:07,18:43
+292,1016,Vic Anesini,M,60,River Edge,NJ,9:38:09,9:27:51,18:44
+293,1274,Bret Hightower,M,45,Atlanta,GA,9:33:03,9:27:54,18:44
+294,1214,Kelson Geber,M,39,Kalispell,MT,9:38:10,9:27:57,18:44
+295,14,Melissa Davis,F,36,Bozeman,MT,9:33:49,9:28:43,18:46
+296,1649,Andrew Supko,M,33,Salt Lake City,UT,9:49:13,9:29:09,18:47
+297,1310,Gavin Jasper,M,20,Sagle,ID,9:44:39,9:29:24,18:47
+298,1112,Kayte Cole,F,31,Bozeman,MT,9:44:55,9:29:48,18:48
+299,66,Kevin Smith,M,42,Big Sky,MT,9:40:29,9:30:06,18:48
+300,1634,Ramzi Stech,M,27,Bozeman,MT,9:56:54,9:31:48,18:52
+301,1631,Oliver Sperin,M,32,Clarkesville,GA,9:41:56,9:31:52,18:52
+302,1493,Anna Paynter,F,20,University Place,MT,9:47:03,9:31:57,18:52
+303,1472,Jon Nesovic,M,37,Red Lodge,MT,9:48:04,9:32:44,18:54
+304,1332,Evan Juras,M,34,Bozeman,MT,9:47:54,9:32:46,18:54
+305,1135,Madeline Curran,F,29,Bozeman,MT,9:59:39,9:34:22,18:57
+306,1454,Jack Mitchell,M,29,Pocatello,ID,9:40:24,9:35:04,18:58
+307,27,Emily Hook,F,32,Bozeman,MT,9:50:31,9:35:13,18:59
+308,1564,Zach Roth,M,38,Lafayette,CO,9:41:16,9:36:01,19:00
+309,1052,James Berry,M,29,San Diego,CA,9:46:43,9:36:37,19:01
+310,1191,Kylie Esselstrom,F,30,Bozeman,MT,9:56:50,9:36:42,19:02
+311,1739,Allison Young,F,46,Missoula,MT,9:52:17,9:36:56,19:02
+312,1082,Rachel Brown,F,31,Portland,ME,9:53:23,9:38:10,19:04
+313,1211,Emily Gary,F,32,Deer Lodge,MT,9:58:46,9:38:36,19:05
+314,1349,Jessica King,F,35,Bow,WA,9:48:57,9:38:49,19:06
+315,1433,Amanda McIntosh,F,30,Whitefish,MT,9:54:13,9:39:00,19:06
+316,1449,Joe Miles,M,61,Manchester Center,VT,9:54:27,9:39:17,19:07
+317,1138,Jessica Davant,F,50,Bozeman,MT,9:55:10,9:39:57,19:08
+318,1445,Sydney Michalak,F,28,Bozeman,MT,9:45:58,9:40:40,19:09
+319,1154,Tesha Distad,F,49,Big Sky,MT,9:46:35,9:41:12,19:10
+320,1741,Jane Zanteson,F,26,Bozeman,MT,10:06:26,9:41:21,19:11
+321,1624,Casey Smith,M,26,Seattle,WA,9:56:30,9:41:22,19:11
+322,1484,Benjamin Oppenheimer,M,47,Boulder,CO,10:06:33,9:41:29,19:11
+323,1576,Patricia Sampson,F,51,El Sobrante,CA,9:56:48,9:41:41,19:11
+324,1269,Sean Henely,M,36,Denver,CO,9:57:03,9:41:59,19:12
+325,1091,Syd Burke,F,20,Boulder,CO,10:02:13,9:42:08,19:12
+326,1230,Jeff Grizzel,M,56,Ephrata,WA,9:52:28,9:42:21,19:13
+327,1451,Leah Miller,F,42,Missoula,MT,9:53:21,9:42:56,19:14
+328,1340,Lane Kelly,M,31,Salt Lake City,UT,10:03:11,9:43:11,19:14
+329,1626,Erik Solveson,M,30,Missoula,MT,9:59:01,9:43:35,19:15
+330,1478,Patrick O'Reilly,M,29,Portland,OR,9:58:43,9:43:37,19:15
+331,1711,Stephanie White,F,30,Portland,OR,9:58:44,9:43:37,19:15
+332,1144,Michaela Delaney,F,30,Frenchtown,MT,9:59:01,9:43:39,19:15
+333,1586,Nathan Schimke,M,22,Bozeman,MT,9:54:06,9:44:03,19:16
+334,1106,Chris Chapruet,M,32,Saugus,MA,9:55:22,9:45:05,19:18
+335,1471,Joe Nelson,M,34,Bozeman,MT,10:06:33,9:46:22,19:21
+336,1460,Charles Morenus,M,31,Essex Junction,VT,10:06:40,9:46:34,19:21
+337,1264,Julia Hayes,F,31,Bozeman,MT,9:52:11,9:46:51,19:22
+338,1304,Chris Irvine,M,34,Billings,MT,10:07:18,9:47:08,19:22
+339,1130,Gessica Cross,F,34,Lakewood,CO,10:07:45,9:47:39,19:23
+340,1026,Grace Baghdady,F,25,Missoula,MT,10:03:25,9:48:03,19:24
+341,1143,Megan Delaney,F,24,Missoula,MT,10:04:06,9:48:43,19:25
+342,1221,Gregory Goldstein,M,37,Needham,MA,10:04:15,9:48:47,19:25
+343,1245,Robin Hape,M,63,Bozeman,MT,10:09:29,9:49:22,19:27
+344,1347,Sarah Minju Kim,F,27,Lawrenceville,GA,9:59:25,9:49:25,19:27
+345,1550,Elizabeth Robinson,F,26,Bozeman,MT,10:00:43,9:50:29,19:29
+346,1477,William O'Leary,M,27,Tacoma,WA,10:06:10,9:50:56,19:30
+347,1253,Addy Harris,F,22,Bozeman,MT,10:06:17,9:51:00,19:30
+348,1558,Mike Romeo,M,35,Belgrade,MT,9:56:15,9:51:08,19:30
+349,1442,Chris Meyer,M,34,Hamilton,MT,10:06:18,9:51:12,19:30
+350,1722,Amanda Wilson,F,41,Lillington,NC,9:51:57,9:51:48,19:31
+351,1307,Sean Jansen,M,36,Bozeman,MT,10:12:08,9:51:51,19:31
+352,1621,Mathew Sletten,M,55,Princeton,MN,10:18:20,9:52:59,19:34
+353,1190,Andrea Emde,F,34,Whitefish,MT,10:03:08,9:53:00,19:34
+354,1331,Jon Jupka,M,44,Bozeman,MT,10:09:18,9:54:02,19:36
+355,1300,Kurt Ingold,M,48,Hamilton,MT,10:09:36,9:54:24,19:37
+356,1058,Christina Bodznick,F,36,Bozeman,MT,10:19:51,9:54:41,19:37
+357,1339,Dillon Kelly,M,23,Bozeman,MT,10:06:03,9:55:47,19:39
+358,1470,Christopher Nelson,M,34,Spokane,WA,10:16:38,9:56:38,19:41
+359,1591,Nick Schneider,M,22,Bozeman,MT,10:17:02,9:56:55,19:42
+360,1718,Fletcher Wilkens,M,36,Spokane,WA,10:17:03,9:57:03,19:42
+361,1665,Stavros Trimmer,M,25,Bozeman,MT,10:07:30,9:57:19,19:42
+362,1372,Matthew LaCasse,M,37,Big Sky,MT,10:19:09,9:59:06,19:46
+363,1719,Adam Williams,M,36,Bozeman,MT,10:09:18,9:59:13,19:46
+364,1095,Cassy Campanella,F,33,CUMMING,GA,10:01:00,10:00:55,19:49
+365,1123,a amy courville,F,58,Saint Ignatius,MT,10:27:05,10:01:59,19:52
+366,1107,Amanda Charron,F,34,Missoula,MT,10:18:02,10:02:41,19:53
+367,1740,Aron Yuster,M,37,Big Sky,MT,10:18:18,10:02:53,19:53
+368,1006,Jordan Aid,M,33,Bozeman,MT,10:23:28,10:03:11,19:54
+369,1745,Brennan Ryan,M,55,Bozeman,MT,10:23:28,10:03:24,19:54
+370,1669,Casey Ulman,F,53,Bozeman,MT,10:10:41,10:05:22,19:58
+371,59,Chris Rendeiro,M,33,Belgrade,MT,10:18:24,10:08:16,20:04
+372,15,Naomi Deridder,F,21,Bozeman,MT,10:18:39,10:08:21,20:04
+373,1524,Micah Price,M,33,Boulder,CO,10:28:58,10:08:47,20:05
+374,1059,Elizabeth Boeheim,F,39,Missoula,MT,10:34:23,10:09:16,20:06
+375,1467,Abby Myers,F,25,Big Sky,MT,10:29:38,10:09:25,20:06
+376,1651,Benjamin Swain,M,26,BozemanBozeman,MT,10:26:37,10:11:22,20:10
+377,1208,Bryan Gartland,M,47,Helena,MT,10:27:40,10:12:36,20:13
+378,1018,Andrew Arena,M,35,Bozeman,MT,10:32:51,10:12:44,20:13
+379,1560,Nathan Rood,M,24,Salt Lake City,UT,10:33:09,10:12:51,20:13
+380,1243,Gillian Hansen,F,26,Bend,OR,10:39:38,10:14:29,20:16
+381,1625,Shelby Smith,F,28,Bozeman,MT,10:30:31,10:15:23,20:18
+382,1430,Robert McCormick,M,47,Gallatin Gateway,MT,10:30:50,10:15:26,20:18
+383,1270,Vickira Hengst,F,26,Bozeman,MT,10:30:31,10:15:31,20:18
+384,1549,Riley Robertson,M,28,Newport Beach,CA,10:21:15,10:16:09,20:20
+385,35,Zachary Kubernat,M,40,Naples,FL,10:21:52,10:16:42,20:21
+386,1151,Kevin Dice,M,29,Bozeman,MT,10:32:47,10:17:06,20:22
+387,29,Tyler Hunter,M,31,Boulder,CO,10:22:29,10:17:18,20:22
+388,1246,Tyler Harbin,M,34,Bozeman,MT,10:18:11,10:18:01,20:23
+389,1218,Timothy Gilligan,M,49,Conshohocken,PA,10:28:12,10:18:05,20:23
+390,1220,Dan Goldstein,M,35,Bozeman,MT,10:33:36,10:18:07,20:24
+391,1193,Madison Fink,F,28,Bozeman,MT,10:34:03,10:18:45,20:25
+392,1444,Tana Meyer,F,26,BozemaN,MT,10:34:02,10:18:45,20:25
+393,1436,Brian Meaden,M,39,Plains,MT,10:24:09,10:18:52,20:25
+394,76,Manuel Whiteman,M,49,Hardin,MT,10:34:21,10:19:18,20:26
+395,1351,Rozlyn Kinney,F,29,Bozeman,MT,10:44:46,10:19:35,20:26
+396,1152,Garrett Dickson,M,34,Fort Collins,CO,10:35:13,10:19:48,20:27
+397,1330,Stephen Jozefczyk,M,46,Grand Junction,CO,10:35:14,10:19:48,20:27
+398,1667,Joseph Tuhy,M,26,Missoula,MT,10:30:04,10:19:52,20:27
+399,1465,Eric Mosley,M,30,Belgrade,MT,10:35:15,10:20:12,20:28
+400,1326,Parker Jones,M,24,Downers Grove,IL,10:32:42,10:20:38,20:28
+401,1403,Collin Lund,M,39,Missoula,MT,10:36:03,10:20:39,20:29
+402,1692,Jack Warner,M,24,Bozeman,MT,10:35:50,10:20:42,20:29
+403,1680,Luke Vaughan,M,24,Trenton,NJ,10:36:19,10:20:57,20:29
+404,1055,Jessica Bessler,F,28,Powell,WY,10:47:10,10:21:58,20:31
+405,1231,Jessica Groseth,F,42,Bozeman,MT,10:37:27,10:22:06,20:31
+406,1691,Aspen Ward,F,32,Huson,MT,10:32:44,10:22:36,20:32
+407,1732,Erik Wright,M,45,Bozeman,MT,10:43:26,10:23:21,20:34
+408,1584,Caitlin Scheder,F,30,Nashville,TN,10:34:43,10:24:25,20:36
+409,42,Megan McCarthy,F,41,Harpers Ferry,WV,10:35:46,10:25:43,20:39
+410,1580,Mark Saunders,M,30,Bozeman,MT,10:50:56,10:25:45,20:39
+411,1588,Paige Schlegel,F,24,Bozeman,MT,10:50:49,10:25:49,20:39
+412,1507,Marc Pevoteaux,M,51,Colorado Springs,CO,10:41:42,10:26:23,20:40
+413,1379,Madison Larson,F,23,Bozeman,MT,10:47:09,10:26:58,20:41
+414,31,Matthew 'man Dime' Kellenberger,M,40,Missoula,MT,10:32:33,10:27:16,20:42
+415,1551,Nikki Roda,F,32,Missoula,MT,10:43:23,10:27:57,20:43
+416,1387,Nate Ley,M,31,Salt Lake City,UT,10:48:29,10:28:26,20:44
+417,1404,Per Lundmark,M,32,Minneapolis,MN,10:48:29,10:28:28,20:44
+418,24,Jacob Hazewinkel,M,44,Oklahoma City,OK,10:33:47,10:28:36,20:44
+419,1283,Rick Hollenbaugh,M,59,Bozeman,MT,10:49:05,10:29:04,20:45
+420,1282,David Hollenbaugh,M,55,Boston,MA,10:49:05,10:29:05,20:45
+421,1036,Louis Bassette,M,28,Portland,OR,10:34:47,10:29:41,20:46
+422,1492,Tyler Patrick,M,30,Big Sky,MT,10:46:59,10:31:59,20:51
+423,1640,Parker Stoltz,M,24,Bozeman,MT,10:48:03,10:32:55,20:53
+424,1175,Lauren Duvall,F,23,Las Vegas,NV,10:54:08,10:33:57,20:55
+425,1638,Eric Stiffarm,M,47,Billings,MT,10:50:26,10:35:20,20:58
+426,1337,Benjamin Keffer,M,29,Livingston,MT,10:47:28,10:37:06,21:01
+427,1234,Jacque Hagen,F,42,Rapid City,SD,10:53:04,10:37:44,21:02
+428,64,Julie Shobe,F,38,Kalispell,MT,10:47:52,10:37:45,21:02
+429,1705,Hadley Wells,F,22,Bozeman,MT,11:02:59,10:37:59,21:03
+430,1352,Sean Kinsman,M,28,Seattle,WA,11:03:29,10:38:21,21:04
+431,1241,Shannon Hamp,F,23,Bozeman,MT,10:49:19,10:39:05,21:05
+432,1369,Taylor Kwait,F,29,Bozeman,MT,10:54:54,10:39:44,21:06
+433,1685,Paul Viscontini,M,41,Stamford,CT,10:56:55,10:41:52,21:11
+434,65,Daniel Short,M,45,Bozeman,MT,10:52:35,10:42:11,21:11
+435,1124,Aaron Cox,M,40,Bozeman,MT,10:52:25,10:42:16,21:11
+436,1257,Delaney Hartgen,F,20,Bozeman,MT,11:07:30,10:42:25,21:12
+437,1639,David Stoffregen,M,56,Salem,MA,10:43:06,10:42:55,21:13
+438,1284,Matt Honegger,M,44,Denver,CO,10:59:05,10:43:42,21:14
+439,1126,Jennifer Crandall,F,26,Bozeman,MT,11:04:26,10:44:12,21:15
+440,1715,Mark Wilczynski,M,49,Big Sky,MT,11:04:25,10:44:16,21:15
+441,1468,Hanna Naukkarinen,F,32,Sugar Hill,GA,10:50:19,10:45:02,21:17
+442,1166,Kevin Downs,M,44,Helena,MT,11:00:44,10:45:21,21:17
+443,1322,Sean Johnson,M,29,Berkeley,CA,11:06:28,10:46:20,21:19
+444,1678,Jason Van Rijn,M,34,Los Angeles,CA,11:07:13,10:47:04,21:21
+445,55,Matt Parsons,M,47,Bozeman,MT,10:59:44,10:48:56,21:25
+446,1288,Denny Hoselton,M,30,Missoula,MT,11:04:19,10:49:04,21:25
+447,1682,Joshua Velazquez,M,38,McAllen,TX,10:54:23,10:49:18,21:25
+448,1539,DJ Reinhardt,F,30,Missoula,MT,11:05:06,10:50:03,21:27
+449,22,John Michael Gorum,M,33,Missoula,MT,11:05:07,10:50:03,21:27
+450,1286,Koy Hoover,M,53,Gallatin Gateway,MT,10:57:52,10:52:31,21:32
+451,1413,Molly Mahoney,F,32,Somerville,MA,11:08:41,10:53:26,21:33
+452,1007,Al Alinea,M,44,East Glacier Park,MT,11:18:53,10:53:43,21:34
+453,5,Heather Bodenhamer,F,27,Bozeman,MT,11:09:05,10:53:46,21:34
+454,1455,Olivia Mitchell,F,23,Bozeman,MT,11:10:39,10:55:27,21:37
+455,1597,Lucas Scott,M,40,Piedmont,SD,11:06:01,10:55:50,21:38
+456,1226,Nicole Graziano,F,28,Monument,CO,11:11:04,10:55:52,21:38
+457,1077,Kyle Branderhorst,M,43,Portland,OR,11:16:33,10:56:33,21:40
+458,1543,Luis Reyes,M,42,Groves,TX,11:16:43,10:56:40,21:40
+459,1515,Melissa Pomaville,F,29,Missoula,MT,11:12:45,10:57:24,21:41
+460,1010,Nell Allison,F,32,Bozeman,MT,11:22:33,10:57:24,21:41
+461,1612,Travis Shrader,M,42,Austin,TX,11:12:47,10:57:47,21:42
+462,1615,Tommy Simmons,M,23,Bozeman,MT,11:09:55,10:59:39,21:46
+463,51,Thea O'Lari,F,31,Dillon,CO,11:20:49,11:00:40,21:48
+464,1177,Isaac Eagan,M,42,Washington,DC,11:11:15,11:01:09,21:49
+465,1482,Hilary Oliver,F,42,MissoulaMissoula,MT,11:22:09,11:02:05,21:51
+466,1689,Dennis Walerius,M,44,Sylvania,OH,11:12:24,11:02:12,21:51
+467,1248,Trevor Hare,M,44,Kalispell,MT,11:12:37,11:02:22,21:51
+468,58,Monty Pretty Weasel,M,45,Hardin,MT,11:18:14,11:03:06,21:53
+469,1688,Zachary Wakefield,M,25,Brighton,MA,11:14:45,11:04:36,21:56
+470,1392,Sarah Lizotte,F,28,Kalispell,MT,11:09:56,11:04:41,21:56
+471,1601,Zach Selby,M,31,Bozeman,MT,11:14:55,11:04:45,21:56
+472,1380,Nina Lasswell,F,27,Portland,OR,11:12:19,11:07:13,22:01
+473,36,Noah Lam,M,32,Seattle,WA,11:24:35,11:09:22,22:05
+474,1394,Nate Loman,M,56,Fairlawn,OH,11:16:18,11:10:48,22:08
+475,1412,Robert Maher,M,36,Helena,MT,11:26:43,11:11:30,22:09
+476,1186,Kelsie Ellingson,F,33,Saint Paul,MN,11:26:50,11:11:41,22:10
+477,1111,Jennie Cohen,F,44,Big Sky,MT,11:33:02,11:12:57,22:12
+478,1189,Rachel Ely,F,26,Bozeman,MT,11:38:21,11:13:21,22:13
+479,1410,Aaron Mahan,M,46,Kellogg,ID,11:33:36,11:13:25,22:13
+480,1569,Korey Rugg,M,51,Missoula,MT,11:33:59,11:13:50,22:14
+481,1086,Gwyneth Buchanan,F,30,Missoula,MT,11:34:45,11:14:32,22:15
+482,1513,Taylor Plymale,F,28,Missoula,MT,11:35:17,11:15:00,22:16
+483,1716,Alex Wiley,M,38,Portland,OR,11:35:04,11:15:04,22:16
+484,50,Emily Norum,F,24,Missoula,MT,11:37:11,11:16:58,22:20
+485,1582,Nick Schaefer,M,30,Bozeman,MT,11:33:41,11:18:35,22:23
+486,1317,Allen Johnson,M,36,Clancy,MT,11:45:20,11:20:04,22:26
+487,1447,Merry Michalski,F,40,Clancy,MT,11:45:20,11:20:06,22:26
+488,43,Dana McMahon,M,48,Medicine Hat,AB,11:36:38,11:21:21,22:29
+489,1188,Jessica Ellis,F,28,Mount Shasta,CA,11:33:01,11:22:40,22:31
+490,1312,Adam Jenschke,M,42,Bandera,TX,11:39:33,11:24:30,22:35
+491,1699,Brendan Weeks,M,41,Sandy,UT,11:51:24,11:26:14,22:38
+492,1159,Kacie Donaldson,F,23,Bozeman,MT,11:51:34,11:26:31,22:39
+493,1338,Chloe Keller,F,23,Columbia Falls,MT,11:51:38,11:26:33,22:39
+494,1494,Anna Peabody,F,38,Helena,MT,11:47:17,11:27:01,22:40
+495,1401,Arthur Loza,M,22,Bozeman,MT,11:53:05,11:28:00,22:42
+496,1684,Lauren Vine,F,32,Helena,MT,11:54:12,11:29:09,22:44
+497,1729,Taylor Wood,M,32,Whitefish,MT,11:45:10,11:30:06,22:46
+498,1033,e erin bartels,F,31,Breckenridge,CO,11:52:08,11:31:59,22:50
+499,1660,Dylan Thornton,M,43,Bozeman,MT,11:59:14,11:34:07,22:54
+500,1153,Carter Dinyari,M,25,Missoulamissoula,MT,11:49:31,11:34:08,22:54
+501,1709,Benjamin Wetherby,M,40,Gallatin Gateway,MT,11:54:40,11:34:24,22:55
+502,1553,Libby Roether,F,38,Brecksville,OH,11:44:38,11:34:35,22:55
+503,1228,Lanier Greenhaw,M,53,Athens,AL,12:00:29,11:35:23,22:57
+504,1109,Abby Cleminson,F,40,Spokane,WA,11:45:38,11:35:32,22:57
+505,1737,Laurie Yliniemi,F,44,Detroit Lakes,MN,12:03:07,11:38:00,23:02
+506,1743,Jason Ziegler,M,48,Frazee,MN,12:03:08,11:38:00,23:02
+507,1289,Holland Howe,F,25,Salt Lake City,UT,11:58:09,11:38:01,23:02
+508,1319,Cody Johnson,M,40,Bend,OR,11:53:15,11:38:03,23:02
+509,1096,Jared Campanella,M,34,Woodstock,GA,11:38:16,11:38:10,23:02
+510,1381,Jacob Lathrop,M,24,Bozeman,MT,11:53:53,11:38:41,23:03
+511,1237,Ryan Hall,M,42,Arlington,VA,11:45:10,11:40:03,23:06
+512,1748,Zach Armstrong,M,46,Whitefish,MT,11:45:10,11:40:03,23:06
+513,1224,Amber Gransinger,F,26,Kalispell,MT,11:50:31,11:40:28,23:07
+514,1172,Paul Dunderland,M,67,Bottineau,ND,12:05:54,11:40:37,23:07
+515,1627,Robert Sorensen,M,27,Seattle,WA,12:07:15,11:42:07,23:10
+516,1276,Chloe Hirst,F,21,Bozeman,MT,11:53:48,11:43:24,23:12
+517,1683,Laurel Vielle,F,51,Polson,MT,12:13:24,11:48:12,23:22
+518,1206,Candace Gale,F,43,Window Rock,AZ,11:58:35,11:48:30,23:22
+519,1202,Ory Frazier,X,38,Tucson,AZ,12:00:05,11:49:50,23:25
+520,1134,Brian Curran,M,57,Draper,UT,12:10:57,11:50:33,23:27
+521,1029,Christopher Barnes,M,23,Bozeman,MT,11:51:02,11:50:54,23:27
+522,1552,Jenny Roentz,F,43,Bozeman,MT,11:51:26,11:51:16,23:28
+523,1441,Aimee Meyer,F,34,Hamilton,MT,12:17:06,11:52:02,23:29
+524,1303,Andrew Innes,M,38,Brecksville,OH,12:17:37,11:52:37,23:31
+525,1664,Shane Treadaway,M,50,Dawsonville,GA,12:19:02,11:53:57,23:33
+526,16,Melissa Emery,F,52,Big Skybig Sky,MT,12:11:15,12:00:49,23:47
+527,1294,Holly Hunt,F,31,Bozeman,MT,12:26:08,12:01:02,23:47
+528,1537,Steven Reid,M,35,Big Sky,MT,12:22:55,12:02:42,23:51
+529,1174,Ryan Dunn,M,25,Stevensville,MT,12:20:40,12:05:26,23:56
+530,1405,Patrick Lupton,M,51,Bozeman,MT,12:21:15,12:06:10,23:57
+531,1015,Ryan Andrist,M,48,Wheat Ridge,CO,12:16:42,12:06:22,23:58
+532,1324,Josh Johnston,M,47,Atlanta,GA,12:12:20,12:07:09,23:59
+533,1129,Jacob Crooks,M,23,Corvallis,MT,12:20:28,12:10:04,24:05
+534,1105,Corey Chan,M,30,Missoula,MT,12:16:33,12:11:15,24:08
+535,38,Eliot Lee,M,52,Anaconda,MT,12:17:44,12:12:27,24:10
+536,1431,Jacob McFarlane,M,26,Missoula,MT,12:31:15,12:15:50,24:17
+537,1746,Greta Beyer,F,18,Missoula,MT,12:36:38,12:16:34,24:18
+538,1215,Jill Gerdrum,F,50,Missoula,MT,12:36:38,12:16:34,24:18
+539,1139,Kayli Day,F,34,Missoula,MT,12:35:16,12:19:45,24:24
+540,1400,Chloe Lowney,F,32,Butte,MT,12:35:17,12:19:46,24:24
+541,1217,Molly Gillespie,F,26,Victor,ID,12:47:50,12:22:41,24:30
+542,1397,Robert Louis-Ferdinand,M,57,Bloomfield Hills,MI,12:48:26,12:23:18,24:31
+543,1416,Anonymous Participant,M,26,,,12:39:41,12:24:16,24:33
+544,1222,Ryan Graham-Laughlin,M,37,Missoula,MT,12:42:41,12:32:24,24:49
+545,1321,Ryan Johnson,M,47,Portland,OR,12:50:33,12:35:04,24:55
+DNF,1296,Thomas Huntsinger,M,22,Missoula,MT,DNF,DNF,
+DNF,1518,William Popp,M,37,Austin,TX,DNF,DNF,
+DNF,1733,Hannah Wylie,F,24,Crown Point,IN,DNF,DNF,
+DNF,1483,Jessica Olson,F,28,Bozeman,MT,DNF,DNF,
+DNF,1278,Adam Hofer,M,41,Madison,WI,DNF,DNF,
+DNF,1316,Hailey Johns,F,29,Whitefish,MT,DNF,DNF,
+DNF,1279,MaKena Hofer,F,30,Bozeman,MT,DNF,DNF,
+DNF,1027,Ashlyn Baird,F,24,Bozeman,MT,DNF,DNF,
+DNF,1293,Nathan Hult,M,57,Gladstone,OR,DNF,DNF,
+DNF,1031,Shane Barringer,M,40,Asheville,NC,DNF,DNF,
+DNF,1532,Ryan Raff,M,24,Billings,MT,DNF,DNF,
+DNF,1009,Lindsay Allison,F,28,Telluride,CO,DNF,DNF,
+DNF,1587,Emily Schlebecker,F,28,Bozeman,MT,DNF,DNF,
+DNF,1371,Lexi Kyro,F,25,Bozeman,MT,DNF,DNF,
+DNF,1635,Daniel Steil,M,39,Clarksville,MD,DNF,DNF,
+DNF,1262,Kevin Hatton,M,38,Malden,MA,DNF,DNF,
+DNF,1652,David Swisher,M,31,Salt Lake City,UT,DNF,DNF,
+DNF,1346,James Keys,M,26,Missoula,MT,DNF,DNF,
+DNF,23,Andrew Grillos,M,41,Bozeman,MT,DNF,DNF,
+DNF,1184,Donna Elbert,F,53,West Fargo,ND,DNF,DNF,
+DNF,1508,Claire Pew,F,32,Bozeman,MT,DNF,DNF,
+DNF,61,Juan Rodriguez,M,39,Edison,NJ,DNF,DNF,
+DNF,39,Alyssa Leib,F,31,Golden,CO,DNF,DNF,
+DNF,1311,Matthew Jennings,M,54,Big Sky,MT,DNF,DNF,
+DNF,1390,Martijn Linden,M,50,Bozeman,MT,DNF,DNF,
+DNF,1306,Mitsuhiko Iwasaki,M,53,Bellevue,WA,DNF,DNF,
+DNF,1333,Chris Justice,M,55,Boulder,CO,DNF,DNF,
+DNF,1453,Clark Mitchell,M,58,Pittsburgh,PA,DNF,DNF,
+DNF,1619,Shane Skiff,M,21,Bozeman,MT,DNF,DNF,
+DNF,1240,LUCAS HAMLING,M,23,Bozeman,MT,DNF,DNF,
+DNF,1011,Alex Ammons,M,31,Missoula,MT,DNF,DNF,
+DNF,1469,Sam Negen,M,23,Bozeman,MT,DNF,DNF,
+DNF,41,Daniel Maggiora,M,24,Redmond,OR,DNF,DNF,
+DNF,1594,Joshua Schuler,M,31,Helena,MT,DNF,DNF,
+DNF,1165,Chris Douglas,M,47,Novato,CA,DNF,DNF,
+DNF,1133,Dave Cuppett,M,30,OFallon,MO,DNF,DNF,
+DNF,1176,Sean Dyer,M,31,Bozeman,MT,DNF,DNF,
+DNF,1572,STEFANIE RYAN,F,43,Bozeman,MT,DNF,DNF,
+DNF,1425,Jason Matulewicz,M,51,Marblehead,MA,DNF,DNF,
+DNF,9,Levi Clampitt,M,37,Lethbridge,AB,DNF,DNF,
+DNF,1160,Hilary Donnelly,F,34,Gallatin Gateway,MT,DNF,DNF,
+DNF,1173,Nick Dunn,M,52,Stevensville,MT,DNF,DNF,
+DNF,1360,Kacie Kondrotis,F,28,Berthoud,CO,DNF,DNF,
+DNF,1388,Bernice Lin,F,28,Missoula,MT,DNF,DNF,
+DNF,68,Steve Tanio,M,63,Alva,OK,DNF,DNF,
+DNF,1122,Courtney Wolf,F,45,Brooklyn,NY,DNF,DNF,
+DNF,1187,Blair Elliot,M,41,Big Sky,MT,DNF,DNF,
+DNF,1712,Timothy White,M,37,Kuna,ID,DNF,DNF,
+DNF,1094,Adam Callinan,M,42,Bozeman,MT,DNF,DNF,
+DNF,1376,m melanie lamb,F,37,Bend,OR,DNF,DNF,
+DNF,1742,Jan Zarella,F,48,Roseburg,OR,DNF,DNF,
+DNF,1497,Anne Pekoc,F,57,Corvallis,MT,DNF,DNF,
+DNF,1556,Kathleen Romalia,F,55,Highlands Ranch,CO,DNF,DNF,
+DNF,1043,Brianna Beechler,F,44,Corvallis,OR,DNF,DNF,
+DNF,1432,Ellen McGill,F,23,Bozeman,MT,DNF,DNF,
+DNF,1565,Kailyn Rowe,F,34,Hamilton,MT,DNF,DNF,
+DNF,1014,Jayde Anderson,F,33,Victor,MT,DNF,DNF,
+DNF,1137,Maria D'Ambrosio,F,27,Bozeman,MT,DNF,DNF,
+DNF,1365,Andrew Kuehn,M,51,Cohasset,MN,DNF,DNF,
+DNF,1596,Aimee Schwartzwalter,F,47,Hickson,ND,DNF,DNF,
+DNF,1101,Scott Carroll,M,35,Lolo,MT,DNF,DNF,
+DNF,1457,Colt Monney,M,29,Pocatello,ID,DNF,DNF,
+DNF,1724,Sophia Wingo,F,26,Bozeman,MT,DNF,DNF,
+DNF,1268,Jeff Hendrickson,M,42,Portland,OR,DNF,DNF,
+DNF,75,Paul White,M,67,Lake Oswego,OR,DNF,DNF,
+DNF,1703,Derek Weinrich,M,37,Big Sky,MT,DNF,DNF,
+DNF,1121,Kenneth Cottrell,M,64,Billings,MT,DNF,DNF,
+DNF,1298,Giovanna Iacobacci,F,46,Willoughby,OH,DNF,DNF,
+DNF,1108,Curt Clampitt,M,69,Glasgow,MT,DNF,DNF,
+DNF,28,Michael Horn,M,41,Naples,FL,DNF,DNF,
+DNF,1261,Leann Hatler,F,46,Coulterville,CA,DNF,DNF,
+DNF,40,Hema Lochan,X,30,South Richmond Hill,NY,DNF,DNF,

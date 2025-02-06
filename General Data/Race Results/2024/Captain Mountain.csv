@@ -1,0 +1,164 @@
+Position,First Name,Last Name,City,State,Age,Gender,Division Place,Time
+1,Megan,Eckert,Santa Fe,NM,37,F,1,136
+2,Michaela,Trenidad,Carlsbad,NM,39,F,2,120
+2,Christine,Tokarz,Golden,CO,47,F,2,120
+2,Ed,Ettinghausen, ,CA,61,M,1,120
+5,Laurie,Nakauchi,Lakewood,CO,54,F,4,108
+5,Susan,Alexander,Tucson,AZ,57,F,4,108
+5,Christelle,Douillet,Chapel Hill,NC,55,F,4,108
+8,Cecil,Samora,Clovis,NM,53,M,2,104
+8,Lucas,Durig,Colorado Springs,CO,42,M,2,104
+8,Jerome,Aigner,Cedar Crest,NM,42,M,2,104
+8,Joseph,Bearss,Arvada,CO,53,M,2,104
+8,Stephanie,Leake,Fort Worth,TX,40,F,7,104
+13,Sean,Beyard,Ophir,CO,38,M,6,100
+13,Jeff,Mikesell,Alum Bridge,WV,63,M,6,100
+13,Benjamin,Boese,Gypsum,CO,35,M,6,100
+13,Todd,Schwartz,Lino Lakes,MN,54,M,6,100
+13,Tom,Elliott,Midland,TX,43,M,6,100
+13,Karl,Studtmann,Jackson,TN,61,M,6,100
+13,Walter,Handloser,Ouray,CO,42,M,6,100
+13,Marissa,Bowman,Albuquerque,NM,33,F,8,100
+13,Sarah,Mocker,Pittsburgh,PA,46,F,8,100
+13,Scott,Abbate,Albuquerque,NM,43,M,6,100
+13,Ryan,Neal,Macon,GA,42,M,6,100
+13,Richard,Tenaglia,Concord,MI,49,M,6,100
+13,Leslie,Studtmann,Jackson,TN,40,F,8,100
+13,Richard,Higgins,Canton,GA,55,M,6,100
+13,Samantha,Hoffmann,Monett,MO,31,F,8,100
+13,Adam,Lewis,Cumming,GA,39,M,6,100
+13,Sophie,Rouge,Albuquerque,NM,27,F,8,100
+13,Becca,Neel,Evansville,IN,35,F,8,100
+13,Fred,Roberts,Tucson,AZ,63,M,6,100
+13,Andi,Ramer,Marana,AZ,50,F,8,100
+13,George,Sefzik,Cedar Crest,NM,48,M,6,100
+13,Patrick,Grengs,Sierra Vista,AZ,58,M,6,100
+13,Hoa,Schober,Littleton,CO,46,F,8,100
+13,Howard,Edmiston,Ruidoso,NM,38,M,6,100
+13,Adam,Drozek,Albuquerque,NM,35,M,6,100
+13,Douglas,Myers,Greenville,SC,50,M,6,100
+13,Andrew,Lambright,El Paso,TX,41,M,6,100
+13,Trish,Corbett,Flagstaff,AZ,43,F,8,100
+13,Jason,Corbett,Flagstaff,AZ,43,M,6,100
+13,Gary,Shaw,Half Way,MO,39,M,6,100
+13,Paula,Butzi,Carnation,WA,63,F,8,100
+44,Karen,Walrafen,Ashland,OR,59,F,18,84
+44,Jacob,Ort,las cruces,NM,41,M,27,84
+44,Shashidharreddy,Ghantla,Addison,TX,32,M,27,84
+44,Modesto,VillanuevaIII,Alvin,TX,38,M,27,84
+44,David,Russell,Las Cruces,NM,32,M,27,84
+49,Alyssa,Stefl,Fort Bliss,TX,33,F,19,80
+49,James,Crookes,Albuquerque,NM,48,M,31,80
+49,Jennifer,Wheeler,Purcellville,VA,55,F,19,80
+49,Matt,Willett,Cloudcroft,NM,51,M,31,80
+49,Elizabeth,Dickey,Slippery Rock,PA,62,F,19,80
+49,Kelly,Viands,Crownsville,MD,45,F,19,80
+49,Matt,Bromley,Greenville,MI,46,M,31,80
+49,Arizbe,Monsivais,Dallas,TX,49,F,19,80
+49,Carrie,Moschetto,Stafford,VA,38,F,19,80
+49,James,Conner,Cordele,GA,74,M,31,80
+49,Thomas,Coletti,Davie,FL,53,M,31,80
+49,Stan,King,Jasper,GA,36,M,31,80
+49,Jason,Lutz,"Madisonville, KY",KY,44,M,31,80
+49,Jennifer,Coker,Black Hawk,CO,49,F,19,80
+49,Charlotte,Corriher,Wilmington,NC,56,F,19,80
+49,Joy,Sandoz,Sandy Springs,GA,52,F,19,80
+49,Marco,Denis,Lakeland,FL,41,M,31,80
+49,Adella,Flores,Irving,TX,45,F,19,80
+49,Luke,Montavon,Santa Fe,NM,31,M,31,80
+49,Glenn,Forcier,Colorado Springs,CO,37,M,31,80
+49,Jaime,Taylor,Edmond,OK,49,F,19,80
+49,Jeremy,Brown,Pearland,TX,40,M,31,80
+49,Lisa,Decker,Kingwood,TX,37,F,19,80
+49,Matthew,Lapaglia,Prairieville,LA,38,M,31,80
+49,David,Johnson,ashland,OR,66,M,31,80
+49,Linda,Boring,Pittsburgh,PA,59,F,19,80
+49,Luis,Reyes,Groves,TX,42,M,31,80
+49,James,Oglesby,Jackson,TN,59,M,31,80
+49,Rob,Lowry,Orting,WA,55,M,31,80
+49,Letitia,Moffitt,Longview,IL,55,F,19,80
+49,Brian,Rowley,El Paso,TX,27,M,31,80
+49,Art,Jur,Cleveland,TN,51,M,31,80
+49,Kelsey,Conner,Salida,CO,30,F,19,80
+49,Teresa,Verburg,Summerset,SD,60,F,19,80
+49,Pamela,Geernaert,Aberdeen,SD,56,F,19,80
+84,Coleen,Sullins,Raleigh,NC,63,F,36,76
+85,Jenna,Conley,Thurmont,MD,17,F,37,72
+86,Michael,Battaglia,Center Line,MI,40,M,49,68
+86,Dorian,Lok,San Francisco,CA,42,M,49,68
+88,Amy,Coor,Cloudcroft,NM,45,F,38,64
+88,Kayla,Rodriquez,Artesia,NM,53,F,38,64
+88,Becky,Sandrik,Mcminnville,OR,43,F,38,64
+88,Melissa,Ortiz,Apollo Beach,FL,57,F,38,64
+88,Rebecca,McAneny,Lithia,FL,58,F,38,64
+93,Katie,Ennis,Jackson,GA,41,F,43,60
+93,Joanne,Studer,Crozet,VA,66,F,43,60
+93,Sara,Van, , ,46,F,43,60
+96,Ben,Bridgeman,Denton,TX,47,M,51,56
+96,Carrie,Harris,Tucson,AZ,45,F,46,56
+96,Arabelle,Higgins, , ,52,F,46,56
+96,John,Hancock,Rio Rancho,NM,38,M,51,56
+100,Brenda,Coates,Roswell,NM,55,F,48,52
+100,Glenda,Damaske,Stafford,VA,59,F,48,52
+100,Jessica,Armstrong,Morrison,CO,47,F,48,52
+100,Sabrina,Autry,Albuquerque,NM,30,F,48,52
+100,Jessica,Henn,Temple,TX,38,F,48,52
+100,Jaslyn,Bennett,Hagerman,NM,45,F,48,52
+100,Nicole,Burnham,Hopkinton,MA,53,F,48,52
+100,Eric,Brumbalow,Wagener,SC,35,M,53,52
+100,Nicole,Lapaglia,Prairieville,LA,39,F,48,52
+100,Heysha,Rodriguez,Dunwoody,GA,38,F,48,52
+100,Wendy,Conley,Thurmont,MD,54,F,48,52
+100,Rachel,Pedersen,New London,WI,36,F,48,52
+100,Barbara,Ashe,Lotus,CA,75,F,48,52
+100,Penny,Anderson,Evergreen,CO,50,F,48,52
+100,Christina,Labay,Willis,TX,37,F,48,52
+100,Rebecca,Cimino,Reston,VA,58,F,48,52
+116,Rich,Moore,Alto,NM,49,M,54,48
+116,Anne,Shubert,Smithsburg,MD,55,F,63,48
+116,Elizabeth,Bridgeman,Denton,TX,32,F,63,48
+116,Lauren,King,Jasper,GA,36,F,63,48
+116,Wesley,Moore,Alto,NM,24,M,54,48
+116,Jessie,Willett,Cloudcroft,NM,43,F,63,48
+122,Catherine,Bowers,Valdosta,GA,47,F,67,44
+122,Bobbie,Coffman,Jackson,TN,43,F,67,44
+122,Heather,Basch,Arvada,CO,50,F,67,44
+122,Matthew,Garcia,Albuquerque,NM,49,M,56,44
+122,Kellie,Hart,Mooresville,NC,54,F,67,44
+122,Paul,Butzi,Carnation,WA,65,M,56,44
+122,Larry,Swartz,Berea,OH,52,M,56,44
+129,Marc,Henn,Temple,TX,48,M,59,40
+129,Jeff,Wilson,Rocky Mount,NC,51,M,59,40
+129,Lynn,Difiore,Silver City,NM,56,F,71,40
+129,Ruthanne,Hamrick,Cedar Crest,NM,59,F,71,40
+129,Grace,Sims,Lakewood,CO,53,F,71,40
+129,Sarah,Guertin,Center Line,MI,39,F,71,40
+129,Charlotte,Matheny,Greensboro,NC,62,F,71,40
+129,Alina,Wingstad,Tucson,AZ,57,F,71,40
+129,Catie,Wilson,Rocky Mount,NC,52,F,71,40
+129,Courtney,Smith,White Rock,NM,36,F,71,40
+129,William,Hoffmann,Greensboro,NC,55,M,59,40
+129,Allison,Smith,Covington,WA,48,F,71,40
+129,Miles,Willett,Cloudcroft,NM,11,M,59,40
+129,Ashley,Russell,Las Cruces,NM,23,F,71,40
+143,Joni,Watkins,Pagosa Springs,CO,39,F,81,36
+143,Michelle,Von, , ,44,F,81,36
+143,Dawn,Koontz,Pewee Valley,KY,52,F,81,36
+143,Lisa,Anstey,Harrisburg,NC,59,F,81,36
+147,Amber,Shell,Piney Flats,TN,35,F,85,32
+147,Winnie,Lok,Mount Laguna,CA,45,F,85,32
+147,Bill,Howard,Winchester,MA,75,M,63,32
+147,Marie,Balboa,St Paul,MN,32,F,85,32
+147,Andrea,Heid,Stafford,VA,46,F,85,32
+147,Maggie,Hurley,Bel Air,MD,59,F,85,32
+147,Jack,Griffin,Centennial,CO,48,M,63,32
+147,Arlie,Burnham,Fort Collins,CO,52,M,63,32
+155,Michael,Hendricks,Clovis,NM,64,M,66,28
+155,Alexandra,Whittenburg,Albuquerque,NM,43,F,90,28
+155,Corey,Upshaw,Farmington,NM,42,F,90,28
+155,Michael,Bursum, ,AL,50,M,66,28
+155,Alex,Morton,Arden,NC,74,M,66,28
+160,Bill,Anderson,Evergreen,CO,51,M,69,20
+160,Bill,Cimino,Reston,VA,55,M,69,20
+162,Sally,Van, , ,48,F,92,16
+163,Hunter,Anderson,Evergreen,CO,15,M,71,12

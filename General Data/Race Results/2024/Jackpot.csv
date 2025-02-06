@@ -1,0 +1,48 @@
+Position,First Name,Last Name,City,State,Age,Gender,Division Place,Time
+1,Rajpaul,Pannu,Denver,CO,32,M,1,11:58:01
+2,Ashley,Paulson,St George,UT,42,F,1,14:04:40
+3,Jonah,Backstrom,San Francisco,CA,50,M,2,14:11:37
+4,Lauren,Jones,Atlanta,GA,41,F,2,14:46:22
+5,Nick,Eiben,Issaquah,WA,29,M,3,15:58:24
+6,Jeremy,Brooks,Colorado Springs,CO,51,M,4,16:04:03
+7,Sierra,Degroff,Las Vegas,NV,33,F,3,16:38:41
+8,Jake,Jackson,Loma Linda,CA,46,M,5,16:49:33
+9,Wyatt,Hockmeyer,Owasso,OK,43,M,6,19:19:20
+10,Andrew,Glaze,Redlands,CA,45,M,7,19:19:21
+11,Shawn,Cissel,Gaithersburg,MD,38,M,8,19:39:34
+12,Walter,Orwin,Chagrin Falls,OH,63,M,9,19:44:29
+13,Megan,Eckert,Santa Fe,NM,37,F,4,19:50:07
+14,Stefanie,Bernosky,Seattle,WA,41,F,5,19:57:55
+15,Amy,Mower,Seattle,WA,55,F,6,22:31:02
+16,Stan,Berry,Norman,OK,64,M,10,22:39:04
+17,Sean,Greener Jr,Las Vegas,NV,34,M,11,23:08:26
+18,Mike,Kostka,Bay City,MI,34,M,12,23:14:25
+19,David,Harris,Conway,AR,69,M,13,23:42:49
+20,Gurinder,Singh,Wilmington,DE,54,M,14,23:53:05
+21,Vinod,Kripalu,Wilmington,DE,59,M,15,24:13:31
+22,Justin,Kerr,Las Vegas,NV,44,M,16,26:28:02
+23,Mandy,Miller,Steamboat Springs,CO,62,F,7,26:41:44
+24,Ilene,Bloom,Denver,CO,52,F,8,26:43:14
+25,Eric,Clifton,Winchester,CA,65,M,17,28:19:52
+26,Jill,Hudson,Seattle,WA,62,F,9,28:51:56
+27,Sharlet,Gilbert,Richmond,CA,72,F,10,29:29:04
+28,Marika,Chunyk,Las Vegas,NV,44,F,11,29:42:43
+29,Wally,Hesseltine,Lafayette,CA,80,M,18,31:14:13
+30,Josh,Conner,St. George,UT,40,M,19,31:42:40
+31,Martin,Fritzhand,Cincinnati,OH,80,M,20,32:44:23
+32,David,Blaylock,Draper,UT,81,M,21,35:23:32
+33,Tony,Nguyen,Antioch,CA,50,M,22,36:52:15
+34,Ian,Maddieson,Albuquerque,NM,81,M,23,37:45:23
+35,Jim,Barnes,Gadsden,AL,85,M,24,39:27:52
+36,Todd,Leigh,Reno,NV,81,M,25,41:25:09
+,,,,,,,,
+0,Heather,Huggins,Monrovia,CA,50,F,0,0
+0,Deric,Anthony,San Marcos,CA,27,M,0,0
+0,Charles,Catterall,Klamath Falls,OR,55,M,0,0
+0,Becca,Lindgren,Truckee,CA,35,F,0,0
+0,Shad,Birkholz,Bozeman,MT,47,M,0,0
+0,Glenn,Teubner,Jefferson City,MO,28,M,0,0
+0,Dan,McHugh,Snowmass Village,CO,53,M,0,0
+0,Ed,Rousseau,Park Rapids,MN,84,M,0,0
+0,Gary,Hennings,Danville,CA,72,M,0,0
+0,Jimmie,Strahorn,Camp Verde,AZ,30,M,0,0

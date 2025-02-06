@@ -1,0 +1,94 @@
+Position,First Name,Last Name,City,State,Age,Gender,Division Place,Time
+1,Richard,Lockwood,Seattle,WA,37,M,1,17:24:42
+2,Adam,Loomis,Kamas,UT,32,M,2,18:12:17
+3,Christopher,Hammes,Durango,CO,32,M,3,18:56:35
+4,Tyler,Green,Portland,OR,40,M,4,19:09:46
+5,Nicholas,Lightbody,Victoria,BC,32,M,5,19:34:08
+6,Aaron,Slabach,Blacksburg,VA,28,M,6,19:34:55
+7,Clint,Anders,Fort Collins,CO,34,M,7,19:47:40
+8,Emilie,Mann,Fernie,BC,31,F,1,19:48:06
+9,Leah,Yingling,Salt Lake City,UT,33,F,2,20:19:25
+10,Zach,Eagle,Indianapolis,IN,29,M,8,20:48:26
+11,Matthew,Bigman,Portland,OR,31,M,9,21:04:03
+12,Barrett,Gray,Issaquah,WA,26,F,3,21:41:29
+13,Robert,Irr,Issaquah,WA,37,M,10,21:45:21
+14,Nicole,Laughton,Edmond,OK,37,F,4,21:52:56
+15,Zachary,Russell,Carbondale,CO,31,M,11,22:07:35
+16,Stacey,Marion,North Bend,WA,35,F,5,22:09:59
+17,Sandi,Nypaver,Poncha Springs,CO,36,F,6,22:12:26
+18,Noah,Dusseau,Seattle,WA,24,M,12,22:26:16
+19,Michele,Yates,conifer,CO,42,F,7,22:29:47
+20,Don,Reichelt,Fairplay,CO,38,M,13,23:45:46
+21,Jordan,Chang,Blacksburg,VA,37,M,14,24:02:44
+22,Cody,Robinson,Salt Lake City,UT,31,M,15,24:03:54
+23,Braden,Roggow,Colora,CO,31,M,16,24:12:19
+24,Timothy,Fahy,Longmont,CO,53,M,17,24:41:32
+25,Joe,Huyett,FORT COLLINS,CO,32,M,18,24:46:10
+26,Brian,Culmo,Salt Lake City,UT,32,M,19,25:07:32
+27,Kevin,Walker,Saint Helena,CA,30,M,20,25:07:49
+28,Peter,Schlachte,Washington,DC,27,M,21,25:13:30
+29,Jack,Cartwright,Mill Valley,CA,33,M,22,25:29:21
+30,Owen,Hope,North Vancouver,BC,36,M,23,25:33:28
+31,Charles,Parks,Laramie,WY,39,M,24,25:41:06
+32,Blake,Colton,Cedar rapids,IA,34,M,25,26:09:05
+33,Eva,Gifford,Rossland,BC,32,F,8,26:10:26
+34,Leah,Ling,Salt Lake City,UT,31,F,9,26:12:53
+35,Tomonori,Onitsuka,Miyazaki-shi, ,44,M,26,26:29:00
+36,Brenden,Spetzler,Broomfield,CO,33,M,27,26:30:43
+37,Megan,Flanagan,Lakewood,CO,29,F,10,26:34:14
+38,Megan,Eckert,Santa Fe,NM,38,F,11,26:36:23
+39,Justine,Hull,Rossland,BC,26,F,12,26:45:10
+40,Kevin,Porter,Colorado Springs,CO,49,M,28,26:52:05
+41,Michael,Jones,Richmond,VA,33,M,29,27:27:43
+42,Roger,Hull,Rossland,BC,27,M,30,27:46:56
+43,Philip,Howland,Cottonwood Heights,UT,52,M,31,27:51:05
+44,Nathaniel,Galef-Brown,Colorado Springs,CO,35,M,32,28:00:34
+45,David,Golden,Durango,CO,32,M,33,28:09:19
+46,Andrew,Hoffman,Morrison,CO,48,M,34,28:31:10
+47,Brian,Thorn,Manchester,IA,40,M,35,28:31:57
+48,Drew,Maraglia,Boulder,CO,37,M,36,28:38:05
+49,Trevor,Turner,rollinsville,CO,31,M,37,28:44:18
+50,Brennen,Hersman,Lynden,WA,35,M,38,29:01:46
+51,Becca,Frei,Davis,CA,29,F,13,29:27:16
+52,Leah,Brown,Portland,OR,37,F,14,30:00:15
+,,,,,,,,
+0,Lewis,Price,Denver,CO,33,M,0,0
+0,Ashley,Paulson,St George,UT,43,F,0,0
+0,Kyle,Pietari,Golden,CO,38,M,0,0
+0,Graham,Shalvoy,Castle Rock,CO,42,M,0,0
+0,Carlos,Ruibal,Colorado Springs,CO,37,M,0,0
+0,Jesse,Rich,Murray,UT,34,M,0,0
+0,Sean,Van Horn,Carbondale,CO,38,M,0,0
+0,Heidi,Warfel,Carbondale,CO,39,F,0,0
+0,Clare,Gallagher,Boulder,CO,32,F,0,0
+0,Amber,Febbraro,Boulder,CO,35,F,0,0
+0,Johna,Iannitto,Dillon,CO,35,F,0,0
+0,Becca,Bramley,Durango,CO,28,F,0,0
+0,Steven,Cornelius,Valparaiso,FL,44,M,0,0
+0,Megan,Dehaan,Belgrade,MT,38,F,0,0
+0,Rachel,Lemcke,Colorado Springs,CO,29,F,0,0
+0,Erik,Sandstrom,Littleton,CO,36,M,0,0
+0,Gina,Milner,Tahoe City,CA,52,F,0,0
+0,Tim,Nooney,Arden,NC,30,M,0,0
+0,Carl,Koopmans,Seattle,WA,35,M,0,0
+0,Emily,Caldwell,Boulder,CO,30,F,0,0
+0,Steve,Morris,Boulder,CO,32,M,0,0
+0,Andrea,Stofko,Salt Lake Cty,UT,29,F,0,0
+0,Michael,Perdue,Fort Collins,CO,30,M,0,0
+0,Josiah,Waggoner,Larkspur,CO,37,M,0,0
+0,Joey,Defeo,Flagstaff,AZ,26,M,0,0
+0,Shea,Aquilano,Boulder,CO,23,F,0,0
+0,Cristina,Regalado,SALT LAKE CITY,UT,34,F,0,0
+0,Regan,Sikes,Colorado Springs,CO,26,F,0,0
+0,Adam,Priest,Denver,CO,35,M,0,0
+0,Jenna,Bensko,Boulder,CO,27,F,0,0
+0,Michael,Mitchell,Denver,CO,25,M,0,0
+0,Ryan,Rhodes,Steamboat springs,CO,34,M,0,0
+0,Galen,Hadfield,Parker,CO,35,M,0,0
+0,Benjamin,King,Honey brook,PA,26,M,0,0
+0,Miguel,Medina,Durango,CO,36,M,0,0
+0,Whit,Blair,Grand Junction,CO,26,M,0,0
+0,Sam,Lohse,Salt Lake City,UT,29,M,0,0
+0,Kevin,Hadfield,Carbondale,CO,38,M,0,0
+0,Lucas,Onan,Teton Village,WY,34,M,0,0
+0,Trevor,Burgman,Colorado springs,CO,33,M,0,0
