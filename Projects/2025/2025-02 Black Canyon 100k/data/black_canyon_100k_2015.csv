@@ -1,0 +1,90 @@
+Position,First Name,Last Name,City,State,Age,Gender,Division Place,Time
+1,Ford,Smith,Austin,TX,18,M,1,8:31:48
+2,Dave,Mackey,Boulder,CO,45,M,2,8:33:27
+3,Ryan,Ghelfi,Flagstaff,AZ,26,M,3,8:40:14
+4,Catlow,Shipek,Tucson,AZ,36,M,4,8:56:33
+5,Michael,Versteeg,Prescott,AZ,29,M,5,9:25:29
+6,Michael,Carson,Tempe,AZ,28,M,6,9:35:17
+7,Chris,Price,Pasadena,CA,34,M,7,9:37:39
+8,Jacob,Singleton,Glendora,CA,26,M,8,9:46:32
+9,Jacob,Puzey,Flagstaff,AZ,32,M,9,10:04:42
+10,Caroline,Boller,Temecula,CA,40,F,1,10:06:31
+11,Angela,Shartel,San Diego,CA,40,F,2,10:55:59
+12,Sion,Lupowitz,Tucson,AZ,35,M,10,11:01:50
+13,Mark,Richtman,Novato,CA,59,M,11,11:02:38
+14,Taylor,Spike,Eugene,OR,37,M,12,11:03:38
+15,Justin,Faul,Flagstaff,AZ,34,M,13,11:33:58
+16,Julio,Palma,Phoenix,AZ,33,M,14,11:48:22
+17,Gina,Lucrezi,Boulder,CO,31,F,3,11:51:21
+18,Katie,Grossman,Los Angeles,CA,31,F,4,11:54:55
+19,Jesse,Alexander,Camp Verde,AZ,48,M,15,11:57:15
+20,Jeremy,Pager,Scottsdale,AZ,31,M,16,12:00:22
+21,Scott,Mills,Oceanside,CA,63,M,17,12:10:12
+22,Diego,Espinosa,Phoenix,AZ,53,M,18,12:35:14
+23,Nick,Affleck,Chico,CA,34,M,19,12:45:08
+24,Edward,Garcia,Paradise Valley,AZ,47,M,20,12:46:42
+25,Annie,Weiss,Milwaukee,WI,30,F,5,12:48:55
+26,Katrin,Silva,Las Vegas,NM,44,F,6,12:54:11
+27,Nate,Sager,Gilbert,AZ,33,M,21,12:56:28
+28,Tonya,Littlehales,Bend,OR,42,F,7,13:00:56
+29,Julius,Drelick,Scottsdale,AZ,48,M,22,13:01:42
+30,Laura,Reyburn,Phoenix,AZ,40,F,8,13:02:40
+31,Danny,Speros,Phoenix,AZ,38,M,23,13:06:31
+32,John,Loftus,Laguna Beach,CA,57,M,24,13:07:41
+33,Adam,Livingston,Phoenix,AZ,33,M,25,13:24:42
+34,Chris,McElveny,Albuquerque,NM,42,M,26,13:29:58
+35,Marc,Thomson,Glendale,AZ,42,M,27,13:34:55
+36,Scott,Gold,Wilmette,IL,28,M,28,13:37:56
+37,Neela,D'Souza,Pickering,ON,37,F,9,13:38:08
+38,Holly,Hovious,Phoenix,AZ,38,F,10,14:01:18
+39,Masafumi,Hamada,San Jose,CA,48,M,29,14:02:10
+40,Jeffrey,Dodd,Walnut Creek,CA,52,M,30,14:04:31
+41,Erik,Wortman,Skagway,AK,31,M,31,14:06:51
+42,Greg,Grady,San Tan Valley,AZ,35,M,32,14:07:23
+43,Rosendo,Caballero,Phoenix,AZ,39,M,33,14:16:09
+44,Leslie,Howlett,Lehi,UT,31,F,11,14:19:19
+45,Denise,Williams,Folsom,CA,53,F,12,14:25:05
+46,Rob,Gattis,Ladera Ranch,CA,43,M,34,14:29:24
+47,Geoffrey,Cordner,Los Angeles,CA,54,M,35,14:35:35
+48,Scott,Legere,Nelson,BC,43,M,36,14:37:18
+48,Lisa,Leblanc,Nelson,BC,39,F,13,14:37:18
+50,Steven,Peterson,Lake Elsinore,CA,46,M,37,14:38:45
+51,Paul,Rondeau,Phoenix,AZ,56,M,38,14:41:20
+52,Todd,Holmes,Prescott,AZ,58,M,39,14:41:27
+53,Harper,Johnson,Flagstaff,AZ,50,M,40,14:46:50
+54,Lisa,Buzzeo,Scottsdale,AZ,33,F,14,14:54:04
+55,James,Akers,Mesa,AZ,43,M,41,14:56:22
+56,Kate,Cortis,Durango,CO,36,F,15,14:59:48
+57,Rachael,Stclaire,Denver,CO,56,F,16,14:59:58
+58,Tyler,Cowley,Chandler,AZ,32,M,42,15:04:25
+59,Carol,Manwaring,Toquerville,UT,51,F,17,15:09:49
+60,Mikey,Sklar,Truth Or Consequences,NM,37,M,43,15:15:46
+61,Neil,Blake,Rio Rancho,NM,49,M,44,15:16:17
+62,Eugene,Smith,Las Cruces,NM,31,M,45,15:18:31
+63,John,Scott,Lafayette,CO,49,M,46,15:24:04
+64,Sean,Randle,Fairbanks,AK,47,M,47,15:42:56
+65,Dean,Hansen,Prescott,AZ,59,M,48,15:43:30
+65,Jeffrey,Jordan,Hendersonville,TN,52,M,48,15:43:30
+67,Jon,Christley,Phoenix,AZ,44,M,50,15:51:26
+68,Mike,Melchiors,Dewey,AZ,54,M,51,15:57:30
+69,Jason,Freed,Salt Lake City,UT,43,M,52,15:59:50
+70,Erin,McKnight,Scottsdale,AZ,37,F,18,16:02:03
+71,Ryan,Launder,Landers,CA,38,M,53,16:06:24
+72,Andrea,Feucht,Burbank,CA,40,F,19,16:07:22
+73,Susan,Donnelly,Oak Ridge,TN,51,F,20,16:08:42
+74,Holly,Miller,Scottsdale,AZ,40,F,21,16:09:26
+75,Matt,Pearcy,Cottonwood,AZ,40,M,54,16:21:01
+76,Brian,Pilgrim,Albuquerque,NM,48,M,55,16:46:28
+77,Christopher,Baca,Sandia Park,NM,42,M,56,16:46:29
+78,John,Vanderpot,La Mesa,CA,51,M,57,16:58:45
+79,Gregory,Unger,Scottsdale,AZ,41,M,58,17:02:09
+80,Cristian,Rios,Phoenix,AZ,22,M,59,17:10:21
+81,Alex,Flores,Goodyear,AZ,33,M,60,17:10:24
+82,Marianna,Inslee,Fort Collins,CO,49,F,22,17:11:17
+83,Andrea,Carollo,Royal Oak,MI,36,F,23,17:19:48
+84,Aaron,Martin,Albuquerque,NM,35,M,61,17:40:28
+85,Ernest,Garcia,Ignacio,CO,34,M,62,17:41:07
+86,Jim,Leinbach,Mesa,AZ,60,M,63,17:41:54
+87,Richard,Allen,Tucson,AZ,35,M,64,17:42:11
+88,Samantha,Waggett,Castle Rock,CO,49,F,24,17:44:29
+88,Bill,Nictakis,Paradise Valley,AZ,54,M,65,17:44:29

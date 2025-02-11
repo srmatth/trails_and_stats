@@ -1,0 +1,80 @@
+Position,First Name,Last Name,City,State,Age,Gender,Division Place,Time
+1,Michael,Carson,Tempe,AZ,27,M,1,10:07:18
+2,Michael,Versteeg,Prescott,AZ,28,M,2,10:28:44
+3,Justin,Faul,Flagstaff,AZ,33,M,3,10:49:24
+4,Brian,Tinder,Flagstaff,AZ,34,M,4,10:55:16
+5,Andrew,Heard,Phoenix,AZ,47,M,5,11:08:56
+6,Jay,Danek,Scottsdale,AZ,37,M,6,11:36:09
+7,Ken,Ellis,Missoula,MT,57,M,7,12:02:03
+8,Adrian,Stanciu,Manitou Springs,CO,44,M,8,12:09:27
+9,Katrin,Silva,Las Vegas,NM,43,F,1,12:09:38
+10,Eric,Truhe,Lafayette,CO,39,M,9,12:54:37
+11,Lindsay,Scheiwiller,Sedona,AZ,31,F,2,12:54:39
+12,Stephen,Stromberg,Phoenix,AZ,39,M,10,12:56:44
+13,David,Bloom,Phoenix,AZ,32,M,11,12:59:02
+14,Morgan,Goff,San Diego,CA,51,M,12,13:18:25
+15,Danny,Speros,Phoenix,AZ,37,M,13,13:27:48
+16,Greg,Grady,San Tan Valley,AZ,34,M,14,13:53:28
+17,Jesse,Alexander,Camp Verde,AZ,47,M,15,13:56:43
+18,Michelle,Patuto,Glendale,AZ,41,F,3,14:07:04
+19,Todd,Schultz,Flagstaff,AZ,45,M,16,14:07:42
+20,Bryan,Boots,Boulder,CO,38,M,17,14:13:08
+21,Mel,Branta,Scottsdale,AZ,38,F,4,14:25:30
+22,Neil,Blake,Rio Rancho,NM,48,M,18,14:45:51
+23,Chad,Palmer,Scottsdale,AZ,45,M,19,14:47:43
+24,John,Vaupel,Fountain Hills,AZ,51,M,20,14:53:50
+25,Dean,Hansen,Prescott,AZ,58,M,21,14:56:06
+26,Matthew,Imberman,Brooklyn,NY,35,M,22,14:57:51
+27,Amy,Chavez,Santa Monica,CA,49,F,5,15:04:30
+28,Dave,Binder,Tempe,AZ,45,M,23,15:15:03
+29,Chris,Haines,Trabuco Canyon,CA,55,M,24,15:15:07
+30,Megan,Sweeney,Leadville,CO,33,F,6,15:17:23
+31,Eugene,Smith,Las Cruces,NM,30,M,25,15:22:31
+32,Cathlin,Upton,Whiting,IN,36,F,7,15:34:35
+33,Ethan,Matyas,Oak Park,IL,37,M,26,15:34:36
+34,Patrick,Olson,Boulder,CO,43,M,27,15:41:22
+34,Jennifer,Thompson,Boulder,CO,39,F,8,15:41:22
+36,Jason,Bousliman,Albuquerque,NM,39,M,28,15:43:59
+37,Rachael,Stclaire,Denver,CO,55,F,9,15:51:44
+38,Mike,Melchiors,Dewey,AZ,53,M,29,15:55:19
+39,Donnamarie,Provenzano,Aurora,CO,38,F,10,15:56:56
+40,Jason,Romero,Denver,CO,43,M,30,15:56:58
+41,Nakai,Lake,Prescott Valley,AZ,15,M,31,15:57:01
+42,Doug,Lemaster,Ann Arbor,MI,49,M,32,15:57:02
+,,,,,,,,
+0,Sean,Meissner,Flagstaff,AZ,40,M,0,0
+0,Chris,Harrison,Paradise Valley,AZ,50,M,0,0
+0,Anthony,Culpepper,Silverton,CO,33,M,0,0
+0,Brian,Pilgrim,Albuquerque,NM,47,M,0,0
+0,Herb,Kieklak,Gainsesville,FL,54,M,0,0
+0,John,Hockett,Sierra Madre,CA,46,M,0,0
+0,Elizabeth,Everly,Phoenix,AZ,44,F,0,0
+0,Margaret,Dehesse,Phoenix,AZ,57,F,0,0
+0,Catherine,Pinkston,Clarendon Hills,IL,29,F,0,0
+0,Geoffrey,Cordner,Los Angeles,CA,53,M,0,0
+0,Ryan,Launder,Landers,CA,37,M,0,0
+0,Stephen,Sayers,Queen Creek,AZ,53,M,0,0
+0,Trent,Collicott,Surprise,AZ,37,M,0,0
+0,John,Scott,Littleton,CO,48,M,0,0
+0,Robert,Atteberry,Organ,NM,54,M,0,0
+0,Matt,Nelson,Tucson,AZ,39,M,0,0
+0,Justin,Atteberry,Las Cruces,NM,23,M,0,0
+0,Kristin,Steele,Surprise,AZ,35,F,0,0
+0,Nick,Noonan,Phoenix,AZ,44,M,0,0
+0,Brent,Waters,Mesa,AZ,27,M,0,0
+0,Jeffrey,Dodd,Walnut Creek,CA,51,M,0,0
+0,Craig,Haraga,Scottsdale,AZ,40,M,0,0
+0,Thomas,O'Reilly,Anthem,AZ,44,M,0,0
+0,Devin,Barry,Peoria,AZ,29,M,0,0
+0,Risa,Reid,Encino,CA,44,F,0,0
+0,Jeff,Jones,Phoenix,AZ,51,M,0,0
+0,Scout,Phillips,Phoenix,AZ,35,F,0,0
+,,,,,,,,
+0,Tammy,Massie,Gaithersburg,MD,42,F,0,0
+0,Andrew,Singer,Owings Mills,MD,48,M,0,0
+0,Kalib,Wilkinson,Flagstaff,AZ,29,M,0,0
+0,Brent,Mekosh,Scottsdale,AZ,40,M,0,0
+0,Stu,Clark,Nashville,TN,44,M,0,0
+0,Tom,Wilson,Flagstaff,AZ,32,M,0,0
+0,Jason,Searfoss,Boulder,CO,41,M,0,0
+0,Honey,Albrecht,Glendale,AZ,54,F,0,0:00:00

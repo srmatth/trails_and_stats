@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="data_viz_quadrants.svg"
+   inkscape:export-filename="../data_viz_quadrants.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.68"
+     inkscape:cx="393.38235"
+     inkscape:cy="436.02941"
+     inkscape:window-width="1408"
+     inkscape:window-height="756"
+     inkscape:window-x="375"
+     inkscape:window-y="212"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.565675;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="M 100,5.1344805 V 198.36735"
+       id="path1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.274972;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="M 196.60761,99.498395 5.3378606,99.723416"
+       id="path2"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Rockwell;-inkscape-font-specification:'Rockwell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="179.37193"
+       y="104.66605"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Rockwell;-inkscape-font-specification:'Rockwell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="179.37193"
+         y="104.66605">High</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Rockwell;-inkscape-font-specification:'Rockwell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="86.381287"
+       y="11.798395"
+       id="text2-5"><tspan
+         sodipodi:role="line"
+         id="tspan2-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Rockwell;-inkscape-font-specification:'Rockwell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="86.381287"
+         y="11.798395">High</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:Rockwell;-inkscape-font-specification:'Rockwell, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="15.952818"
+       y="98.829659"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="15.952818"
+         y="98.829659">Data Transmission</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Rockwell;-inkscape-font-specification:'Rockwell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="110.92245"
+       y="147.02541"
+       id="text3-3"><tspan
+         sodipodi:role="line"
+         id="tspan3-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Rockwell;-inkscape-font-specification:'Rockwell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="110.92245"
+         y="147.02541">Most Plots in a </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Rockwell;-inkscape-font-specification:'Rockwell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="110.92245"
+         y="159.37263"
+         id="tspan7">PhD Dissertation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:Rockwell;-inkscape-font-specification:'Rockwell, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="100.96915"
+       y="27.480436"
+       id="text3-6"><tspan
+         sodipodi:role="line"
+         id="tspan3-3"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="100.96915"
+         y="27.480436">Beauty</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.180851;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="M 5.6862747e-7,100.4357 6.6145826,96.495098 v 8.444142 z"
+       id="path5" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.180851;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 100.11233,200.08377 -3.940588,-6.61458 h 8.444148 z"
+       id="path5-6" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.180851;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 199.71372,99.862504 -6.61458,3.940596 v -8.444144 z"
+       id="path5-1" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.180851;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 100.36401,0.1210362 3.9406,6.61458 h -8.444153 z"
+       id="path5-7" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Rockwell;-inkscape-font-specification:'Rockwell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="8.8583746"
+       y="105.02511"
+       id="text2-2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Rockwell;-inkscape-font-specification:'Rockwell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="8.8583746"
+         y="105.02511"
+         id="tspan6">Low</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Rockwell;-inkscape-font-specification:'Rockwell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="87.559761"
+       y="191.17712"
+       id="text2-2-8"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Rockwell;-inkscape-font-specification:'Rockwell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="87.559761"
+         y="191.17712"
+         id="tspan6-5">Low</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Rockwell;-inkscape-font-specification:'Rockwell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="21.320967"
+       y="52.265186"
+       id="text3-3-8"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:Rockwell;-inkscape-font-specification:'Rockwell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="21.320967"
+         y="52.265186"
+         id="tspan7-7">Infographics</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777px;font-family:Rockwell;-inkscape-font-specification:'Rockwell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="18.287376"
+       y="151.74632"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="stroke-width:0.5"
+         x="18.287376"
+         y="151.74632">Excel Defaults</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777px;font-family:Rockwell;-inkscape-font-specification:'Rockwell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       x="107.3897"
+       y="51.749386"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="stroke-width:0.5"
+         x="107.3897"
+         y="51.749386">Data Visualization</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.5"
+         x="107.3897"
+         y="64.096596"
+         id="tspan10">Nirvana</tspan></text>
+  </g>
+</svg>
